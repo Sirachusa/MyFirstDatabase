@@ -1,0 +1,1007 @@
+﻿PartnerID;PartnerFullName;Lastname;FirstName;BirthDate;Gender;PostalCode;City;Address;isCustomer;isSupplier;isShipper;Phone;Email
+;Ódor Szilárda;Ódor;Szilárda;2004.06.22;;1141;Budapest;Ugró Gyula sor 11 8/50;1;0;0;+36(30)334-72-21;odor.szilarda@gmail.com
+;Oravecz Konor;Oravecz;Konor;2004.06.16;;1074;Budapest;Krisztina körút 23 fsz/1;1;0;0;+36(30)233-63-67;oravecz.konor@zoho.com
+;Sas Mirea;Sas;Mirea;2004.04.10;;3529;Miskolc;Szabadság  tér 26/2 3/10;1;0;0;+36(70)220-62-30;sas.mirea@gmail.com
+;Lantos Zlatan;Lantos;Zlatan;2004.04.07;;4900;Fehérgyarmat;Berzsenyi Dániel utca 1;1;0;0;+36(70)295-35-40;lantos.zlatan@gmail.com
+;Agárdi Bánk;Agárdi;Bánk;2004.03.18;;9400;Sopron;Muskátli utca 5;1;0;0;+36(30)490-21-42;agardi.bank@citromail.hu
+;Ötvös Paulina;Ötvös;Paulina;2004.01.04;;2737;Ceglédbercel;Budai Nagy Antal utca 2 2/4;1;0;0;+36(30)689-82-47;otvos.paulina@gmail.com
+;Maczkó Márkus;Maczkó;Márkus;2003.12.10;;1047;Budapest;Agyag  utca 10;1;0;0;+36(30)365-36-44;maczko.markus@zoho.com
+;Polák Arienn;Polák;Arienn;2003.12.04;;3188;Ludányhalászi;Sodronyos  utca 42;1;0;0;+36(70)537-28-76;polak.arienn@gmail.com
+;Bárdos Ika;Bárdos;Ika;2003.09.22;;5400;Mezőtúr;Göncöl utca 41/A 8 lcs. Fsz./2;1;0;0;+36(70)201-45-23;bardos.ika@freemail.hu
+;Góman Kerecsen;Góman;Kerecsen;2003.09.10;;8291;Nagyvázsony;Boncsok utca 2b;1;0;0;+36(70)739-57-89;goman.kerecsen@gmail.com
+;Tarjáni Hiacinta;Tarjáni;Hiacinta;2003.08.25;;4031;Debrecen;Költő Nagy Imre utca 76;1;0;0;+36(70)320-95-37;tarjani.hiacinta@yandex.com
+;Kolozsvári Rella;Kolozsvári;Rella;2003.08.21;;6724;Szeged;Beremend utca 32;1;0;0;+36(30)289-63-95;kolozsvari.rella@yahoo.com
+;Miskolczi Makár;Miskolczi;Makár;2003.08.08;;3900;Szerencs;Blaha Lujza utca 9/2;1;0;0;+36(70)624-55-94;miskolczi.makar@gmail.com
+;Rózsa Lennon;Rózsa;Lennon;2003.07.18;;8996;Zalacséb;Géza fejedelem utca 24;1;0;0;+36(30)683-12-87;rozsa.lennon@protonmail.com
+;Dobi Adelmár;Dobi;Adelmár;2003.06.25;;6758;Röszke;Határ  út  11 4/12;1;0;0;+36(30)388-44-54;dobi.adelmar@gmx.com
+;Oláh Berfin;Oláh;Berfin;2003.06.20;;8000;Székesfehérvár;Vasvári Pál utca 13 3/14.;1;0;0;+36(20)809-41-12;olah.berfin@gmail.com
+;Vida Borisz;Vida;Borisz;2003.06.10;;9029;Győr Sárás puszta;József krt. 50. 3/12.;1;0;0;+36(30)910-98-12;vida.borisz@gmail.com
+;Ravasz Bátor;Ravasz;Bátor;2003.06.07;;1066;Budapest;Kossuth Lajos  utca 28. 8./33.;1;0;0;+36(70)179-59-80;ravasz.bator@zoho.com
+;Olajos Joana;Olajos;Joana;2003.05.27;;2750;Nagykőrös;II.Rákóczi Ferenc  út 144/a 1/2;1;0;0;+36(20)889-19-59;olajos.joana@zoho.com
+;Kató Zebadiás;Kató;Zebadiás;2003.05.07;;4024;Debrecen;Gárdonyi utca utca 55;1;0;0;+36(20)851-42-30;kato.zebadias@gmail.com
+;Csatlós Leopoldina;Csatlós;Leopoldina;2003.04.24;;1114;Budapest;dr. Boros I. utca 2 1/5;1;0;0;+36(20)108-79-41;csatlos.leopoldina@freemail.hu
+;Ódor Zsülien;Ódor;Zsülien;2003.03.25;;6000;Kecskemét;Ady Endre  utca  9 4/17;1;0;0;+36(70)700-95-77;odor.zsulien@outlook.com
+;Falusi Ivonn;Falusi;Ivonn;2003.03.04;;7041;Vajta;Derkovits Gyula utca 48 fszt/1;1;0;0;+36(70)392-93-21;falusi.ivonn@gmail.com
+;Bacsa Livianna;Bacsa;Livianna;2003.01.22;;5666;Medgyesegyháza;Széchenyi István utca 51;1;0;0;+36(30)621-19-28;bacsa.livianna@outlook.com
+;Burai Vilibald;Burai;Vilibald;2003.01.19;;2310;Szigetszentmiklós;Hunyadi utca 25 fsz./2;1;0;0;+36(30)260-33-97;burai.vilibald@aim.com
+;Berki Allegra;Berki;Allegra;2003.01.06;;3700;Kazincbarcika;Jász  utca 27;1;0;0;+36(70)536-12-54;berki.allegra@aol.com
+;Zilahi Arikán;Zilahi;Arikán;2003.01.03;;9011;Győr;Zöldmező utca 8.;1;0;0;+36(20)322-71-20;zilahi.arikan@icloud.com
+;Lajkó Damajanti;Lajkó;Damajanti;2002.12.21;;8000;Székesfehérvár;Bem József utca 19 A lcs. 3/10;1;0;0;+36(30)194-55-26;lajko.damajanti@freemail.hu
+;Román Tonuzóba;Román;Tonuzóba;2002.12.01;;8175;Balatonfűzfő;Testvérvárosok útja 4 6/1;1;0;0;+36(20)831-54-85;roman.tonuzoba@aim.com
+;Jánosi Polett;Jánosi;Polett;2002.11.26;;3950;Sárospatak;Prielle Kornelia  utca 10 1/3;1;0;0;+36(30)422-75-27;janosi.polett@freemail.hu
+;Pap Mária;Pap;Mária;2002.11.18;;3422;Bükkábrány;vasút utca 6.;1;0;0;+36(30)800-46-67;pap.maria@gmail.com
+;Budai Ruti;Budai;Ruti;2002.11.04;;2040;Budaörs;Szabadkai Szőlő hrsz. 4587;1;0;0;+36(30)785-29-66;budai.ruti@gmail.com
+;Almási Franni;Almási;Franni;2002.09.30;;3100;Salgótarján;Agyagfejtő utca 8. 4/17.;1;0;0;+36(30)460-11-28;almasi.franni@outlook.com
+;Biró Gerda;Biró;Gerda;2002.09.20;;1082;Budapest;István utca 27;1;0;0;+36(30)962-93-57;biro.gerda@gmail.com
+;Gerhardt Szimin;Gerhardt;Szimin;2002.08.21;;5530;Vésztő;Kakukk utca 5;1;0;0;+36(30)653-31-79;gerhardt.szimin@gmail.com
+;Somogyvári Ánizs;Somogyvári;Ánizs;2002.08.20;;1211;Budapest;Ködös  utca 24;1;0;0;+36(70)566-92-38;somogyvari.anizs@gmail.com
+;Teleki Zsella;Teleki;Zsella;2002.07.09;;4032;Debrecen;Kossuth út 103;1;0;0;+36(70)605-42-89;teleki.zsella@gmail.com
+;Benkő Lara;Benkő;Lara;2002.07.03;;4700;Mátészalka;Csárdaréti út 13.;1;0;0;+36(20)728-52-96;benko.lara@gmail.com
+;Lévai Diána;Lévai;Diána;2002.06.04;;6320;Solt;Szőlőhegy utca 55/A/2. lakás;1;0;0;+36(30)587-25-94;levai.diana@gmail.com
+;Olasz Rozalinda;Olasz;Rozalinda;2002.06.01;;4220;Hajdúböszörmény;Fő út 158;1;0;0;+36(30)628-23-37;olasz.rozalinda@gmail.com
+;Monostori Béda;Monostori;Béda;2002.05.19;;7951;Gerde;Pálós utca 1 7/30;1;0;0;+36(30)869-36-74;monostori.beda@freemail.hu
+;Lénárt Hippia;Lénárt;Hippia;2002.05.09;;3104;Salgótarján;Sándor utca 65;1;0;0;+36(20)190-11-77;lenart.hippia@gmx.com
+;Dankó Johanka;Dankó;Johanka;2002.05.02;;7761;Kozármisleny;Kossuth utca jan.49 3/2. (kcs.: 14);1;0;0;+36(70)926-65-51;danko.johanka@freemail.hu
+;Lőrinczi Csaga;Lőrinczi;Csaga;2002.04.17;;6050;Lajosmizse;Alföldi  utca 75;1;0;0;+36(70)239-21-32;lorinczi.csaga@aol.com
+;László Ria;László;Ria;2002.03.26;;8556;Pápateszér;Nyár utca 15/a;1;0;0;+36(30)660-59-87;laszlo.ria@protonmail.com
+;Elekes Verka;Elekes;Verka;2002.01.02;;5630;Békés;Móra Ferenc utca 10;1;0;0;+36(30)338-50-25;elekes.verka@gmail.com
+;Bús Lujzi;Bús;Lujzi;2001.12.21;;6500;Baja;Darányi Ignác utca 109;1;0;0;+36(70)847-41-28;bus.lujzi@protonmail.com
+;Kozák Apaj;Kozák;Apaj;2001.12.03;;1111;Budapest;Városkapu krt 11;1;0;0;+36(70)496-59-52;kozak.apaj@icloud.com
+;Fógel Lucián;Fógel;Lucián;2001.10.08;;2200;Monor;Aradi utca 13. 1/7.;1;0;0;+36(30)555-17-77;fogel.lucian@gmail.com
+;Csányi Evelin;Csányi;Evelin;2001.10.04;;1135;Budapest;Szabadság Tér 84.III.lph fszt./3.;1;0;0;+36(30)241-16-38;csanyi.evelin@gmx.us
+;Róka Kelvin;Róka;Kelvin;2001.09.23;;6900;Makó;Fő  utca 85;1;0;0;+36(70)817-86-51;roka.kelvin@yandex.com
+;Nádasdi Nika;Nádasdi;Nika;2001.08.19;;7630;Pécs;Liszt Ferenc  utca 15/A 3./11;1;0;0;+36(70)367-83-79;nadasdi.nika@gmail.com
+;Büki Édua;Büki;Édua;2001.05.08;;7561;Nagybajom;Huszár Gál utca 51;1;0;0;+36(30)344-28-56;buki.edua@gmx.com
+;Sápi Szébra;Sápi;Szébra;2001.04.23;;2200;Monor;Dózsa György út 6 fsz./13;1;0;0;+36(20)635-64-46;sapi.szebra@citromail.hu
+;Godó Hermina;Godó;Hermina;2001.04.23;;2600;Vác;Klauzál tér 7 2/3\a;1;0;0;+36(20)925-41-42;godo.hermina@gmail.com
+;Nyikos Lorabell;Nyikos;Lorabell;2001.03.29;;2085;Pilisvörösvár;Vén József  utca 50;1;0;0;+36(70)773-51-44;nyikos.lorabell@gmx.us
+;Császár Uros;Császár;Uros;2001.03.03;;6500;Baja;Gádor út 84;1;0;0;+36(70)767-39-21;csaszar.uros@gmail.com
+;Békési Andon;Békési;Andon;2001.02.14;;1097;Budapest;Táblás utca 39.;1;0;0;+36(30)314-62-72;bekesi.andon@aim.com
+;Lang Oberon;Lang;Oberon;2001.01.21;;2858;Császár;Hársfa Sétány 17;1;0;0;+36(30)368-29-66;lang.oberon@freemail.hu
+;Gere Dusmáta;Gere;Dusmáta;2001.01.17;;2244;Úri;Patak  utca 3.;1;0;0;+36(30)107-34-77;gere.dusmata@freemail.hu
+;Gazsó Marinka;Gazsó;Marinka;2000.12.23;;6762;Sándorfalva;Lőrinc barát  utca 14;1;0;0;+36(20)723-11-68;gazso.marinka@gmail.com
+;Pozsár Zahara;Pozsár;Zahara;2000.12.03;;6900;Makó;Nagy  út 128;1;0;0;+36(20)832-56-29;pozsar.zahara@gmail.com
+;Beck Zongor;Beck;Zongor;2000.11.24;;1098;Budapest;Podhorszky utca 99 A ép.;1;0;0;+36(20)346-46-20;beck.zongor@protonmail.com
+;Halasi Ruti;Halasi;Ruti;2000.11.23;;1162;Budapest;Hatvan utca 53. I/13;1;0;0;+36(20)635-28-30;halasi.ruti@freemail.hu
+;Siska Jusztusz;Siska;Jusztusz;2000.11.22;;8441;Márkó;Alkotmány utca 54/B 1/9;1;0;0;+36(30)601-75-91;siska.jusztusz@citromail.hu
+;Jenei Ciprián;Jenei;Ciprián;2000.10.10;;7183;Kisvejke;Fő  út 47;1;0;0;+36(20)931-93-62;jenei.ciprian@citromail.hu
+;Péli Mélia;Péli;Mélia;2000.10.08;;8660;Tab;Fő utca 58-60;1;0;0;+36(30)761-29-81;peli.melia@gmail.com
+;Bakonyi Emánuel;Bakonyi;Emánuel;2000.09.27;;9224;Rajka;Lugas utca 5/a 3;1;0;0;+36(70)888-41-13;bakonyi.emanuel@gmail.com
+;Hartmann Zea;Hartmann;Zea;2000.09.07;;2750;Nagykőrös;Árpád  út 76 9/3;1;0;0;+36(70)747-70-10;hartmann.zea@gmail.com
+;Kolozsi Patrícia;Kolozsi;Patrícia;2000.08.06;;5000;Szolnok;Újbánya telep 26/5;1;0;0;+36(70)217-21-78;kolozsi.patricia@gmail.com
+;Lencsés Anaszta;Lencsés;Anaszta;2000.08.02;;1172;Budapest;Soproni utca 106;1;0;0;+36(30)411-38-52;lencses.anaszta@citromail.hu
+;Bárdos Jávorka;Bárdos;Jávorka;2000.07.03;;2337;Délegyháza;Úrihegy tanya 241/A;1;0;0;+36(20)293-94-61;bardos.javorka@gmx.us
+;Sótér Leopold;Sótér;Leopold;2000.06.18;;2162;Őrbottyán;Fő út 4;1;0;0;+36(30)234-24-47;soter.leopold@protonmail.com
+;Fábián Tömör;Fábián;Tömör;2000.05.29;;6100;Kiskunfélegyháza;Thököly utca 12.;1;0;0;+36(30)533-47-25;fabian.tomor@outlook.com
+;Ráduly Edmund;Ráduly;Edmund;2000.05.26;;1105;Budapest;Fő  utca 52;1;0;0;+36(30)544-66-34;raduly.edmund@aim.com
+;Bertalan Babita;Bertalan;Babita;2000.05.02;;4287;Vámospércs;Mátyás király utca 24/b;1;0;0;+36(70)967-72-95;bertalan.babita@protonmail.com
+;Kocsi Hugó;Kocsi;Hugó;2000.04.24;;7691;Pécs;Rákóczi Ferenc út 276;1;0;0;+36(20)487-93-69;kocsi.hugo@zoho.com
+;Tuba Ajsa;Tuba;Ajsa;2000.04.08;;3400;Mezőkövesd;Liszt Ferenc utca 15.;1;0;0;+36(70)678-16-96;tuba.ajsa@outlook.com
+;Vastag Rami;Vastag;Rami;2000.03.28;;3971;Tiszakarád;Dr. Szabolcs Zoltán utca 1 2/211;1;0;0;+36(70)256-14-21;vastag.rami@gmail.com
+;Vékony Aranyka;Vékony;Aranyka;2000.03.27;;2030;Érd;Kerpely Antal utca 26;1;0;0;+36(20)794-45-47;vekony.aranyka@citromail.hu
+;Sándor Blandina;Sándor;Blandina;2000.03.25;;5200;Törökszentmiklós;Erdő  utca 64;1;0;0;+36(20)101-27-96;sandor.blandina@outlook.com
+;Balló Anett;Balló;Anett;2000.03.09;;8000;Székesfehérvár;Tölgyes út 38.;1;0;0;+36(20)661-75-61;ballo.anett@gmail.com
+;Patkó Verita;Patkó;Verita;2000.03.08;;1135;Budapest;Gábor Áron  utca 16;1;0;0;+36(70)706-70-76;patko.verita@aol.com
+;Veisz Bolda;Veisz;Bolda;2000.03.06;;9776;Püspökmolnári;Könyves Kálmán utca 1/D;1;0;0;+36(30)546-10-17;veisz.bolda@gmail.com
+;Györki Ludmilla;Györki;Ludmilla;1999.11.09;;8200;Veszprém;Bem József utca 7.;1;0;0;+36(70)550-58-13;gyorki.ludmilla@freemail.hu
+;Erős Mandel;Erős;Mandel;1999.11.07;;9028;Győr;Bocskai utca 32;1;0;0;+36(70)187-56-79;eros.mandel@gmail.com
+;Halmai Krizia;Halmai;Krizia;1999.10.02;;8100;Várpalota;Fenyőszer utca 36;1;0;0;+36(70)685-19-78;halmai.krizia@gmail.com
+;Horváth Dömös;Horváth;Dömös;1999.09.30;;2053;Herceghalom;Széchenyi sgt. 22-24 4/19;1;0;0;+36(70)820-35-12;horvath.domos@gmail.com
+;Havasi Manuéla;Havasi;Manuéla;1999.09.26;;2315;Szigethalom;Dózsa út 4;1;0;0;+36(70)272-53-91;havasi.manuela@gmail.com
+;Gyuris Bercel;Gyuris;Bercel;1999.07.07;;7700;Mohács;Erőmű tér 15 fsz./1;1;0;0;+36(20)105-93-39;gyuris.bercel@gmx.com
+;Bódis Alízia;Bódis;Alízia;1999.07.02;;3000;Hatvan;Kölcsey  utca 3.;1;0;0;+36(20)562-20-46;bodis.alizia@outlook.com
+;Dankó Delila;Dankó;Delila;1999.06.27;;8800;Nagykanizsa;Eötvös utca 4/8;1;0;0;+36(20)639-70-25;danko.delila@aim.com
+;Tamási Ond;Tamási;Ond;1999.06.15;;2310;Szigetszentmiklós;Széher út 20/b 1/3;1;0;0;+36(30)715-45-36;tamasi.ond@gmail.com
+;Sinkó Ankisza;Sinkó;Ankisza;1999.05.10;;1144;Budapest;Diósi út 11;1;0;0;+36(20)947-44-29;sinko.ankisza@gmail.com
+;Érsek Megán;Érsek;Megán;1999.04.17;;3200;Gyöngyös;Őrjárat utca 23;1;0;0;+36(20)176-83-47;ersek.megan@gmx.com
+;Füzesi Harun;Füzesi;Harun;1999.04.17;;6931;Apátfalva;Nánási  út 5. A fszt./4.;1;0;0;+36(70)450-76-91;fuzesi.harun@freemail.hu
+;Szarka Petres;Szarka;Petres;1999.04.10;;2834;Tardos;Tamási Áron utca 6 2/11;1;0;0;+36(70)711-43-40;szarka.petres@gmail.com
+;Szatmári Mauríció;Szatmári;Mauríció;1999.03.29;;9232;Darnózseli;Mátyás király  utca 43;1;0;0;+36(30)615-83-17;szatmari.mauricio@freemail.hu
+;Tamás Amábel;Tamás;Amábel;1999.03.27;;4731;Tunyogmatolcs;Patak  utca 4.;1;0;0;+36(20)405-33-54;tamas.amabel@gmail.com
+;Daróczi Kolen;Daróczi;Kolen;1999.03.11;;2339;Majosháza;Kassa utca 36.;1;0;0;+36(30)195-13-86;daroczi.kolen@gmail.com
+;Csenki Sét;Csenki;Sét;1999.03.03;;7813;Szava;Forgách utca 3 fszt./1;1;0;0;+36(20)971-98-54;csenki.set@gmail.com
+;Paulovics Aisah;Paulovics;Aisah;1999.02.23;;7623;Pécs;81 számú főút ömv töltőállomás út 81;1;0;0;+36(30)524-39-45;paulovics.aisah@zoho.com
+;Jámbor Vazul;Jámbor;Vazul;1999.02.02;;1237;Budapest;Fecske utca 10;1;0;0;+36(70)480-77-70;jambor.vazul@gmx.com
+;Liszkai Misel;Liszkai;Misel;1999.01.20;;3100;Salgótarján;Bécsi ut 231.;1;0;0;+36(30)142-47-13;liszkai.misel@zoho.com
+;Csőke Alberta;Csőke;Alberta;1999.01.13;;3032;Apc;Sárfű utca 11 11 ép. 11 lcs. 8/24;1;0;0;+36(70)562-85-83;csoke.alberta@zoho.com
+;Rimóczi Ivor;Rimóczi;Ivor;1998.12.16;;5100;Jászberény;Buday László utca 18 1/4;1;0;0;+36(70)264-31-71;rimoczi.ivor@citromail.hu
+;Bende Emerka;Bende;Emerka;1998.11.03;;4484;Nyíregyháza;Nyirfa sor 1;1;0;0;+36(30)105-70-19;bende.emerka@freemail.hu
+;Mile Trudi;Mile;Trudi;1998.10.14;;6090;Kunszentmiklós;Balatoni utca 64;1;0;0;+36(70)235-34-87;mile.trudi@citromail.hu
+;Kun Denton;Kun;Denton;1998.09.29;;2639;Bernecebaráti;Budai  út 86.;1;0;0;+36(70)853-92-25;kun.denton@zoho.com
+;Ország Sejla;Ország;Sejla;1998.09.24;;1011;Budapest;Dembinszky utca 48;1;0;0;+36(20)894-71-66;orszag.sejla@gmail.com
+;Boda Métisz;Boda;Métisz;1998.09.20;;4272;Sáránd;Ipar  utca 65;1;0;0;+36(20)765-43-82;boda.metisz@gmx.us
+;Szaniszló Borbás;Szaniszló;Borbás;1998.09.05;;1171;Budapest;Balaton  út 1/A;1;0;0;+36(70)595-10-94;szaniszlo.borbas@gmx.com
+;Ökrös Oleg;Ökrös;Oleg;1998.07.17;;3724;Ragály;Böröndös utca 28 3/8;1;0;0;+36(30)792-15-58;okros.oleg@freemail.hu
+;Bazsó András;Bazsó;András;1998.07.10;;2840;Oroszlány;Zulejka utca 8 fsz/4;1;0;0;+36(30)826-67-15;bazso.andras@icloud.com
+;Somogyvári Hetény;Somogyvári;Hetény;1998.07.05;;2800;Tatabánya;Irinyi János Utca 6 2 ép./7;1;0;0;+36(70)545-42-76;somogyvari.heteny@yahoo.com
+;Králik Zsázsa;Králik;Zsázsa;1998.05.23;;3443;Mezőnagymihály;Molnár Viktor utca 50 fsz/2;1;0;0;+36(70)835-35-72;kralik.zsazsa@outlook.com
+;Kószó Bogárka;Kószó;Bogárka;1998.04.01;;6070;Izsák;Gödöllői út 228;1;0;0;+36(30)655-66-50;koszo.bogarka@gmx.com
+;Eszes Zsóka;Eszes;Zsóka;1998.03.25;;7000;Sárbogárd;Kaszásdülő utca 11 10/92;1;0;0;+36(70)123-83-38;eszes.zsoka@outlook.com
+;Ódor Placid;Ódor;Placid;1998.03.19;;3950;Sárospatak;Szőlőkalja  út 16;1;0;0;+36(30)307-18-25;odor.placid@freemail.hu
+;Lechner Fabrícia;Lechner;Fabrícia;1998.02.22;;1188;Budapest;Avar  utca 16;1;0;0;+36(30)686-95-50;lechner.fabricia@zoho.com
+;Osváth Polixénia;Osváth;Polixénia;1998.02.08;;7020;Dunaföldvár;Kossuth Lajos út 14 A ép.;1;0;0;+36(70)323-43-31;osvath.polixenia@outlook.com
+;Ficsor Imbert;Ficsor;Imbert;1998.02.02;;3127;Kazár;Mező utca 72;1;0;0;+36(30)553-82-80;ficsor.imbert@citromail.hu
+;Kardos Berec;Kardos;Berec;1998.02.01;;4482;Kótaj;Kodály Zoltán utca 29 4/27;1;0;0;+36(30)477-28-60;kardos.berec@yahoo.com
+;Simon Szinta;Simon;Szinta;1998.01.08;;2092;Budakeszi;Fő út 134;1;0;0;+36(70)931-30-97;simon.szinta@gmail.com
+;Gyetvai Pippa;Gyetvai;Pippa;1997.10.14;;2011;Budakalász;Irinyi  utca 13 fszt./4;1;0;0;+36(70)708-66-95;gyetvai.pippa@gmail.com
+;Rostás Szávitri;Rostás;Szávitri;1997.09.20;;2230;Gyömrő;Németh László  utca 7;1;0;0;+36(70)588-87-71;rostas.szavitri@gmail.com
+;Burai Zsanina;Burai;Zsanina;1997.07.20;;6400;Kiskunhalas;Nemes utca 48;1;0;0;+36(70)293-37-73;burai.zsanina@gmail.com
+;Hajós Petróniusz;Hajós;Petróniusz;1997.07.15;;1138;Budapest;Losonczi utca 117;1;0;0;+36(20)396-11-63;hajos.petroniusz@citromail.hu
+;Sinka Mabella;Sinka;Mabella;1997.07.15;;1152;Budapest;Fo  utca 33;1;0;0;+36(20)687-26-41;sinka.mabella@icloud.com
+;Nagypál Péter;Nagypál;Péter;1997.07.04;;6000;Kecskemét;Bem József utca 9.;1;0;0;+36(70)610-36-82;nagypal.peter@freemail.hu
+;Hódos Niva;Hódos;Niva;1997.07.01;;2458;Kulcs;Pesti út 146-156 B lcs. 1/6;1;0;0;+36(30)639-45-33;hodos.niva@gmail.com
+;Garamvölgyi Levente;Garamvölgyi;Levente;1997.06.06;;8000;Székesfehérvár;Csokonai  utca 38;1;0;0;+36(20)877-32-26;garamvolgyi.levente@gmail.com
+;Vadászi Csák;Vadászi;Csák;1997.05.28;;2600;Vác;Bársonyvirág utca 1;1;0;0;+36(70)396-17-77;vadaszi.csak@aim.com
+;Vécsei Kozma;Vécsei;Kozma;1997.05.17;;1146;Budapest;Széchenyi István  út 35;1;0;0;+36(20)103-16-76;vecsei.kozma@freemail.hu
+;Gerhardt Rúfusz;Gerhardt;Rúfusz;1997.05.11;;2766;Tápiószele;Zomboribokor 1.;1;0;0;+36(70)259-48-64;gerhardt.rufusz@zoho.com
+;Guba Zsázsa;Guba;Zsázsa;1997.04.23;;1084;Budapest;Kölcsey Ferenc  utca 29;1;0;0;+36(70)152-13-24;guba.zsazsa@freemail.hu
+;Lőrinczi Rókus;Lőrinczi;Rókus;1997.04.14;;3400;Mezőkövesd;Lovassy László  utca 6 fszt.;1;0;0;+36(70)214-57-28;lorinczi.rokus@freemail.hu
+;Suhajda Zádor;Suhajda;Zádor;1997.03.22;;6500;Baja;Szadadságharcos út 26;1;0;0;+36(30)221-65-51;suhajda.zador@gmail.com
+;Hevesi Szolanzs;Hevesi;Szolanzs;1997.03.21;;2740;Abony;Nagyfuvaros  utca 3/b;1;0;0;+36(70)235-86-47;hevesi.szolanzs@gmail.com
+;Ráduly Mariam;Ráduly;Mariam;1997.02.26;;7951;Szabadszentkirály;Úrihegy tanya 247/A;1;0;0;+36(70)819-91-58;raduly.mariam@gmail.com
+;Biró Szaszkia;Biró;Szaszkia;1997.02.26;;3394;Egerszalók;Erdősor utca 3;1;0;0;+36(70)642-98-31;biro.szaszkia@gmail.com
+;Szegi Teodor;Szegi;Teodor;1997.02.22;;1039;Budapest;Karinthy Frigyes  út 4-6 4/3/A;1;0;0;+36(30)454-57-69;szegi.teodor@citromail.hu
+;Sós Blazsena;Sós;Blazsena;1997.02.12;;1085;Budapest;Nemzetőr utca 33;1;0;0;+36(30)494-55-14;sos.blazsena@freemail.hu
+;Csató Antea;Csató;Antea;1997.02.06;;2700;Cegléd;Kikelet  utca 99;1;0;0;+36(30)673-42-44;csato.antea@gmx.com
+;Palkó Terka;Palkó;Terka;1997.01.09;;8161;Ősi;Muskátli utca 9;1;0;0;+36(70)586-59-11;palko.terka@citromail.hu
+;Gruber Herold;Gruber;Herold;1997.01.05;;9327;Vág;Fürst Sándor utca 3.;1;0;0;+36(70)307-84-37;gruber.herold@gmail.com
+;Hideg Sudár;Hideg;Sudár;1996.12.20;;2377;Örkény;Felsősor utca 95;1;0;0;+36(30)141-76-78;hideg.sudar@gmail.com
+;Éles Kassziopeia;Éles;Kassziopeia;1996.11.27;;7355;Nagymányok;Lonovics sgt 9;1;0;0;+36(70)502-62-44;eles.kassziopeia@yahoo.com
+;Balogh Szantina;Balogh;Szantina;1996.11.19;;1039;Budapest;Híd utca 12.okt;1;0;0;+36(20)280-87-20;balogh.szantina@gmail.com
+;Földesi Emina;Földesi;Emina;1996.11.07;;3980;Sátoraljaújhely;Nagy Sándor utca 59/a;1;0;0;+36(30)850-36-89;foldesi.emina@outlook.com
+;Fazekas Ernesztin;Fazekas;Ernesztin;1996.10.04;;6000;Kecskemét;Miklós Gyula utca 1/1;1;0;0;+36(70)224-54-39;fazekas.ernesztin@gmail.com
+;Szombati Bodor;Szombati;Bodor;1996.10.01;;4523;Pátroha;Szabadság u. 105.;1;0;0;+36(70)703-97-36;szombati.bodor@outlook.com
+;Murányi Nodin;Murányi;Nodin;1996.09.28;;9021;Győr;Esze Tamás út 15.;1;0;0;+36(30)707-70-20;muranyi.nodin@gmail.com
+;Babai Kajetán;Babai;Kajetán;1996.08.26;;1031;Budapest;Huba vezér utca 11;1;0;0;+36(20)295-83-47;babai.kajetan@freemail.hu
+;Tóbiás Romárió;Tóbiás;Romárió;1996.08.13;;9200;Mosonmagyaróvár;Irinyi János  utca 7 4/10;1;0;0;+36(20)347-16-65;tobias.romario@gmail.com
+;Bencze Fehére;Bencze;Fehére;1996.07.26;;1117;BUDAPEST;Kazinczy utca 2. 4./2.;1;0;0;+36(70)855-68-58;bencze.fehere@gmail.com
+;Fazekas Alap;Fazekas;Alap;1996.07.09;;8960;Lenti;Kazinczy lakótelep 22/B 4/11;1;0;0;+36(20)562-43-68;fazekas.alap@icloud.com
+;Nagypál Ziara;Nagypál;Ziara;1996.06.20;;4028;Debrecen;garam utca 9 2/2;1;0;0;+36(30)742-95-12;nagypal.ziara@gmx.com
+;Solymosi Beriszló;Solymosi;Beriszló;1996.03.24;;2760;Nagykáta;Vida János  utca 14;1;0;0;+36(20)588-46-90;solymosi.beriszlo@yandex.com
+;Jenei Arianna;Jenei;Arianna;1996.03.19;;7912;Nagypeterd;Eötvös L utca 15;1;0;0;+36(70)503-47-40;jenei.arianna@gmail.com
+;Hosszú Mánuel;Hosszú;Mánuel;1996.03.01;;2151;Fót;Gesztes  út 29;1;0;0;+36(20)351-23-80;hosszu.manuel@gmx.us
+;Pallagi Arianna;Pallagi;Arianna;1996.01.07;;3525;Miskolc;Nyár utca 30 6/35;1;0;0;+36(20)693-63-88;pallagi.arianna@gmx.us
+;Korom Enese;Korom;Enese;1996.01.05;;4220;Hajdúböszörmény;József nádor tér 2-4;1;0;0;+36(20)628-79-16;korom.enese@gmail.com
+;Csáki Levente;Csáki;Levente;1995.12.07;;2400;Dunaújváros;Liget utca 6/3;1;0;0;+36(30)174-15-56;csaki.levente@protonmail.com
+;Hollósi Bertalan;Hollósi;Bertalan;1995.12.06;;8600;Siófok;Börzsöny utca 2/c 1/6;1;0;0;+36(70)888-32-89;hollosi.bertalan@zoho.com
+;Tyukodi Szavéta;Tyukodi;Szavéta;1995.11.21;;3821;Büttös;Toboz utca 42/a;1;0;0;+36(30)492-85-76;tyukodi.szaveta@citromail.hu
+;Hajós Szabella;Hajós;Szabella;1995.10.31;;1083;Budapest;Kossuth Lajos  utca  12;1;0;0;+36(70)436-37-96;hajos.szabella@gmail.com
+;Burján Osszián;Burján;Osszián;1995.10.18;;2700;Cegléd;Fejedelem utca 6;1;0;0;+36(70)746-15-66;burjan.osszian@outlook.com
+;Keszthelyi Inci;Keszthelyi;Inci;1995.10.07;;1038;Budapest;Szérüskert utca 8;1;0;0;+36(20)573-38-73;keszthelyi.inci@gmail.com
+;Tolnai Evetke;Tolnai;Evetke;1995.09.26;;6600;Szentes;Kossuth Lajos út 62.;1;0;0;+36(70)298-65-84;tolnai.evetke@citromail.hu
+;Munkácsi Décse;Munkácsi;Décse;1995.09.11;;9952;Gasztony;Akác  utca 61;1;0;0;+36(30)452-49-31;munkacsi.decse@gmail.com
+;Solti Aram;Solti;Aram;1995.09.10;;1191;Budapest;Katica utca 11;1;0;0;+36(20)790-18-58;solti.aram@gmail.com
+;Káplár Marina;Káplár;Marina;1995.08.27;;7763;Egerág;Fő  út 43;1;0;0;+36(30)961-27-62;kaplar.marina@outlook.com
+;Wéber Bernarda;Wéber;Bernarda;1995.08.17;;3574;Bőcs;Frogách utca 39/B;1;0;0;+36(20)142-10-19;weber.bernarda@icloud.com
+;Balogh Aziz;Balogh;Aziz;1995.08.12;;6769;Pusztaszer;Derék utca 108 108 lcs. 3/11;1;0;0;+36(70)717-18-22;balogh.aziz@gmail.com
+;Gyarmati Románó;Gyarmati;Románó;1995.07.17;;2400;Dunaújváros;Nagymeszes dűlő 5/1;1;0;0;+36(20)633-23-21;gyarmati.romano@zoho.com
+;Tarsoly Vitália;Tarsoly;Vitália;1995.07.11;;2067;Szárliget;Virág  utca 31.;1;0;0;+36(70)151-45-60;tarsoly.vitalia@citromail.hu
+;Beck Bátor;Beck;Bátor;1995.06.17;;5600;Békéscsaba;Wesselényi Miklós utca 37;1;0;0;+36(70)250-24-75;beck.bator@yahoo.com
+;Juhász Szulita;Juhász;Szulita;1995.05.27;;2735;Dánszentmiklós;Röppentyű utca 69;1;0;0;+36(70)183-55-78;juhasz.szulita@gmail.com
+;Serbán Szidi;Serbán;Szidi;1995.05.24;;2600;Vác;Zöldfa utca 60/b;1;0;0;+36(30)927-40-76;serban.szidi@freemail.hu
+;Rafael Írisz;Rafael;Írisz;1995.05.11;;7171;Sióagárd;Korányi út 73;1;0;0;+36(70)885-14-35;rafael.irisz@aim.com
+;Buza Harald;Buza;Harald;1995.05.03;;3200;Gyöngyös;Haszkovó utca 14 C ép. 3/23;1;0;0;+36(30)523-26-60;buza.harald@gmail.com
+;Benke Zelka;Benke;Zelka;1995.04.05;;5350;Tiszafüred;Ady Endre  utca 26 3/16;1;0;0;+36(30)141-20-98;benke.zelka@gmail.com
+;Ács Ádin;Ács;Ádin;1995.03.08;;2740;Abony;Zöldmező utca 12;1;0;0;+36(20)557-20-66;acs.adin@aim.com
+;Sipos Hóvirág;Sipos;Hóvirág;1995.03.03;;2066;Szár;Mikszáth K. utca 2/B. B. lcs. 2./6.;1;0;0;+36(30)227-90-20;sipos.hovirag@citromail.hu
+;Bana Mirea;Bana;Mirea;1995.02.26;;6521;Vaskút;Dongó  utca 6 fszt./1;1;0;0;+36(30)542-32-90;bana.mirea@gmail.com
+;Süle Elizabell;Süle;Elizabell;1995.02.24;;6043;Kunbaracs;Szentgyörgy  út 74 8/1;1;0;0;+36(20)758-87-20;sule.elizabell@protonmail.com
+;Szakács Juliánusz;Szakács;Juliánusz;1995.02.18;;1108;Budapest;Kolozsvári utca 17;1;0;0;+36(20)284-17-55;szakacs.julianusz@citromail.hu
+;Laczkó Paszkália;Laczkó;Paszkália;1995.02.17;;8473;Gyepükaján;Doborgaz utca 12;1;0;0;+36(20)576-55-55;laczko.paszkalia@freemail.hu
+;Vona Korinna;Vona;Korinna;1995.01.14;;2440;Százhalombatta;Rákóczi F.  utca 161.;1;0;0;+36(30)795-56-92;vona.korinna@outlook.com
+;Karaszi Pandora;Karaszi;Pandora;1995.01.06;;1142;Budapest;Pipacs utca 5/A;1;0;0;+36(30)204-12-43;karaszi.pandora@gmail.com
+;Márkus Ulrik;Márkus;Ulrik;1994.12.25;;1131;Budapest;Kertész utca 3 Fszt/5;1;0;0;+36(20)781-24-75;markus.ulrik@gmail.com
+;Baki Abélia;Baki;Abélia;1994.12.06;;7300;Komló;Arany János tér 1 D ép. 3/Fundamenta iroda;1;0;0;+36(20)971-61-11;baki.abelia@outlook.com
+;Guti Múzsa;Guti;Múzsa;1994.11.24;;2760;Nagykáta;Széchenyi utca 24.;1;0;0;+36(70)686-98-60;guti.muzsa@outlook.com
+;Szilasi Graciella;Szilasi;Graciella;1994.11.16;;7515;Somogyudvarhely;Deák Ferenc utca 1-5.;1;0;0;+36(70)110-78-63;szilasi.graciella@protonmail.com
+;Sallai Doren;Sallai;Doren;1994.10.28;;5905;Orosháza;Béke út 61/b;1;0;0;+36(70)427-32-95;sallai.doren@protonmail.com
+;Pintye Tadeusz;Pintye;Tadeusz;1994.09.21;;7086;Ozora;Harkányi út 4/b 3/11;1;0;0;+36(70)602-95-96;pintye.tadeusz@gmail.com
+;Bánki Timótea;Bánki;Timótea;1994.09.16;;3358;Erdőtelek;Darázs utca 15/A;1;0;0;+36(70)384-93-25;banki.timotea@citromail.hu
+;Bencsik Lajos;Bencsik;Lajos;1994.09.07;;4025;Debrecen;Köztársaság utca 9 2/13;1;0;0;+36(30)205-71-19;bencsik.lajos@gmail.com
+;Májer Cézár;Májer;Cézár;1994.08.24;;4622;Komoró;Üllői út 134/2;1;0;0;+36(30)529-79-50;majer.cezar@gmail.com
+;Kapitány Malina;Kapitány;Malina;1994.08.20;;6346;Sükösd;Fecske utca 12;1;0;0;+36(30)490-38-94;kapitany.malina@gmail.com
+;Lezsák Triniti;Lezsák;Triniti;1994.07.13;;1108;Budapest;Baross  utca 44;1;0;0;+36(70)533-62-24;lezsak.triniti@citromail.hu
+;Kósa Euszták;Kósa;Euszták;1994.06.24;;8000;Székesfehérvár;Hunyadi János  utca 18.;1;0;0;+36(20)725-97-77;kosa.eusztak@gmail.com
+;Ágoston Miana;Ágoston;Miana;1994.06.19;;6000;Kecskemét;Nyírfa út 53;1;0;0;+36(70)599-83-53;agoston.miana@aim.com
+;Angyal Nana;Angyal;Nana;1994.05.28;;3529;Miskolc;Ligetszépe utca 2.;1;0;0;+36(70)162-80-26;angyal.nana@yahoo.com
+;Bársony Zafira;Bársony;Zafira;1994.04.16;;1173;Budapest;Károlyi  utca 4;1;0;0;+36(70)440-46-64;barsony.zafira@gmail.com
+;Cser Bátor;Cser;Bátor;1994.04.13;;2120;Dunakeszi;Fő  út 40;1;0;0;+36(70)649-95-12;cser.bator@yandex.com
+;Szatmári Keve;Szatmári;Keve;1994.03.24;;2234;Maglód;Kazinczy utca 23;1;0;0;+36(20)922-29-22;szatmari.keve@gmail.com
+;Süli Auguszta;Süli;Auguszta;1994.03.23;;7039;Németkér;Szechenyi utca 108;1;0;0;+36(70)583-21-60;suli.auguszta@protonmail.com
+;Varjú Tamila;Varjú;Tamila;1994.03.18;;2344;Dömsöd;Dunakanyar körút 61;1;0;0;+36(30)894-98-33;varju.tamila@gmail.com
+;Gazsó Líra;Gazsó;Líra;1994.03.06;;7020;Dunaföldvár;Petőfi utca 22 10/58;1;0;0;+36(70)592-70-39;gazso.lira@gmail.com
+;Ignácz Manolita;Ignácz;Manolita;1994.02.04;;2344;Dömsöd;Bacsó Béla  út 14;1;0;0;+36(20)478-79-87;ignacz.manolita@gmail.com
+;Domokos Miana;Domokos;Miana;1994.02.03;;6915;Csanádalberti;Balatoni  út 137;1;0;0;+36(70)431-79-32;domokos.miana@yahoo.com
+;Szarka Oliána;Szarka;Oliána;1994.01.17;;9730;Kőszeg;Tarcsay utca 2.;1;0;0;+36(30)876-21-81;szarka.oliana@gmx.us
+;Bálint Mihaéla;Bálint;Mihaéla;1994.01.17;;3535;Miskolc;Ungvar  stny. 17 4/13;1;0;0;+36(70)759-86-66;balint.mihaela@gmail.com
+;Pór Angyal;Pór;Angyal;1994.01.13;;9024;Győr;Füredi utca 15/a 2/70;1;0;0;+36(20)780-43-86;por.angyal@outlook.com
+;Bana Madlen;Bana;Madlen;1993.12.26;;2440;Százhalombatta;Vasút utca 67;1;0;0;+36(30)548-20-61;bana.madlen@gmail.com
+;Buzás Zinka;Buzás;Zinka;1993.12.26;;4031;Debrecen;Válicka utca 5;1;0;0;+36(70)696-71-25;buzas.zinka@gmail.com
+;Novák Ede;Novák;Ede;1993.12.14;;2100;Gödöllő;Ady  utca 160.;1;0;0;+36(70)803-98-37;novak.ede@outlook.com
+;Orgován Áldor;Orgován;Áldor;1993.11.30;;3712;Sajóvámos;Mező utca 22;1;0;0;+36(20)459-65-52;orgovan.aldor@gmx.com
+;Szénási Aranyos;Szénási;Aranyos;1993.11.30;;2060;Bicske;Kuruc utca 13 10/2;1;0;0;+36(70)305-77-82;szenasi.aranyos@gmail.com
+;Kaló Grizeldisz;Kaló;Grizeldisz;1993.11.27;;2451;Ercsi;Rézműves utca 18;1;0;0;+36(70)369-45-18;kalo.grizeldisz@gmail.com
+;Várhegyi Kötöny;Várhegyi;Kötöny;1993.08.14;;4242;Hajdúhadház;Csepp utca 4;1;0;0;+36(70)714-65-65;varhegyi.kotony@gmail.com
+;Szécsényi Maximusz;Szécsényi;Maximusz;1993.07.26;;3100;Salgótarján;Bem apó utca 49.;1;0;0;+36(30)939-78-36;szecsenyi.maximusz@freemail.hu
+;Seres Ámor;Seres;Ámor;1993.07.11;;8196;Litér;Lehel vezér utca 13.;1;0;0;+36(70)827-59-79;seres.amor@freemail.hu
+;Dóka Barakony;Dóka;Barakony;1993.05.23;;1121;Budapest;Attila út 44;1;0;0;+36(70)494-51-32;doka.barakony@zoho.com
+;Csengeri Manna;Csengeri;Manna;1993.05.10;;1041;Budapest;Wass Albert utca 2 3/17;1;0;0;+36(20)761-53-90;csengeri.manna@protonmail.com
+;Demeter Mózes;Demeter;Mózes;1993.05.09;;1102;Budapest;Rákóczi utca 1/a;1;0;0;+36(30)629-66-98;demeter.mozes@gmail.com
+;Surányi Melódia;Surányi;Melódia;1993.05.07;;3531;Miskolc;Szilágyi F. utca 36.;1;0;0;+36(30)892-66-41;suranyi.melodia@gmail.com
+;Tajti Médeia;Tajti;Médeia;1993.04.27;;9081;Győrújbarát;Csallóközi  utca 43;1;0;0;+36(70)769-97-13;tajti.medeia@gmail.com
+;Turcsán Domonkos;Turcsán;Domonkos;1993.04.01;;1043;Budapest;Ballószög tanya 227/A;1;0;0;+36(70)781-10-37;turcsan.domonkos@gmail.com
+;Szolnoki Piros;Szolnoki;Piros;1993.03.02;;3770;Sajószentpéter;Árpád  utca 39;1;0;0;+36(70)971-83-64;szolnoki.piros@gmail.com
+;Zsákai Opika;Zsákai;Opika;1993.02.15;;5130;Jászapáti;Békés utca 9/B.;1;0;0;+36(30)695-33-93;zsakai.opika@freemail.hu
+;Lázi Szilviusz;Lázi;Szilviusz;1993.02.11;;3300;Eger;Beregszász út 52;1;0;0;+36(30)957-50-53;lazi.szilviusz@citromail.hu
+;Gregus Gábor;Gregus;Gábor;1993.01.07;;3524;Miskolc;Fövényszer utca 77/B;1;0;0;+36(30)559-68-52;gregus.gabor@yandex.com
+;Boka Mehdia;Boka;Mehdia;1993.01.04;;1031;Budapest;Magtár utca 33;1;0;0;+36(30)702-72-46;boka.mehdia@gmail.com
+;Csendes Gedő;Csendes;Gedő;1992.10.06;;4484;Ibrány;Kölcsey  utca 32;1;0;0;+36(30)517-87-74;csendes.gedo@freemail.hu
+;Sztojka Vilma;Sztojka;Vilma;1992.09.01;;7400;Kaposvár;Nagy Lajos utca 6;1;0;0;+36(20)412-35-12;sztojka.vilma@gmail.com
+;Miklós Amadeusz;Miklós;Amadeusz;1992.08.26;;9730;Kőszeg;Eper utca 30;1;0;0;+36(20)519-44-69;miklos.amadeusz@aim.com
+;Tánczos Blondina;Tánczos;Blondina;1992.08.13;;8200;Veszprém;Csermely utca 6 fsz./1;1;0;0;+36(70)398-16-21;tanczos.blondina@gmail.com
+;Kelemen Hunyad;Kelemen;Hunyad;1992.08.11;;7300;Komló;Málnás utca 6;1;0;0;+36(70)582-20-37;kelemen.hunyad@outlook.com
+;Kincses Klári;Kincses;Klári;1992.08.03;;2613;Rád;Vörösmarty  utca 56.;1;0;0;+36(70)334-21-72;kincses.klari@zoho.com
+;Kassai Arzénia;Kassai;Arzénia;1992.07.27;;2225;Üllő;Mező út 65.;1;0;0;+36(30)958-36-28;kassai.arzenia@protonmail.com
+;Mihalovics Babetta;Mihalovics;Babetta;1992.07.21;;2230;Gyömrő;Vörösbegy utca 16.;1;0;0;+36(20)665-69-88;mihalovics.babetta@citromail.hu
+;Solymosi Grizelda;Solymosi;Grizelda;1992.06.30;;3000;Hatvan;Béke ut. utca 32.;1;0;0;+36(70)954-87-12;solymosi.grizelda@gmail.com
+;Rádai Gedő;Rádai;Gedő;1992.05.20;;4002;Debrecen;Zöldfa út 10;1;0;0;+36(20)553-80-21;radai.gedo@gmail.com
+;Csatlós Dzsingiz;Csatlós;Dzsingiz;1992.03.23;;1193;Budapest;Móricz Zsigmond utca 8/B;1;0;0;+36(30)269-11-25;csatlos.dzsingiz@yahoo.com
+;Czimmer- mann Róbert;Czimmer- mann;Róbert;1992.03.16;;1204;Budapest;Pejachevich utca 4.;1;0;0;+36(30)245-29-96;czimmer- mann.robert@yahoo.com
+;Böhm Zalán;Böhm;Zalán;1992.03.16;;1103;Budapest;Szegedi utca 12/A;1;0;0;+36(30)849-40-57;bohm.zalan@gmail.com
+;Márki Veszta;Márki;Veszta;1992.02.28;;3300;Eger;Ádám  utca 12;1;0;0;+36(70)835-73-84;marki.veszta@gmail.com
+;Csabai Kürt;Csabai;Kürt;1992.02.11;;3881;Abaújszántó;Fő út 188;1;0;0;+36(20)190-72-95;csabai.kurt@gmail.com
+;Korsós Alek;Korsós;Alek;1992.01.24;;8200;Veszprém;Csemete utca 5. X/60;1;0;0;+36(70)790-33-79;korsos.alek@gmx.com
+;Pós Ábris;Pós;Ábris;1992.01.23;;4241;Bocskaikert;Kapy utca 13/Premierbus;1;0;0;+36(70)394-59-78;pos.abris@yahoo.com
+;Bánhegyi Dézi;Bánhegyi;Dézi;1991.12.11;;1039;Budapest;Ihasz utca 22 fsz./3;1;0;0;+36(70)965-58-11;banhegyi.dezi@freemail.hu
+;Szente Elvira;Szente;Elvira;1991.12.04;;2014;Csobánka;Türr István utca 16;1;0;0;+36(70)476-50-30;szente.elvira@yahoo.com
+;Bánszki Izabella;Bánszki;Izabella;1991.11.27;;3900;Szerencs;Cinca  utca 9;1;0;0;+36(30)694-88-72;banszki.izabella@gmail.com
+;Mocsár Ödön;Mocsár;Ödön;1991.11.07;;2687;Bercel;Fő fő 8;1;0;0;+36(20)903-79-84;mocsar.odon@gmail.com
+;Cziráki Armilla;Cziráki;Armilla;1991.10.18;;5321;Kunmadaras;Rakéta utca 14/b II/2;1;0;0;+36(30)130-83-36;cziraki.armilla@gmail.com
+;Szívós Nader;Szívós;Nader;1991.08.27;;9155;Lébény;Galamb  utca 12;1;0;0;+36(20)412-23-68;szivos.nader@gmail.com
+;Ravasz Annunciáta;Ravasz;Annunciáta;1991.08.12;;5650;Mezőberény;Bajza utca 26.;1;0;0;+36(20)623-33-18;ravasz.annunciata@gmail.com
+;Újvári Kada;Újvári;Kada;1991.07.19;;3526;Miskolc;Széchenyi utca 128;1;0;0;+36(70)844-37-20;ujvari.kada@gmail.com
+;Dér Vilhelmina;Dér;Vilhelmina;1991.07.10;;2225;Üllő;Fő út 185;1;0;0;+36(70)914-33-53;der.vilhelmina@gmail.com
+;Szegi Mirijam;Szegi;Mirijam;1991.07.07;;6200;Kiskőrös;Üllői út 329;1;0;0;+36(70)504-92-25;szegi.mirijam@yandex.com
+;Őri Lior;Őri;Lior;1991.06.18;;2330;Dunaharaszti;Sáncárok  utca 1;1;0;0;+36(20)698-11-11;ori.lior@freemail.hu
+;Fenyvesi Atanáz;Fenyvesi;Atanáz;1991.05.10;;1173;Budapest;Pityeri  dűlő 663;1;0;0;+36(20)268-89-51;fenyvesi.atanaz@citromail.hu
+;Gácsi Meike;Gácsi;Meike;1991.05.05;;28100;Novara;Via Giovanni De Verrazano 15;1;0;0;+36(30)962-15-82;gacsi.meike@aim.com
+;Vaskó Nolan;Vaskó;Nolan;1991.05.05;;5055;Jászladány;Fö út 7;1;0;0;+36(20)583-65-62;vasko.nolan@aim.com
+;Kertai Kalliopé;Kertai;Kalliopé;1991.04.12;;1221;Budapest;Baross Gábor  út 61-63. 1./3.;1;0;0;+36(20)431-88-49;kertai.kalliope@outlook.com
+;Makula Lora;Makula;Lora;1991.04.02;;3070;Bátonyterenye;Dózsa út 3;1;0;0;+36(20)372-10-23;makula.lora@protonmail.com
+;Román Özséb;Román;Özséb;1991.03.12;;3400;Mezőkövesd;Fáy András lakótelep 10/a 4/12;1;0;0;+36(30)441-36-57;roman.ozseb@outlook.com
+;Újfalusi Zenkő;Újfalusi;Zenkő;1991.02.23;;2119;Pécel;Szabadságharcos út 51 2/1;1;0;0;+36(70)609-39-48;ujfalusi.zenko@outlook.com
+;Lantos Lióra;Lantos;Lióra;1991.02.12;;4026;Debrecen;Festő utca 5/a;1;0;0;+36(70)799-94-70;lantos.liora@freemail.hu
+;Tőkés Anabella;Tőkés;Anabella;1991.02.03;;2051;Biatorbágy;Kolozsvár út 31/B 2/7;1;0;0;+36(30)855-64-51;tokes.anabella@gmail.com
+;Lovász Ünige;Lovász;Ünige;1991.02.01;;8944;Sárhida;Kőhíd tér 5 Fsz/1;1;0;0;+36(30)926-76-22;lovasz.unige@gmx.com
+;Richter Lotti;Richter;Lotti;1991.01.09;;2500;Esztergom;Gábor Áron  utca 18;1;0;0;+36(20)603-54-73;richter.lotti@outlook.com
+;Szedlák Ilda;Szedlák;Ilda;1991.01.05;;1112;Budapest;Júlia  utca 6;1;0;0;+36(70)101-39-90;szedlak.ilda@yandex.com
+;Szórádi Örsi;Szórádi;Örsi;1991.01.04;;3535;Miskolc;Gölle utca 1 9/58;1;0;0;+36(30)646-43-56;szoradi.orsi@protonmail.com
+;Rácz Szkarlett;Rácz;Szkarlett;1990.12.24;;2120;Dunakeszi;Matrinovics Ignác utca 37;1;0;0;+36(30)344-21-12;racz.szkarlett@freemail.hu
+;Sebestyén Egbert;Sebestyén;Egbert;1990.11.23;;2433;Sárosd;Trombitás utca 8 4/47;1;0;0;+36(30)623-69-12;sebestyen.egbert@freemail.hu
+;Szigetvári Ljuba;Szigetvári;Ljuba;1990.11.15;;3373;Besenyőtelek;Felsőérpart utca 6;1;0;0;+36(70)704-19-60;szigetvari.ljuba@gmail.com
+;Szebeni Fehéra;Szebeni;Fehéra;1990.11.10;;8194;Vilonya;Szent Lajos  utca 12;1;0;0;+36(20)352-55-17;szebeni.fehera@gmail.com
+;Bak Irma;Bak;Irma;1990.08.20;;4440;Tiszavasvári;Séllyei utca 2;1;0;0;+36(30)921-15-14;bak.irma@yahoo.com
+;Ipacs Szófia;Ipacs;Szófia;1990.07.27;;2600;Vác;Nyárfa utca 34.;1;0;0;+36(70)436-60-25;ipacs.szofia@icloud.com
+;Aranyosi Hamid;Aranyosi;Hamid;1990.07.11;;3300;Eger;Napsugár út 28;1;0;0;+36(70)657-92-60;aranyosi.hamid@zoho.com
+;Venczel Szelestény;Venczel;Szelestény;1990.07.01;;8900;Zalaegerszeg;Völgy utca 13;1;0;0;+36(30)841-41-28;venczel.szelesteny@yandex.com
+;Fejes Gábri;Fejes;Gábri;1990.06.24;;2117;Isaszeg;Liszt Ferenc sétány 21. 2/1;1;0;0;+36(70)470-46-40;fejes.gabri@gmail.com
+;Bazsó Árkád;Bazsó;Árkád;1990.06.13;;3535;Miskolc;Dráva utca 11 7/28;1;0;0;+36(70)512-54-59;bazso.arkad@protonmail.com
+;Kreisz Grizelda;Kreisz;Grizelda;1990.05.24;;3980;Sátoraljaújhely;Mezei út 46;1;0;0;+36(70)331-70-36;kreisz.grizelda@outlook.com
+;Pálinkás Létó;Pálinkás;Létó;1990.05.11;;2481;Velence;II. Rákóczi Ferenc  utca 24 fsz/2;1;0;0;+36(70)665-43-23;palinkas.leto@outlook.com
+;Sugár Vilhelmina;Sugár;Vilhelmina;1990.04.15;;1144;Budapest;Lotz Károly utca 5.;1;0;0;+36(70)640-30-45;sugar.vilhelmina@freemail.hu
+;Gyimesi Kata;Gyimesi;Kata;1990.03.08;;6767;Ópusztaszer;Bem József  utca 51;1;0;0;+36(70)657-32-84;gyimesi.kata@aim.com
+;Patkós Bájron;Patkós;Bájron;1990.02.11;;4241;Bocskaikert;Hómező  utca 38;1;0;0;+36(20)933-91-47;patkos.bajron@citromail.hu
+;Hosszú Jáhel;Hosszú;Jáhel;1990.01.02;;5540;Szarvas;Viola utca  3.;1;0;0;+36(30)991-13-57;hosszu.jahel@gmail.com
+;Pfeifer Ronetta;Pfeifer;Ronetta;1989.12.21;;3400;Mezőkövesd;Lölincz utca 4 fszt./2;1;0;0;+36(30)939-62-71;pfeifer.ronetta@gmx.us
+;Laskai Vejke;Laskai;Vejke;1989.11.03;;9224;Rajka;Bokréta utca 10;1;0;0;+36(20)355-12-12;laskai.vejke@gmail.com
+;Vasas Rikárdó;Vasas;Rikárdó;1989.11.02;;2084;Pilisszentiván;Posta  utca 3.;1;0;0;+36(70)554-14-69;vasas.rikardo@gmail.com
+;Kuti Margaréta;Kuti;Margaréta;1989.07.25;;2730;Albertirsa;Kunhalom  utca 21;1;0;0;+36(30)156-27-47;kuti.margareta@protonmail.com
+;Fenyvesi Mályva;Fenyvesi;Mályva;1989.07.02;;7951;Gerde;Szirom  utca 48;1;0;0;+36(30)979-86-45;fenyvesi.malyva@aol.com
+;Herczeg Filoméla;Herczeg;Filoméla;1989.05.11;;3532;Miskolc;Szövet utca 29.;1;0;0;+36(70)570-41-98;herczeg.filomela@yandex.com
+;Braun Norberta;Braun;Norberta;1988.12.26;;8556;Pápateszér;Gulácsy Lajos utca 12 fsz/3;1;0;0;+36(20)974-65-47;braun.norberta@gmail.com
+;Borza Krizantusz;Borza;Krizantusz;1988.12.24;;4172;Biharnagybajom;Damjanich János  út 6;1;0;0;+36(30)793-49-50;borza.krizantusz@gmail.com
+;Vinkler Adolf;Vinkler;Adolf;1988.10.16;;5362;Tiszaörs;Fő út 19;1;0;0;+36(20)123-77-28;vinkler.adolf@gmail.com
+;Jávor Ditti;Jávor;Ditti;1988.10.02;;1211;Budapest;Erzsébet  utca 35;1;0;0;+36(30)350-48-79;javor.ditti@gmx.com
+;Kasza Leopold;Kasza;Leopold;1988.08.16;;6078;Jakabszállás;Városház utca 8.;1;0;0;+36(70)810-47-26;kasza.leopold@protonmail.com
+;Ecker Hóvirág;Ecker;Hóvirág;1988.07.15;;7728;Somberek;Pécsi utca 12/b 3/12;1;0;0;+36(70)828-17-59;ecker.hovirag@gmail.com
+;Barta Orfeusz;Barta;Orfeusz;1988.07.07;;3400;Mezőkövesd;Liszt Ferenc utca 11.;1;0;0;+36(20)207-64-59;barta.orfeusz@gmail.com
+;Tokaji Dária;Tokaji;Dária;1988.05.14;;9200;Mosonmagyaróvár;Lajta út 11 11 lcs. 4/1;1;0;0;+36(30)592-13-58;tokaji.daria@icloud.com
+;Dósa Szixtin;Dósa;Szixtin;1988.02.24;;5420;Túrkeve;48-as  utca 74;1;0;0;+36(70)307-83-69;dosa.szixtin@gmx.us
+;Géczi Néla;Géczi;Néla;1988.01.04;;3300;Eger;Országút utca 6;1;0;0;+36(70)195-34-52;geczi.nela@freemail.hu
+;Bányai Ica;Bányai;Ica;1987.11.20;;2440;Százhalombatta;Fuchsszőlő utca 35/a;1;0;0;+36(30)589-19-12;banyai.ica@freemail.hu
+;Maráz Baldvin;Maráz;Baldvin;1987.06.26;;2853;Kömlőd;Tornyai János utca 11;1;0;0;+36(70)577-63-27;maraz.baldvin@gmail.com
+;Laskai Oguz;Laskai;Oguz;1987.04.27;;8500;Pápa;Sáfár Péter  utca 10;1;0;0;+36(20)214-23-25;laskai.oguz@yahoo.com
+;Kiss Filotea;Kiss;Filotea;1987.02.28;;7400;Kaposvár;Rákos út 104. 10./63.;1;0;0;+36(70)657-87-82;kiss.filotea@gmail.com
+;Pintye Berger;Pintye;Berger;1987.01.23;;5400;Mezőtúr;Szőlő utca 44;1;0;0;+36(30)617-77-11;pintye.berger@zoho.com
+;Harkály Betsabé;Harkály;Betsabé;1987.01.19;;2030;Érd;Dessewffy Arisztid  utca 98;1;0;0;+36(70)792-27-87;harkaly.betsabe@aim.com
+;Tuza Rudolfina;Tuza;Rudolfina;1987.01.16;;3561;Felsőzsolca;Fő  utca 39;1;0;0;+36(20)537-90-50;tuza.rudolfina@gmail.com
+;Batyi Kíra;Batyi;Kíra;1987.01.13;;2243;Kóka;Dohány utca 22;1;0;0;+36(20)606-47-51;batyi.kira@gmail.com
+;Kékesi Hina;Kékesi;Hina;1987.01.04;;3594;Hejőpapi;Szentgyörgy  út 61 7/2;1;0;0;+36(20)243-58-86;kekesi.hina@protonmail.com
+;Forgács Gabriella;Forgács;Gabriella;1986.11.14;;1172;Budapest;Csányi út 1;1;0;0;+36(30)113-87-42;forgacs.gabriella@yandex.com
+;Kóbor Zámor;Kóbor;Zámor;1986.11.13;;1192;Budapest;Úrihegy tanya 193/c;1;0;0;+36(20)548-16-74;kobor.zamor@gmail.com
+;Budavári Huba;Budavári;Huba;1986.10.24;;8932;Pókaszepetk;VIII. utca 35.;1;0;0;+36(20)107-68-57;budavari.huba@gmail.com
+;Bódi Aira;Bódi;Aira;1986.09.24;;8143;Sárszentmihály;Patkó  utca 62;1;0;0;+36(70)302-20-84;bodi.aira@gmail.com
+;Pénzes Leonarda;Pénzes;Leonarda;1986.09.14;;1125;Budapest;Ifjúsági  utca 22;1;0;0;+36(30)280-68-93;penzes.leonarda@outlook.com
+;Puskás Naliba;Puskás;Naliba;1986.08.25;;2600;Vác;Várhegy  utca 23;1;0;0;+36(20)148-56-66;puskas.naliba@gmail.com
+;Vékony Fárá;Vékony;Fárá;1986.08.13;;1203;Budapest;Zanati út 29 Szatmári Kft lcs.;1;0;0;+36(30)776-90-67;vekony.fara@gmail.com
+;Futó Benita;Futó;Benita;1986.08.07;;2086;Tinnye;Attila utca 7;1;0;0;+36(20)163-42-35;futo.benita@gmail.com
+;Botka Szolanzs;Botka;Szolanzs;1986.08.02;;1145;Budapest;Eges utca 10;1;0;0;+36(70)741-58-58;botka.szolanzs@gmx.us
+;Temesvári Daria;Temesvári;Daria;1986.06.27;;1182;Budapest;Kosduth Lajos út 15;1;0;0;+36(70)574-45-96;temesvari.daria@freemail.hu
+;Mátyus Amator;Mátyus;Amator;1986.06.02;;2173;Kartal;Szabadsajtó utca 2/b;1;0;0;+36(70)849-44-94;matyus.amator@gmail.com
+;Harmat Iréneusz;Harmat;Iréneusz;1986.02.16;;3450;Mezőcsát;Áchim András  utca 105 1/12;1;0;0;+36(70)729-56-68;harmat.ireneusz@protonmail.com
+;Angyal Kventin;Angyal;Kventin;1986.01.24;;7623;Pécs;Kando kálmán ut 8;1;0;0;+36(20)619-28-37;angyal.kventin@citromail.hu
+;Toldi Gerált;Toldi;Gerált;1986.01.05;;4400;Nyíregyháza;Dózsa utca 28/1;1;0;0;+36(70)400-47-36;toldi.geralt@protonmail.com
+;Terdik Örs;Terdik;Örs;1985.10.22;;6000;Kecskemét;Népek Barátsága út 33;1;0;0;+36(30)771-90-41;terdik.ors@yahoo.com
+;Szászi Vera;Szászi;Vera;1985.07.22;;2233;Ecser;Zöldfa út 40;1;0;0;+36(70)121-66-90;szaszi.vera@gmail.com
+;Halmai Annamari;Halmai;Annamari;1985.07.21;;2092;Budakeszi;Mária utca 9.;1;0;0;+36(20)206-15-97;halmai.annamari@gmail.com
+;Tánczos Lúciusz;Tánczos;Lúciusz;1985.07.14;;1143;Budapest;Kolozsvári utca 12;1;0;0;+36(70)462-25-50;tanczos.luciusz@gmail.com
+;Lázi Vitálij;Lázi;Vitálij;1985.05.12;;2800;Tatabánya;Harica utca 9. fsz./1;1;0;0;+36(30)389-15-66;lazi.vitalij@yandex.com
+;Maros Burak;Maros;Burak;1985.03.16;;1035;Budapest;Fő utca 18/a;1;0;0;+36(70)939-71-17;maros.burak@gmail.com
+;Rédei Gujdó;Rédei;Gujdó;1985.03.13;;2767;Tápiógyörgye;Nagy Lajos kir.  útja 12/a;1;0;0;+36(20)884-18-15;redei.gujdo@outlook.com
+;Goda Robertin;Goda;Robertin;1985.02.02;;6060;Tiszakécske;Vámos ilona utca 16;1;0;0;+36(30)350-41-67;goda.robertin@protonmail.com
+;Mátrai Verner;Mátrai;Verner;1984.12.16;;2700;Cegléd;Thököly út 93 II.ép. 1/15;1;0;0;+36(20)578-27-33;matrai.verner@outlook.com
+;Fricz Kozett;Fricz;Kozett;1984.11.24;;3918;Szegilong;Vásáros út 29/A;1;0;0;+36(30)575-45-90;fricz.kozett@gmail.com
+;Ötvös Bolívia;Ötvös;Bolívia;1984.11.08;;2900;Komárom;Muskátli  utca 5. 2/5.;1;0;0;+36(70)714-75-36;otvos.bolivia@gmail.com
+;Komjáti Móni;Komjáti;Móni;1984.10.06;;8000;Székesfehérvár;Liszt Ferenc Sétány  29 4/2;1;0;0;+36(70)226-56-89;komjati.moni@outlook.com
+;Hidasi Alfonzin;Hidasi;Alfonzin;1984.08.25;;9241;Jánossomorja;Czirfusz Ferenc (Üveges sarok) utca 30;1;0;0;+36(30)855-70-17;hidasi.alfonzin@gmail.com
+;Békési Armanda;Békési;Armanda;1984.07.27;;2461;Tárnok;Fő út 7;1;0;0;+36(20)305-26-73;bekesi.armanda@gmail.com
+;Ecsedi Ernik;Ecsedi;Ernik;1984.07.09;;2315;Szigethalom;Galla  tanya 2;1;0;0;+36(70)455-30-92;ecsedi.ernik@gmx.com
+;Babai Fernanda;Babai;Fernanda;1984.07.04;;2750;Nagykőrös;Bánomkert  Sor 16 2/6;1;0;0;+36(30)669-87-47;babai.fernanda@protonmail.com
+;Tari Lagerta;Tari;Lagerta;1984.06.20;;3064;Szurdokpüspöki;Felszabadulás utca 35;1;0;0;+36(70)555-69-24;tari.lagerta@gmail.com
+;Varsányi Zamfira;Varsányi;Zamfira;1984.05.28;;4164;Bakonszeg;hrsz. utca 1631/2;1;0;0;+36(20)839-16-97;varsanyi.zamfira@gmail.com
+;Dinnyés Gerjén;Dinnyés;Gerjén;1984.03.26;;6769;Pusztaszer;Rókus utca 34/b;1;0;0;+36(30)509-56-26;dinnyes.gerjen@protonmail.com
+;Mihályi Benvenútó;Mihályi;Benvenútó;1984.03.08;;2421;Nagyvenyim;Rohonci utca 42/C 4/13;1;0;0;+36(70)216-38-16;mihalyi.benvenuto@gmail.com
+;Kolozsvári Irnik;Kolozsvári;Irnik;1984.02.20;;1192;Budapest;Hunyadi János utca 91;1;0;0;+36(30)266-49-22;kolozsvari.irnik@outlook.com
+;Magyar Lígia;Magyar;Lígia;1983.11.18;;1157;Budapest;Fülep Lajos utca 14 1/5;1;0;0;+36(20)377-78-43;magyar.ligia@gmail.com
+;Fehér Marinka;Fehér;Marinka;1983.11.02;;9970;Szentgotthárd;Rózsavölgyi Márk utca 9-11 2/1;1;0;0;+36(30)856-22-26;feher.marinka@aim.com
+;Cserni Lídia;Cserni;Lídia;1983.10.27;;4300;Nyírbátor;Temető  utca 14;1;0;0;+36(20)236-60-60;cserni.lidia@gmail.com
+;Árvai Szilveszter;Árvai;Szilveszter;1983.10.04;;3300;Eger;Tihanyi Árpád utca 2/2;1;0;0;+36(30)759-95-70;arvai.szilveszter@outlook.com
+;Czirják Ofélia;Czirják;Ofélia;1983.10.02;;4031;Debrecen;Trombitás út 2. 2/8;1;0;0;+36(30)830-98-42;czirjak.ofelia@gmx.us
+;Glonczi Kocsárd;Glonczi;Kocsárd;1983.09.27;;9400;Sopron;Vörösmarty  útca 6/a;1;0;0;+36(20)977-86-34;glonczi.kocsard@gmail.com
+;Veisz Bodor;Veisz;Bodor;1983.06.11;;1165;Budapest;Fő út 58.;1;0;0;+36(20)394-78-49;veisz.bodor@yahoo.com
+;Radnai Áron;Radnai;Áron;1983.03.17;;2097;Pilisborosjenő;Hétvezér utca 6/2;1;0;0;+36(30)706-64-23;radnai.aron@gmail.com
+;Csaba Valencia;Csaba;Valencia;1983.01.09;;6500;Baja;Bánki Donát utca 12. 2./1.;1;0;0;+36(30)765-34-58;csaba.valencia@gmx.us
+;Elek Flórián;Elek;Flórián;1983.01.01;;7623;Pécs;Berzsenyi Dániel utca 3;1;0;0;+36(70)836-48-77;elek.florian@freemail.hu
+;Havasi Jordána;Havasi;Jordána;1982.12.21;;1108;Budapest;Sporttelep utca 9 2/6;1;0;0;+36(70)109-68-66;havasi.jordana@gmail.com
+;Visnyei Berengár;Visnyei;Berengár;1982.12.12;;2000;Szentendre;Eötvös utca 2/a;1;0;0;+36(30)168-30-86;visnyei.berengar@gmail.com
+;Vasvári Madocsa;Vasvári;Madocsa;1982.12.06;;2600;Vác;Fő  utca 35;1;0;0;+36(70)823-72-11;vasvari.madocsa@gmail.com
+;Novák Kadocsa;Novák;Kadocsa;1982.10.26;;2700;Cegléd;Kölcsey F. ltp. 19 5/3;1;0;0;+36(20)134-82-37;novak.kadocsa@protonmail.com
+;Fazekas Klélia;Fazekas;Klélia;1982.08.07;;7300;Komló;Rózsa Ferenc utca 15;1;0;0;+36(20)904-94-76;fazekas.klelia@outlook.com
+;Elek Ilán;Elek;Ilán;1982.07.04;;1221;Budapest;Kölcsey  utca 80;1;0;0;+36(30)697-95-89;elek.ilan@gmail.com
+;Hász Nanda;Hász;Nanda;1982.06.11;;9700;Szombathely;Tihanyi Árpád út 2 Szintézis Zrt ép.;1;0;0;+36(30)652-70-70;hasz.nanda@zoho.com
+;Lévai Fatima;Lévai;Fatima;1982.05.17;;1101;Budapest;Üllői út 114-116.;1;0;0;+36(70)398-60-76;levai.fatima@freemail.hu
+;Paulovics Anaszta;Paulovics;Anaszta;1982.04.17;;3300;Eger;Szentgyörgy  út 40 1/3;1;0;0;+36(20)748-57-32;paulovics.anaszta@gmail.com
+;Király Ernesztina;Király;Ernesztina;1982.03.13;;2310;Szigetszentmiklós;Mátyás király  utca 13;1;0;0;+36(30)811-59-58;kiraly.ernesztina@gmail.com
+;Szalkai Radiszló;Szalkai;Radiszló;1982.02.24;;6100;Kiskunfélegyháza;Barátság  út  1/b 4/9;1;0;0;+36(30)627-19-23;szalkai.radiszlo@gmail.com
+;Fábián Ánizs;Fábián;Ánizs;1982.02.11;;5200;Törökszentmiklós;Abos utca 17. alagsor/2;1;0;0;+36(30)730-29-66;fabian.anizs@freemail.hu
+;Biró Elke;Biró;Elke;1982.02.01;;6726;Szeged;Számadó utca 14;1;0;0;+36(30)243-92-79;biro.elke@gmail.com
+;Radics Asztrida;Radics;Asztrida;1982.01.01;;3528;Miskolc;Eperjes út 16 9/27;1;0;0;+36(70)681-20-18;radics.asztrida@yahoo.com
+;Szakáli Demény;Szakáli;Demény;1981.12.23;;1211;Budapest;Rákóczi uca 22;1;0;0;+36(70)367-62-37;szakali.demeny@freemail.hu
+;Bezzeg Ozmin;Bezzeg;Ozmin;1981.11.15;;1117;Budapest;Szabolcs utca 3;1;0;0;+36(70)218-17-77;bezzeg.ozmin@yandex.com
+;Busa Albina;Busa;Albina;1981.09.01;;5502;Gyomaendrőd;Honvéd  utca 33;1;0;0;+36(20)108-65-12;busa.albina@gmx.us
+;Jankovics Sólyom;Jankovics;Sólyom;1981.08.20;;2484;Gárdony;Fegyvernek utca 4. fsz./2.;1;0;0;+36(20)187-74-26;jankovics.solyom@gmail.com
+;Dudás Örsike;Dudás;Örsike;1981.07.28;;7757;Babart;Rákóczi utca 31 C lcs. fsz./1;1;0;0;+36(20)923-18-41;dudas.orsike@gmail.com
+;Makra Indira;Makra;Indira;1981.06.18;;1015;Budapest;Gábor Áron út 5;1;0;0;+36(70)861-29-12;makra.indira@gmail.com
+;Dezső Sáron;Dezső;Sáron;1981.04.23;;2840;Oroszlány;Mágasor tanya 4;1;0;0;+36(30)372-50-39;dezso.saron@yahoo.com
+;Csák Konor;Csák;Konor;1981.04.14;;2225;Üllő;Gyorma utca 27;1;0;0;+36(70)758-20-14;csak.konor@gmail.com
+;Cseke Szilvánusz;Cseke;Szilvánusz;1981.03.10;;9797;Nárai;Kordován tér 9. 4/24;1;0;0;+36(30)169-25-54;cseke.szilvanusz@gmail.com
+;Hagymási Kusán;Hagymási;Kusán;1981.01.26;;5630;Békés;Fő Tér  38 fszt./10;1;0;0;+36(20)535-97-62;hagymasi.kusan@outlook.com
+;Tatár Filippa;Tatár;Filippa;1981.01.11;;8400;Ajka;Nagymező út 30.;1;0;0;+36(30)365-49-83;tatar.filippa@gmail.com
+;Borsi Dolorita;Borsi;Dolorita;1980.07.22;;5700;Gyula;Athén utca 29;1;0;0;+36(70)510-15-66;borsi.dolorita@freemail.hu
+;Töreki Ünige;Töreki;Ünige;1980.06.07;;5741;Kétegyháza;Könyvkötő utca 41.;1;0;0;+36(30)118-20-62;toreki.unige@icloud.com
+;Varjas Tánya;Varjas;Tánya;1980.05.09;;2769;Tápiószőlős;Várkör  út  20-22 1/3;1;0;0;+36(20)221-46-44;varjas.tanya@protonmail.com
+;Komlósi Andi;Komlósi;Andi;1980.03.27;;2713;Csemő;Dózsa utca 44 B ép.;1;0;0;+36(20)318-95-66;komlosi.andi@icloud.com
+;Vadászi Mirabell;Vadászi;Mirabell;1980.03.14;;4324;Kállósemjén;Attila utca 09/8;1;0;0;+36(30)635-13-35;vadaszi.mirabell@gmail.com
+;Gábor Bozsidár;Gábor;Bozsidár;1980.02.27;;3295;Erk;Kossuth Lajos  utca  18;1;0;0;+36(20)431-35-97;gabor.bozsidar@freemail.hu
+;Kakas Klétus;Kakas;Klétus;1980.01.25;;4400;Nyíregyháza;Fő  út 78;1;0;0;+36(20)853-21-60;kakas.kletus@aim.com
+;Ördög Lia;Ördög;Lia;1979.09.24;;1047;Budapest;Déva út 8;1;0;0;+36(30)427-94-61;ordog.lia@protonmail.com
+;Paksi Jácinta;Paksi;Jácinta;1979.07.04;;1156;Budapest;Lebstück M. utca 69 1/8;1;0;0;+36(20)933-50-18;paksi.jacinta@gmail.com
+;Rózsahegyi Amara;Rózsahegyi;Amara;1979.04.15;;6448;Csávoly;Esztergár Lajos utca 2/5 3./7.;1;0;0;+36(20)972-74-18;rozsahegyi.amara@gmail.com
+;Koncsek Kozma;Koncsek;Kozma;1979.03.11;;4220;Hajdúböszörmény;Köztelek utca 4/B;1;0;0;+36(70)205-10-61;koncsek.kozma@gmx.us
+;Rácz Csinszka;Rácz;Csinszka;1979.03.02;;3070;Bátonyterenye;Nagyváthy János  utca 9;1;0;0;+36(20)523-81-61;racz.csinszka@citromail.hu
+;Földi Valentin;Földi;Valentin;1979.02.05;;6000;Kecskemét;József Attila utca 71 4/27;1;0;0;+36(70)558-82-12;foldi.valentin@gmail.com
+;Dósa Taciána;Dósa;Taciána;1979.02.03;;2191;Bag;Erdősor út 20 4/35;1;0;0;+36(30)580-60-94;dosa.taciana@gmail.com
+;Monori Agmánd;Monori;Agmánd;1978.12.04;;5000;Szolnok;Károli Gáspár utca 61/4;1;0;0;+36(20)207-27-46;monori.agmand@gmail.com
+;Sáfrány Mona;Sáfrány;Mona;1978.11.01;;1076;Budapest;Zöldfa  út 78;1;0;0;+36(70)425-91-36;safrany.mona@gmail.com
+;Lendvai Jadviga;Lendvai;Jadviga;1978.09.03;;2532;Tokodaltáró;Szentmihályfalvi utca 13.;1;0;0;+36(30)224-29-71;lendvai.jadviga@gmail.com
+;Biró Rajnáld;Biró;Rajnáld;1978.08.19;;2750;Nagykőrös;Villa Filip tér 2;1;0;0;+36(30)205-71-96;biro.rajnald@gmail.com
+;Simon Árszen;Simon;Árszen;1978.08.13;;2767;Tápiógyörgye;Hármashatár  út 25/C;1;0;0;+36(70)577-22-49;simon.arszen@gmail.com
+;Hoffer Molli;Hoffer;Molli;1978.08.11;;1041;Budapest;Szent Miklós  útja 10 A ép. 1/4;1;0;0;+36(30)661-30-30;hoffer.molli@gmail.com
+;Surányi Iréne;Surányi;Iréne;1978.07.21;;2400;Dunaújváros;Teleki utca 3 fsz./1;1;0;0;+36(30)962-10-36;suranyi.irene@protonmail.com
+;Tátrai Metta;Tátrai;Metta;1978.05.06;;7800;Siklós;Váci út 44;1;0;0;+36(20)149-14-50;tatrai.metta@gmail.com
+;Dávid Tarek;Dávid;Tarek;1978.04.08;;6034;Helvécia;Álmos utca 6.;1;0;0;+36(20)220-38-61;david.tarek@protonmail.com
+;Kertai Taksony;Kertai;Taksony;1978.03.28;;3528;Miskolc;Fényes udvar 9 fszt/1;1;0;0;+36(20)983-39-81;kertai.taksony@protonmail.com
+;Komlósi Eduárda;Komlósi;Eduárda;1978.02.17;;3400;Mezőkövesd;Gőzhajó utca 14 fszt/20;1;0;0;+36(20)401-77-46;komlosi.eduarda@gmail.com
+;Széplaki Ditmár;Széplaki;Ditmár;1977.10.24;;6300;Kalocsa;Simító  utca 18;1;0;0;+36(30)535-85-14;szeplaki.ditmar@gmail.com
+;Hajzer Kénán;Hajzer;Kénán;1977.07.24;;8000;Székesfehérvár;Vasút utca 8/a.;1;0;0;+36(20)452-65-66;hajzer.kenan@gmx.com
+;Móricz Ajra;Móricz;Ajra;1977.07.20;;6120;Kiskunmajsa;Sólyatér utca 4/A 8/D805;1;0;0;+36(30)638-35-45;moricz.ajra@icloud.com
+;Sinka Csörsz;Sinka;Csörsz;1977.07.18;;2092;Budakeszi;Fábián Kapu kapu 1 2/1;1;0;0;+36(20)948-49-92;sinka.csorsz@zoho.com
+;Maróti Erzsébet;Maróti;Erzsébet;1977.07.04;;3700;Kazincbarcika;Pázsit utca 12;1;0;0;+36(20)160-17-51;maroti.erzsebet@gmail.com
+;Pál Aina;Pál;Aina;1977.06.12;;9027;Győr;Hőforrás utca 34;1;0;0;+36(20)380-27-67;pal.aina@citromail.hu
+;Biczó Korália;Biczó;Korália;1977.05.21;;6900;Makó;Berzsenyi Dániel  utca 1;1;0;0;+36(30)690-15-80;biczo.koralia@freemail.hu
+;Kazinczi Annabell;Kazinczi;Annabell;1977.05.20;;5123;Jászárokszállás;Kárász József utca 53.;1;0;0;+36(30)848-72-98;kazinczi.annabell@freemail.hu
+;Jancsó Lulu;Jancsó;Lulu;1977.04.23;;3000;Hatvan;Péterhalmi út 8;1;0;0;+36(20)662-24-60;jancso.lulu@gmail.com
+;Borsi Brútusz;Borsi;Brútusz;1977.03.13;;8315;Gyenesdiás;Rákóczi út 20 4/104;1;0;0;+36(30)779-74-84;borsi.brutusz@icloud.com
+;Kövér Berta;Kövér;Berta;1977.03.01;;7099;Felsőnyék;Kodolányi János  utca 31 3/7;1;0;0;+36(70)866-39-43;kover.berta@outlook.com
+;Pálóczi Nurbanu;Pálóczi;Nurbanu;1977.02.14;;2400;Dunaújváros;Vörösmarty  utca 3/A;1;0;0;+36(30)109-71-66;paloczi.nurbanu@zoho.com
+;Munkácsi Szilvér;Munkácsi;Szilvér;1977.02.11;;4700;Mátészalka;Rákóczi Ferenc  út  59;1;0;0;+36(70)981-50-38;munkacsi.szilver@gmail.com
+;Daróczi Norena;Daróczi;Norena;1977.01.17;;7020;Dunaföldvár;Házgyár út 12 Teherporta;1;0;0;+36(20)227-59-95;daroczi.norena@gmail.com
+;Rafai Florica;Rafai;Florica;1977.01.15;;2117;Isaszeg;Rózsakvarc utca 14/2;1;0;0;+36(30)880-45-87;rafai.florica@outlook.com
+;Izsák Szantínó;Izsák;Szantínó;1977.01.01;;6060;Tiszakécske;Kiss Ernő  utca 28 1/4;1;0;0;+36(20)182-81-97;izsak.szantino@yahoo.com
+;Szakáll Ámina;Szakáll;Ámina;1976.12.28;;1164;Budapest;Rétköz utca 3/a;1;0;0;+36(70)458-64-44;szakall.amina@gmx.us
+;Bor Damiána;Bor;Damiána;1976.10.24;;2750;Nagykőrös;Baross utca 127 2/11;1;0;0;+36(20)397-96-10;bor.damiana@citromail.hu
+;Hajzer Timóteus;Hajzer;Timóteus;1976.09.09;;1117;Budapest;Dózsa György  utca 15 b;1;0;0;+36(70)497-35-50;hajzer.timoteus@citromail.hu
+;Győri Tacitusz;Győri;Tacitusz;1976.07.09;;4400;Nyíregyháza;Mártírok  útja 3 A ép.;1;0;0;+36(30)979-90-54;gyori.tacitusz@gmx.us
+;Sipos Vikram;Sipos;Vikram;1976.04.21;;9545;Jánosháza;Ár utca 2;1;0;0;+36(70)291-11-89;sipos.vikram@gmail.com
+;Adorján Jászira;Adorján;Jászira;1976.03.20;;8948;Nova;Kő utca 9/2;1;0;0;+36(30)726-37-40;adorjan.jaszira@zoho.com
+;Dezső Ivár;Dezső;Ivár;1976.02.13;;6500;Baja;Virág  utca  18;1;0;0;+36(70)259-31-83;dezso.ivar@protonmail.com
+;Kókai Levendula;Kókai;Levendula;1976.01.07;;1142;Budapest;Vadrózsa utca 7/A;1;0;0;+36(30)824-36-64;kokai.levendula@gmail.com
+;Bús Apaj;Bús;Apaj;1975.11.12;;2200;Monor;Rózsa Ferenc utca 11;1;0;0;+36(20)227-56-72;bus.apaj@gmail.com
+;Csernák Rájen;Csernák;Rájen;1975.11.03;;3980;Sátoraljaújhely;Bartók Béla utca 6 3/3;1;0;0;+36(20)183-49-67;csernak.rajen@gmail.com
+;Bujáki Elemér;Bujáki;Elemér;1975.10.26;;6723;Szeged;Borsodpuszta külterület 8.;1;0;0;+36(70)464-26-41;bujaki.elemer@yandex.com
+;Meggyesi Leandró;Meggyesi;Leandró;1975.08.03;;6600;Szentes;Vasút utca 17;1;0;0;+36(20)714-63-94;meggyesi.leandro@protonmail.com
+;Sümegi Nauszika;Sümegi;Nauszika;1975.07.14;;7000;Sárbogárd;Alsóteleki utca 46;1;0;0;+36(20)924-77-85;sumegi.nauszika@gmail.com
+;Ádám Nóna;Ádám;Nóna;1975.07.10;;2760;Nagykáta;Erdélyi János utca 5 B ép. 1 lcs. 1/1;1;0;0;+36(70)139-13-55;adam.nona@gmail.com
+;Petrovics Romárió;Petrovics;Romárió;1975.05.05;;4065;Újszentmargita;Pálya utca 18 D lcs. 4/51;1;0;0;+36(20)134-23-55;petrovics.romario@gmail.com
+;Rácz Mirabel;Rácz;Mirabel;1975.05.01;;1224;Budapest;Szőlő sor 24;1;0;0;+36(70)425-35-91;racz.mirabel@protonmail.com
+;Szász Rákis;Szász;Rákis;1975.03.14;;6500;Baja;Vörösmarty utca 14. 1/5/A;1;0;0;+36(20)841-83-18;szasz.rakis@yahoo.com
+;Suha Szilver;Suha;Szilver;1975.01.10;;4440;Tiszavasvári;Tomori Pál út 4;1;0;0;+36(70)132-17-90;suha.szilver@outlook.com
+;Lakos Raul;Lakos;Raul;1974.08.26;;4450;Tiszalök;Kiss János utca 4.;1;0;0;+36(20)288-52-67;lakos.raul@gmail.com
+;Gyuricza Tiána;Gyuricza;Tiána;1974.08.24;;2170;Aszód;Határ  utca  13,;1;0;0;+36(70)422-37-85;gyuricza.tiana@freemail.hu
+;Fehérvári Tivald;Fehérvári;Tivald;1974.04.13;;8000;Székesfehérvár;Iván utca 10 3/1;1;0;0;+36(30)525-21-33;fehervari.tivald@outlook.com
+;Boldizsár Armilla;Boldizsár;Armilla;1974.03.14;;1201;Budapest;Fáy András utca 11 2/20;1;0;0;+36(20)123-31-97;boldizsar.armilla@aim.com
+;Pozsár Briana;Pozsár;Briana;1974.02.16;;2049;Diósd;Váci Mihály  út 8;1;0;0;+36(30)349-62-43;pozsar.briana@protonmail.com
+;Palotás Kisanna;Palotás;Kisanna;1974.02.05;;1108;Budapest;Gépállomás utca 60 IKR Agrár Kft ép.;1;0;0;+36(70)864-62-36;palotas.kisanna@gmail.com
+;Krisztián Jordána;Krisztián;Jordána;1973.12.28;;6440;Jánoshalma;Fő út 134.;1;0;0;+36(20)139-64-86;krisztian.jordana@gmx.com
+;Sági Gusztáv;Sági;Gusztáv;1973.12.17;;9228;Halászi;Szabó Kálmán  utca 11 4/15;1;0;0;+36(70)385-28-86;sagi.gusztav@aol.com
+;Koch Florencia;Koch;Florencia;1973.12.15;;1093;Budapest;Fő utca 50/B;1;0;0;+36(70)541-85-20;koch.florencia@freemail.hu
+;Besenyei Nana;Besenyei;Nana;1973.12.09;;3000;Hatvan;Dunadűlő  út 3/c. 4./26.;1;0;0;+36(30)518-82-94;besenyei.nana@gmx.us
+;Vizi Ábel;Vizi;Ábel;1973.11.01;;2310;Szigetszentmiklós;szövőszék utca 14 8/33;1;0;0;+36(30)754-34-78;vizi.abel@aol.com
+;Lakner Lagerta;Lakner;Lagerta;1973.09.17;;1045;Budapest;Faiskola  utca  6.;1;0;0;+36(70)231-62-47;lakner.lagerta@gmail.com
+;Sárközi Levéd;Sárközi;Levéd;1973.09.09;;8676;Karád;Semmelweis Ignác utca 16. 1./6.;1;0;0;+36(30)350-37-25;sarkozi.leved@gmx.com
+;Sütő Henni;Sütő;Henni;1973.07.18;;3078;Bátonyterenye;Mogyoródi út 136 B ép. 1/1;1;0;0;+36(20)888-23-50;suto.henni@outlook.com
+;Frankó Eldon;Frankó;Eldon;1973.07.15;;8151;Szabadbattyán;Csonkás utca 1;1;0;0;+36(70)165-52-56;franko.eldon@yahoo.com
+;Kővágó Zejna;Kővágó;Zejna;1973.05.18;;5123;Jászárokszállás;Heltai Jenő  utca 38;1;0;0;+36(70)967-13-61;kovago.zejna@gmail.com
+;Kővágó Kevend;Kővágó;Kevend;1973.05.10;;7632;Pécs;Szálláska utca 52;1;0;0;+36(30)210-84-72;kovago.kevend@protonmail.com
+;Zagyva Lilianna;Zagyva;Lilianna;1973.04.20;;6035;Ballószög;Nefelecs utca 17;1;0;0;+36(30)131-76-78;zagyva.lilianna@outlook.com
+;Debreceni Katrin;Debreceni;Katrin;1973.02.20;;2890;Tata;Fő út 154;1;0;0;+36(30)519-85-32;debreceni.katrin@outlook.com
+;Pála Dorel;Pála;Dorel;1972.12.05;;6800;Hódmezővásárhely;Bláthy Ottó  utca 6 3/11;1;0;0;+36(70)458-50-86;pala.dorel@aol.com
+;Józsa Zénó;Józsa;Zénó;1972.11.06;;3521;Miskolc;Széchenyi István út 29.;1;0;0;+36(20)705-56-82;jozsa.zeno@gmail.com
+;Törőcsik Bojtor;Törőcsik;Bojtor;1972.10.12;;1161;Budapest;Toldy Ferenc utca 33;1;0;0;+36(70)378-22-32;torocsik.bojtor@outlook.com
+;Újfalusi Emiliána;Újfalusi;Emiliána;1972.09.19;;9494;Sopron;Bercsényi utca 8;1;0;0;+36(70)731-10-37;ujfalusi.emiliana@citromail.hu
+;Both Lotár;Both;Lotár;1972.08.16;;2200;Monor;Rákóczi út 98-126 C lcs. fsz/7;1;0;0;+36(70)896-46-71;both.lotar@gmx.us
+;Csorba Gauri;Csorba;Gauri;1972.08.11;;9200;Mosonmagyaróvár;III utca 85/a;1;0;0;+36(30)537-32-19;csorba.gauri@gmail.com
+;Nagypál Leó;Nagypál;Leó;1972.08.01;;5200;Törökszentmiklós;Petőfi S.  utca 61;1;0;0;+36(30)565-34-17;nagypal.leo@protonmail.com
+;Barta Algernon;Barta;Algernon;1972.07.25;;7951;Gerde;Pálos utca 1 7/30;1;0;0;+36(20)440-51-59;barta.algernon@icloud.com
+;Bató Azarél;Bató;Azarél;1972.07.16;;2371;Dabas;Séllyei utca 7;1;0;0;+36(20)287-58-24;bato.azarel@freemail.hu
+;Karaszi Tibor;Karaszi;Tibor;1972.04.18;;1171;Budapest;Fehér utca 36.;1;0;0;+36(20)815-57-35;karaszi.tibor@aim.com
+;Böhm Szalviusz;Böhm;Szalviusz;1972.03.23;;4002;Debrecen;Annamajor utca 22;1;0;0;+36(70)180-51-44;bohm.szalviusz@aim.com
+;Fülöp Bársonyka;Fülöp;Bársonyka;1972.03.21;;5000;Szolnok;Bartók Béla utca 106;1;0;0;+36(20)384-90-87;fulop.barsonyka@zoho.com
+;Vági Milán;Vági;Milán;1972.03.20;;2233;Ecser;Árpád út 85/A 1/6;1;0;0;+36(30)374-20-32;vagi.milan@gmail.com
+;István Jozefa;István;Jozefa;1972.03.19;;5474;Tiszasas;Szent István út 1/C Kcs:42 7/42;1;0;0;+36(70)259-86-28;istvan.jozefa@gmail.com
+;Pintye Hümér;Pintye;Hümér;1972.01.18;;6758;Röszke;Könyes Kálmán utca 19;1;0;0;+36(70)151-64-44;pintye.humer@protonmail.com
+;Kazinczi Jemima;Kazinczi;Jemima;1971.10.10;;9167;Bősárkány;Mártírok út 9 3/10;1;0;0;+36(30)781-78-41;kazinczi.jemima@gmx.com
+;Apáti Alexandrin;Apáti;Alexandrin;1971.07.18;;6328;Dunapataj;Huszár ltp 32/e 1/4;1;0;0;+36(30)389-97-17;apati.alexandrin@gmail.com
+;Illés Gerő;Illés;Gerő;1971.06.19;;2400;Dunaújváros;Alszegi út 44;1;0;0;+36(20)154-69-22;illes.gero@freemail.hu
+;Földvári Toszka;Földvári;Toszka;1971.03.28;;4625;Záhony;Széchenyi István utca 33 1/7;1;0;0;+36(20)240-30-22;foldvari.toszka@gmail.com
+;Fridrich Gujdó;Fridrich;Gujdó;1971.01.27;;8600;Siófok;Széchenyi krt 123;1;0;0;+36(20)439-10-32;fridrich.gujdo@yahoo.com
+;Déri Janna;Déri;Janna;1970.09.27;;5430;Tiszaföldvár;Szent Márton utca 20 1/4;1;0;0;+36(70)263-85-94;deri.janna@icloud.com
+;Valter Szivárvány;Valter;Szivárvány;1970.05.07;;4254;Nyíradony;Nádasdy Kálmán  utca 23 8/23;1;0;0;+36(20)581-54-60;valter.szivarvany@freemail.hu
+;Magyari Lenke;Magyari;Lenke;1970.05.01;;1112;Budapest;Honfoglalás utca 54.;1;0;0;+36(70)500-60-35;magyari.lenke@zoho.com
+;Reményi Róza;Reményi;Róza;1970.03.28;;3400;Mezőkövesd;Széchenyi utca 28.;1;0;0;+36(20)839-91-70;remenyi.roza@gmail.com
+;Gazdag Nétusz;Gazdag;Nétusz;1970.03.19;;1036;Budapest;Fő  utca  67;1;0;0;+36(20)442-85-34;gazdag.netusz@gmail.com
+;Bősze Röné;Bősze;Röné;1970.03.14;;3360;Heves;Szőlőskert út 14;1;0;0;+36(30)119-62-40;bosze.rone@gmx.com
+;Palkovics Oktár;Palkovics;Oktár;1970.03.13;;1173;Budapest;Béla utca 2;1;0;0;+36(20)855-41-79;palkovics.oktar@aim.com
+;Torma Arina;Torma;Arina;1970.01.18;;1139;Budapest;Beller Imre utca 102/2;1;0;0;+36(20)727-29-17;torma.arina@yandex.com
+;Vastag Zobor;Vastag;Zobor;1969.12.27;;2840;Oroszlány;Csaba  utca 52 A lcs. 5/14;1;0;0;+36(30)688-59-38;vastag.zobor@icloud.com
+;Diós Csete;Diós;Csete;1969.11.16;;6000;Kecskemét;Malomsok  Sétány 18/A fszt./2;1;0;0;+36(30)892-62-79;dios.csete@gmail.com
+;Szirmai Kapolcs;Szirmai;Kapolcs;1969.10.08;;5000;Szolnok;Pázmány péter  körút 42 3/13;1;0;0;+36(20)753-35-62;szirmai.kapolcs@outlook.com
+;Kocsis Mita;Kocsis;Mita;1969.09.27;;2375;Tatárszentgyörgy;Grassalkovich utca 25;1;0;0;+36(70)905-55-76;kocsis.mita@outlook.com
+;Turcsán Bakács;Turcsán;Bakács;1969.09.21;;2253;Tápióság;Szabadság út 107.;1;0;0;+36(30)818-42-58;turcsan.bakacs@icloud.com
+;Jankovics Kadosa;Jankovics;Kadosa;1969.09.13;;7400;Kaposvár;Alkotás  utca 64 ;1;0;0;+36(70)126-51-63;jankovics.kadosa@outlook.com
+;Jakus Marton;Jakus;Marton;1969.08.18;;7975;Kétújfalu;Kévekötő utca 16.;1;0;0;+36(70)907-83-92;jakus.marton@aol.com
+;Kakas Janna;Kakas;Janna;1969.08.09;;1191;Budapest;Széchenyi utca 26. ;1;0;0;+36(30)825-54-36;kakas.janna@gmail.com
+;Kolozsvári Malajka;Kolozsvári;Malajka;1969.07.15;;3200;Gyöngyös;Árva  utca 20;1;0;0;+36(20)726-23-94;kolozsvari.malajka@yahoo.com
+;Hódi Floransz;Hódi;Floransz;1969.07.09;;8500;Pápa;Vajda utca 7;1;0;0;+36(20)324-80-43;hodi.floransz@aim.com
+;Szappanos Katerina;Szappanos;Katerina;1969.06.04;;2013;Pomáz;Pozsonyi utca 6/c 8/99;1;0;0;+36(70)347-77-55;szappanos.katerina@citromail.hu
+;Rékasi Gergely;Rékasi;Gergely;1969.05.20;;3851;Ináncs;Ady Endre utca 28 A ép.;1;0;0;+36(70)575-96-93;rekasi.gergely@gmail.com
+;Maczkó Rüja;Maczkó;Rüja;1969.01.20;;4741;Jánkmajtis;Árpád  út 23;1;0;0;+36(30)945-67-84;maczko.ruja@gmail.com
+;Zsolnai Magdó;Zsolnai;Magdó;1969.01.05;;4200;Hajdúszoboszló;Gvadányi József utca 28;1;0;0;+36(70)159-80-40;zsolnai.magdo@gmail.com
+;Széles Obed;Széles;Obed;1968.12.17;;8440;Herend;Babgulyás  út 11;1;0;0;+36(30)937-77-67;szeles.obed@outlook.com
+;Csengeri Levízia;Csengeri;Levízia;1968.09.21;;1188;Budapest;Homok utca 10.aug 1/4;1;0;0;+36(30)220-47-58;csengeri.levizia@freemail.hu
+;Mácsai Ahillész;Mácsai;Ahillész;1968.09.17;;2244;Úri;Vácduka tér  3;1;0;0;+36(20)558-28-74;macsai.ahillesz@freemail.hu
+;Váradi Lizanka;Váradi;Lizanka;1968.07.09;;2658;Pusztaberki;Úrihegy Tanya 270/4;1;0;0;+36(30)426-10-50;varadi.lizanka@protonmail.com
+;Szemes Anita;Szemes;Anita;1968.02.19;;4551;Nyíregyháza;Árpád  utca 49;1;0;0;+36(30)785-46-54;szemes.anita@gmail.com
+;Veszprémi Marietta;Veszprémi;Marietta;1968.02.07;;4300;Nyírbátor;Tószegi út  24;1;0;0;+36(30)498-41-86;veszpremi.marietta@freemail.hu
+;Békefi Bella;Békefi;Bella;1968.01.14;;1147;Budapest;Csokonai út 27 4/12;1;0;0;+36(70)566-15-66;bekefi.bella@yahoo.com
+;Hidvégi Sirá;Hidvégi;Sirá;1967.12.21;;1156;Budapest;Vasút utca 63;1;0;0;+36(30)359-47-31;hidvegi.sira@yahoo.com
+;Gyurkovics Ardó;Gyurkovics;Ardó;1967.11.09;;7632;Pécs;Szolnoki út  59 fsz./2;1;0;0;+36(30)384-37-15;gyurkovics.ardo@yandex.com
+;Pusoma Sára;Pusoma;Sára;1967.09.12;;7951;Gerde;Latabár Kálmán utca 7. fsz./1.;1;0;0;+36(30)241-20-47;pusoma.sara@gmail.com
+;Brunner Kandid;Brunner;Kandid;1967.08.27;;4220;Hajdúböszörmény;Bocskai utca 5.;1;0;0;+36(70)974-26-58;brunner.kandid@citromail.hu
+;Lakos Füzike;Lakos;Füzike;1967.08.26;;8646;Balatonfenyves;Forrás utca 2/D 1/2;1;0;0;+36(20)756-83-40;lakos.fuzike@gmail.com
+;Mohácsi Barbarella;Mohácsi;Barbarella;1967.07.28;;1139;Budapest;Liszt Ferenc utca 29. fszt/1;1;0;0;+36(30)811-40-55;mohacsi.barbarella@gmail.com
+;Márton Ágoston;Márton;Ágoston;1967.06.04;;1142;Budapest;liget utca utca 17;1;0;0;+36(70)383-70-38;marton.agoston@protonmail.com
+;Jávor Zotmund;Jávor;Zotmund;1967.05.26;;4031;Debrecen;Benedek Elek  utca 74/B;1;0;0;+36(20)482-84-41;javor.zotmund@protonmail.com
+;Kanalas Ronen;Kanalas;Ronen;1967.02.19;;1105;Budapest;Fő  utca 82;1;0;0;+36(20)935-82-74;kanalas.ronen@yandex.com
+;Orsós Pirit;Orsós;Pirit;1967.02.19;;8790;Zalaszentgrót;Kuruc utca 6 7/1;1;0;0;+36(70)970-91-39;orsos.pirit@gmail.com
+;Házi Levízia;Házi;Levízia;1967.02.14;;9700;Szombathely;Szemere Bertalan  utca 14;1;0;0;+36(20)441-83-21;hazi.levizia@gmail.com
+;Braun Bóra;Braun;Bóra;1966.11.22;;2367;Újhartyán;árpád  utca 29;1;0;0;+36(20)445-89-91;braun.bora@gmail.com
+;Bella Liem;Bella;Liem;1966.10.28;;1215;Budapest;Száki utca 41.;1;0;0;+36(20)651-69-74;bella.liem@protonmail.com
+;Domján Tessza;Domján;Tessza;1966.10.02;;2095;Pilisszántó;Vasút utca 14;1;0;0;+36(70)469-90-94;domjan.tessza@yandex.com
+;Tajti Klementina;Tajti;Klementina;1966.09.16;;7191;Hőgyész;Kazinczy utca 16.;1;0;0;+36(30)126-83-41;tajti.klementina@icloud.com
+;Szentpéteri Linka;Szentpéteri;Linka;1966.07.06;;7951;Szabadszentkirály;Csaba utca 41/2;1;0;0;+36(70)832-47-68;szentpeteri.linka@aol.com
+;Laczai Netta;Laczai;Netta;1966.06.16;;1016;Budapest;Pesti  utca 2.;1;0;0;+36(20)327-45-17;laczai.netta@gmail.com
+;Gyenge Mária;Gyenge;Mária;1966.06.06;;3044;Szirák;Vasút utca 19;1;0;0;+36(30)599-16-54;gyenge.maria@aol.com
+;Orsós Melani;Orsós;Melani;1966.05.23;;1144;Budapest;Bacsó Béla út 66/20 4/1;1;0;0;+36(70)204-88-80;orsos.melani@gmail.com
+;Mága Azura;Mága;Azura;1966.05.04;;6320;Solt;Árok utca 1 3/10;1;0;0;+36(70)258-39-67;maga.azura@gmx.us
+;Wéber Kleopátra;Wéber;Kleopátra;1966.04.09;;8451;Ajka;IIlyés Gyula  utca 3.  fszt./4;1;0;0;+36(20)897-28-55;weber.kleopatra@protonmail.com
+;Hermann Baksa;Hermann;Baksa;1966.03.21;;9900;Körmend;Petőfi Sándor út 136/a;1;0;0;+36(70)317-13-80;hermann.baksa@yandex.com
+;Ványi Záli;Ványi;Záli;1966.02.20;;4495;Döge;Rottenbiller  utca 5/C fszt./4/A;1;0;0;+36(20)434-86-39;vanyi.zali@yandex.com
+;Kádas Mariska;Kádas;Mariska;1966.01.21;;4031;Debrecen;501. utca 19;1;0;0;+36(30)639-57-71;kadas.mariska@gmail.com
+;Lövei Blandina;Lövei;Blandina;1966.01.13;;1191;Budapest;Bajcsy-Zsilinszky utca 12/A/4;1;0;0;+36(20)481-56-41;lovei.blandina@gmail.com
+;Mihalik Domokos;Mihalik;Domokos;1965.12.25;;1047;Budapest;Királyi Pál utca 25;1;0;0;+36(30)165-37-42;mihalik.domokos@outlook.com
+;Király Mózsi;Király;Mózsi;1965.12.13;;4064;Nagyhegyes;Deák Ferenc utCA 10.;1;0;0;+36(20)201-45-68;kiraly.mozsi@outlook.com
+;Bogdán Ilmár;Bogdán;Ilmár;1965.11.21;;9326;Szil;Füzes út 29;1;0;0;+36(70)341-64-11;bogdan.ilmar@gmx.com
+;Kele Ágas;Kele;Ágas;1965.11.05;;2400;dunaújváros;Tolnai út 6 B ép. 2/13;1;0;0;+36(30)529-23-48;kele.agas@outlook.com
+;Abonyi Fausztina;Abonyi;Fausztina;1965.08.27;;1108;Budapest;Nyárfa sor 8;1;0;0;+36(70)171-92-34;abonyi.fausztina@zoho.com
+;Vidák Herkules;Vidák;Herkules;1965.08.04;;4183;Kaba;Bogdánfy utca 1 8/30;1;0;0;+36(70)215-17-66;vidak.herkules@gmail.com
+;Polák Olívia;Polák;Olívia;1965.08.03;;6600;Szentes;Gerzsó dűlő 1;1;0;0;+36(70)726-83-54;polak.olivia@citromail.hu
+;Prokaj Krisztin;Prokaj;Krisztin;1965.08.03;;9485;Nagycenk;Szentgyörgy  út 40 3/1;1;0;0;+36(20)173-38-12;prokaj.krisztin@freemail.hu
+;Héja Fiametta;Héja;Fiametta;1965.04.24;;4220;Hajdúböszörmény;István utca 115 5/15kcs:15;1;0;0;+36(20)962-23-29;heja.fiametta@icloud.com
+;Bota Alíz;Bota;Alíz;1965.04.01;;8800;Nagykanizsa;Cukrász utca 11;1;0;0;+36(30)127-96-74;bota.aliz@outlook.com
+;Wolf Bedecs;Wolf;Bedecs;1965.02.12;;3700;Kazincbarcika;Kosuth Lajos utca 13;1;0;0;+36(20)750-30-50;wolf.bedecs@yandex.com
+;Busa Lorin;Busa;Lorin;1965.02.08;;6440;Jánoshalma;Cukorgyári  ltp. 2/B 3/9;1;0;0;+36(30)247-53-25;busa.lorin@gmail.com
+;Kara Móhini;Kara;Móhini;1965.01.03;;9141;Ikrény;Fáy  utca 64-66D LPH fszt./5;1;0;0;+36(20)571-25-86;kara.mohini@zoho.com
+;Botos Anada;Botos;Anada;1964.12.26;;3000;Hatvan;Arany út 4;1;0;0;+36(20)752-27-12;botos.anada@outlook.com
+;Földi Kászon;Földi;Kászon;1964.06.15;;4561;Baktalórántháza;Szent Imre út 2-4 GyMS-MRFK-porta ép.;1;0;0;+36(30)894-22-90;foldi.kaszon@freemail.hu
+;Sas Celerina;Sas;Celerina;1964.05.13;;1142;Budapest;Toldy  út 36.;1;0;0;+36(30)918-52-93;sas.celerina@citromail.hu
+;Bacsa Szilvána;Bacsa;Szilvána;1964.03.08;;2074;Perbál;Pálos utca 1 8/32;1;0;0;+36(30)720-60-39;bacsa.szilvana@freemail.hu
+;Répási Anakin;Répási;Anakin;1964.02.24;;1163;Budapest;Rózsa út 13 1/5;1;0;0;+36(30)273-57-85;repasi.anakin@protonmail.com
+;Beke Krisztofer;Beke;Krisztofer;1964.01.19;;6041;Kerekegyháza;Lórántffy utca 9 2/2;1;0;0;+36(70)881-25-45;beke.krisztofer@gmail.com
+;Hornyák Zetár;Hornyák;Zetár;1963.09.13;;9421;Fertőrákos;Laki utca 3.;1;0;0;+36(30)727-95-47;hornyak.zetar@gmail.com
+;Lechner Verona;Lechner;Verona;1963.08.18;;5000;Szolnok;Őrség utca 9 B ép. 1./6;1;0;0;+36(30)487-97-84;lechner.verona@gmail.com
+;Baki Alita;Baki;Alita;1963.08.13;;6085;Fülöpszállás;Eötvös utca 9/A;1;0;0;+36(20)151-89-83;baki.alita@freemail.hu
+;Bujáki Alexia;Bujáki;Alexia;1963.06.12;;8900;Zalaegerszeg;Jövendő utca 2/B.;1;0;0;+36(20)698-39-86;bujaki.alexia@citromail.hu
+;Gyulai Ramiz;Gyulai;Ramiz;1963.06.06;;8800;Nagykanizsa;Magyarürögi út 98;1;0;0;+36(70)272-82-25;gyulai.ramiz@gmail.com
+;Karácsonyi Tamina;Karácsonyi;Tamina;1963.05.14;;9909;Körmend;Nyárfa utca 3.;1;0;0;+36(70)248-34-26;karacsonyi.tamina@gmail.com
+;Harmati Almira;Harmati;Almira;1963.04.04;;2840;Oroszlány;Honfoglalás utca 50.;1;0;0;+36(70)550-47-94;harmati.almira@freemail.hu
+;Csernus Orsi;Csernus;Orsi;1963.03.01;;5361;Tiszaigar;Varsa utca 5 5 ép. 5 lcs. 6/18;1;0;0;+36(20)413-30-20;csernus.orsi@gmail.com
+;Bácsi Szilárd;Bácsi;Szilárd;1963.03.01;;8423;Szápár;Záhony utca 7;1;0;0;+36(70)659-23-78;bacsi.szilard@protonmail.com
+;Pénzes Loránt;Pénzes;Loránt;1963.02.06;;8913;Egervár;Kazinczy utca 1-3;1;0;0;+36(30)247-30-75;penzes.lorant@yandex.com
+;Galambos Agnella;Galambos;Agnella;1963.01.27;;9799;Szentpéterfa;Mendei  út 18 b ;1;0;0;+36(30)753-84-90;galambos.agnella@gmail.com
+;Eke Melodi;Eke;Melodi;1963.01.22;;1221;Budapest;Petőfi ltp. 15 B3/305;1;0;0;+36(30)165-77-53;eke.melodi@gmail.com
+;Bába Timur;Bába;Timur;1962.12.18;;2737;Ceglédbercel;Sallai utca 5;1;0;0;+36(70)790-57-56;baba.timur@outlook.com
+;Szászi Hanka;Szászi;Hanka;1962.11.09;;6114;Bugac;Gábor Áron  út 10/a;1;0;0;+36(70)563-78-61;szaszi.hanka@freemail.hu
+;Cser Florianna;Cser;Florianna;1962.08.18;;1212;Budapest;Berzsenyi Dániel út 20 3/25;1;0;0;+36(70)709-89-46;cser.florianna@gmail.com
+;Tábori Kassziopeia;Tábori;Kassziopeia;1962.08.14;;1047;Budapest;Gömb utca 70;1;0;0;+36(70)790-66-80;tabori.kassziopeia@gmail.com
+;Valkai Szorin;Valkai;Szorin;1962.07.28;;2890;Tata;Rákóczi Ferenc  utca 36.;1;0;0;+36(30)630-77-52;valkai.szorin@gmail.com
+;Érsek Ditti;Érsek;Ditti;1962.07.17;;7921;Somogyhatvan;Vörösmarty út 1 8/3;1;0;0;+36(30)552-66-72;ersek.ditti@gmail.com
+;Bogdán Zala;Bogdán;Zala;1962.07.09;;1139;Budapest;Akadémia körút 20 8/51;1;0;0;+36(70)794-23-84;bogdan.zala@gmail.com
+;Rontó Sakti;Rontó;Sakti;1962.05.02;;8400;Ajka;Miklós  utca 1 1/6;1;0;0;+36(30)108-56-37;ronto.sakti@gmail.com
+;Elek Szepes;Elek;Szepes;1962.01.07;;2233;Ecser;Nagylóki út 30.;1;0;0;+36(30)452-43-45;elek.szepes@protonmail.com
+;Unger Arif;Unger;Arif;1961.12.28;;7051;Kajdacs;Harangvirág  utca 32;1;0;0;+36(30)324-24-45;unger.arif@aim.com
+;Pulai Mici;Pulai;Mici;1961.11.08;;2098;Pilisszentkereszt;Temető  utca 11;1;0;0;+36(70)737-39-92;pulai.mici@protonmail.com
+;Galyas Boleszláv;Galyas;Boleszláv;1961.09.26;;2490;Pusztaszabolcs;Fő  utca 53;1;0;0;+36(20)477-43-34;galyas.boleszlav@gmail.com
+;Gruber Szilárda;Gruber;Szilárda;1961.09.16;;4700;Mátészalka;Fő utca 38/a;1;0;0;+36(70)431-91-72;gruber.szilarda@gmail.com
+;Bencze Helka;Bencze;Helka;1961.07.14;;3300;Eger;Köszegi utca 17.;1;0;0;+36(70)741-54-48;bencze.helka@protonmail.com
+;Tanács Volfram;Tanács;Volfram;1961.07.12;;6423;Kelebia;Jókai út 14 10 ép.;1;0;0;+36(30)357-19-60;tanacs.volfram@aim.com
+;Gyenge Kiliána;Gyenge;Kiliána;1961.06.06;;1039;Budapest;Fogarasi utca 24/B;1;0;0;+36(20)494-32-82;gyenge.kiliana@aol.com
+;Vígh Ajándék;Vígh;Ajándék;1961.04.22;;1139;Budapest;Rákóczi Ferenc  Tér 3;1;0;0;+36(20)211-47-77;vigh.ajandek@gmail.com
+;Ambrus Mimma;Ambrus;Mimma;1961.03.01;;1238;Budapest;Tószegi  Út 15;1;0;0;+36(20)816-25-84;ambrus.mimma@yandex.com
+;Suhajda Narin;Suhajda;Narin;1961.02.17;;1183;Budapest;Fő  út 41;1;0;0;+36(20)709-23-69;suhajda.narin@outlook.com
+;Makó Seli;Makó;Seli;1961.02.05;;1106;Budapest;Bécsi út 231.;1;0;0;+36(30)938-37-90;mako.seli@aim.com
+;Guba Fabrícius;Guba;Fabrícius;1961.01.26;;1137;Budapest;Bajcsy.Zslinszky út 15;1;0;0;+36(20)358-41-86;guba.fabricius@outlook.com
+;Jávor Vrindávani;Jávor;Vrindávani;1960.10.22;;7630;Pécs;Esztergomi út 15. VII/6;1;0;0;+36(70)356-70-70;javor.vrindavani@freemail.hu
+;Szarvas Ajra;Szarvas;Ajra;1960.09.13;;2244;Úri;Kistópart utca 5 5/19;1;0;0;+36(70)547-28-75;szarvas.ajra@zoho.com
+;Bognár Konor;Bognár;Konor;1960.08.25;;5000;Szolnok;Szölövirág utca 10 10/43;1;0;0;+36(70)280-35-78;bognar.konor@gmx.us
+;Tamás Jábin;Tamás;Jábin;1960.05.28;;1024;Budapest;Dohány utca 2.;1;0;0;+36(70)794-54-84;tamas.jabin@gmail.com
+;Bujáki Achilles;Bujáki;Achilles;1960.05.23;;2400;Dunaújváros;Fő út 79;1;0;0;+36(70)873-53-71;bujaki.achilles@gmail.com
+;Ördög Helen;Ördög;Helen;1960.04.20;;5100;Jászberény;Vértanú utca 44;1;0;0;+36(70)350-70-17;ordog.helen@gmail.com
+;Szlávik Loik;Szlávik;Loik;1960.04.03;;8380;Hévíz;Rákócz Ferenc utca 12;1;0;0;+36(70)407-28-85;szlavik.loik@outlook.com
+;Sallai Filadelfia;Sallai;Filadelfia;1960.01.13;;9024;Győr;Andrássy utca 32;1;0;0;+36(30)147-17-60;sallai.filadelfia@gmx.com
+;Farkas Inana;Farkas;Inana;1960.01.09;;1238;Budapest;Szent László út  7;1;0;0;+36(70)543-29-97;farkas.inana@protonmail.com
+;Barkóczi Kósa;Barkóczi;Kósa;1959.11.15;;8000;Székesfehérvár;Brassó  utca 42;1;0;0;+36(70)759-57-29;barkoczi.kosa@aol.com
+;Hajnal Ödön;Hajnal;Ödön;1959.06.21;;2635;Vámosmikola;Telepi út 48 Lottózó;1;0;0;+36(70)441-28-69;hajnal.odon@protonmail.com
+;Jankó Ajándék;Jankó;Ajándék;1959.04.25;;1157;Budapest;Pákozdi csata utca 9 1/3;1;0;0;+36(20)609-62-84;janko.ajandek@freemail.hu
+;Iván Lorenzó;Iván;Lorenzó;1959.04.05;;1036;Budapest;Kacsa  utca 14/B fsz./2;1;0;0;+36(30)310-92-11;ivan.lorenzo@outlook.com
+;Petrovics Záven;Petrovics;Záven;1959.02.24;;1117;Budapest;TURUL utca 1./9-17h);1;0;0;+36(70)461-47-76;petrovics.zaven@protonmail.com
+;Rózsavölgyi Béda;Rózsavölgyi;Béda;1959.02.14;;1106;Budapest;Mészöly  utca 5. mf/3;1;0;0;+36(20)547-58-51;rozsavolgyi.beda@gmail.com
+;Dancs Nina;Dancs;Nina;1959.01.12;;7400;Kaposvár;Hetény utca 14 fszt./2.;1;0;0;+36(20)700-64-30;dancs.nina@citromail.hu
+;Udvardi Ludvig;Udvardi;Ludvig;1958.11.25;;3507;Miskolc;Csurgói út 22-32 1/13;1;0;0;+36(20)256-15-97;udvardi.ludvig@gmail.com
+;Szíj Alberta;Szíj;Alberta;1958.10.07;;2030;Érd;Alkotás  utca 14;1;0;0;+36(30)682-80-94;szij.alberta@gmail.com
+;Zöld Kanut;Zöld;Kanut;1958.09.28;;4032;Debrecen;Kossúth út 153;1;0;0;+36(20)719-98-40;zold.kanut@gmail.com
+;Lövei Tiván;Lövei;Tiván;1958.08.22;;2886;Réde;Nyár utca 02.ápr;1;0;0;+36(30)932-94-23;lovei.tivan@aol.com
+;Radnai Ozsvát;Radnai;Ozsvát;1958.08.18;;1142;Budapest;Rákosfalva park 4;1;0;0;+36(70)490-49-29;radnai.ozsvat@gmail.com
+;Hidasi Narcissza;Hidasi;Narcissza;1958.06.18;;2117;Isaszeg;Szondy út 13;1;0;0;+36(30)213-91-39;hidasi.narcissza@protonmail.com
+;Antal Havadi;Antal;Havadi;1958.02.19;;2532;Tokodaltáró;Nagy Imre út 10;1;0;0;+36(20)774-88-70;antal.havadi@freemail.hu
+;Takács Antoaneta;Takács;Antoaneta;1957.10.23;;3104;Salgótarján;Visegrádi utca 108 6/E63;1;0;0;+36(70)953-95-35;takacs.antoaneta@outlook.com
+;Czigány Elíz;Czigány;Elíz;1957.09.21;;2039;Pusztazámor;Fő út 95.;1;0;0;+36(20)857-86-19;czigany.eliz@gmail.com
+;Bencze Verbéna;Bencze;Verbéna;1957.09.19;;2117;Isaszeg;Árnyas  utca 1 fsz/2;1;0;0;+36(20)674-65-97;bencze.verbena@outlook.com
+;Kása Annavera;Kása;Annavera;1957.08.16;;1138;Budapest;Hunyadi János utca 11;1;0;0;+36(20)134-15-58;kasa.annavera@gmail.com
+;Liptai Devana;Liptai;Devana;1957.08.11;;1036;Budapest;Alacskai út 63;1;0;0;+36(30)907-36-77;liptai.devana@gmail.com
+;Laczkó Ronel;Laczkó;Ronel;1957.08.02;;3627;Kissikátor;Csokonai  utca 28;1;0;0;+36(70)199-53-30;laczko.ronel@citromail.hu
+;Cseri Pippa;Cseri;Pippa;1957.07.11;;1035;Budapest;Eötvös utca 164;1;0;0;+36(20)506-60-63;cseri.pippa@citromail.hu
+;Lakatos Berna;Lakatos;Berna;1957.07.03;;3529;Miskolc;Sajó utca 24;1;0;0;+36(20)480-64-49;lakatos.berna@icloud.com
+;Márton Donátó;Márton;Donátó;1957.03.24;;2030;Érd;Üttörő utca 9;1;0;0;+36(70)212-69-95;marton.donato@gmail.com
+;Bende Iduna;Bende;Iduna;1956.12.17;;6724;Szeged;Nefeljcs utca 11;1;0;0;+36(20)928-39-65;bende.iduna@gmail.com
+;Kállai Marita;Kállai;Marita;1956.12.11;;5451;Öcsöd;Kossuth utca 53 Orvosi rendelő ép.;1;0;0;+36(20)443-31-98;kallai.marita@gmail.com
+;Kutasi Arek;Kutasi;Arek;1956.11.22;;2241;Sülysáp;Kaszásdűlő  utca  11 4/31;1;0;0;+36(30)965-76-58;kutasi.arek@gmail.com
+;Csoma Emőd;Csoma;Emőd;1956.11.17;;8227;Felsőörs;Pesti  út 158 10./61;1;0;0;+36(20)883-18-44;csoma.emod@gmail.com
+;Piller Afrodité;Piller;Afrodité;1956.11.04;;2700;Cegléd;Kossuth Lajos  utca 16.;1;0;0;+36(70)337-32-56;piller.afrodite@gmail.com
+;Szilvási Joáhim;Szilvási;Joáhim;1956.08.20;;5000;Szolnok;Park   sétány 04.máj;1;0;0;+36(70)700-13-13;szilvasi.joahim@gmail.com
+;Parti Miron;Parti;Miron;1956.06.22;;1039;Budapest;Árpád utca 53 4/13;1;0;0;+36(20)124-42-77;parti.miron@gmail.com
+;Kató Eudoxia;Kató;Eudoxia;1956.01.09;;2400;Dunaújváros;Koszorú utca 4. 2/7. (kcs.: 17);1;0;0;+36(30)359-93-80;kato.eudoxia@yandex.com
+;Bencsik Fodor;Bencsik;Fodor;1955.12.26;;5553;Kondoros;Platán sor Sor 28 1/3;1;0;0;+36(20)365-96-62;bencsik.fodor@yahoo.com
+;Patkós Szerkő;Patkós;Szerkő;1955.10.05;;2943;Bábolna;Lövéte utca 55;1;0;0;+36(20)929-10-51;patkos.szerko@gmx.us
+;Kovacsics Kusán;Kovacsics;Kusán;1955.09.05;;2200;Monor;Pilisi út 35;1;0;0;+36(30)326-14-24;kovacsics.kusan@yandex.com
+;Vadászi Rados;Vadászi;Rados;1955.06.27;;1147;Budapest;Kertész utca 40 9/2;1;0;0;+36(20)567-97-89;vadaszi.rados@yandex.com
+;Siklósi Hermia;Siklósi;Hermia;1955.06.23;;4969;Tisztaberek;Karósi  utca  11;1;0;0;+36(70)327-12-91;siklosi.hermia@outlook.com
+;Boldog Gyöngyike;Boldog;Gyöngyike;1955.02.27;;2067;Szárliget;Beller Imre utca 129/C;1;0;0;+36(70)824-37-21;boldog.gyongyike@freemail.hu
+;Várkonyi Ninett;Várkonyi;Ninett;1955.02.13;;1108;Budapest;Ajdinger János  utca 31 1/4;1;0;0;+36(20)851-97-41;varkonyi.ninett@outlook.com
+;Varró Ede;Varró;Ede;1954.12.27;;8000;Székesfehérvár;Mátyás utca 21/A;1;0;0;+36(70)614-65-58;varro.ede@gmail.com
+;Eperjesi Placid;Eperjesi;Placid;1954.11.05;;1214;Budapest;Tihany utca 38-40 7/187;1;0;0;+36(70)909-89-67;eperjesi.placid@aol.com
+;Bódi Florentin;Bódi;Florentin;1954.10.05;;1112;Budapest;Beke utca 15 fszt./1;1;0;0;+36(30)522-10-16;bodi.florentin@protonmail.com
+;Sali Diana;Sali;Diana;1954.08.19;;5142;Alattyán;Also Dunasor  utca 55;1;0;0;+36(20)896-42-76;sali.diana@aim.com
+;Pálfi Jolina;Pálfi;Jolina;1954.07.22;;6325;Dunatetétlen;Mátyás Király  utca 23;1;0;0;+36(20)556-28-20;palfi.jolina@gmail.com
+;Barta Lionella;Barta;Lionella;1954.07.16;;6400;Kiskunhalas;Móricz Zsigmond utca 4/A;1;0;0;+36(70)279-69-38;barta.lionella@gmail.com
+;Sólyom Metta;Sólyom;Metta;1954.06.03;;1022;Budapest;Brassói utca 44.;1;0;0;+36(20)182-64-88;solyom.metta@yandex.com
+;Galgóczi Szofiana;Galgóczi;Szofiana;1954.05.26;;2220;Vecsés;Halom  utca 9 fsz./2;1;0;0;+36(20)427-71-18;galgoczi.szofiana@gmail.com
+;Szemán Vilhelma;Szemán;Vilhelma;1954.05.20;;1165;Budapest;Molnár utca 1;1;0;0;+36(70)574-43-35;szeman.vilhelma@freemail.hu
+;Siklósi Kolumbusz;Siklósi;Kolumbusz;1954.05.15;;2230;Gyömrő;Kosztolányi Dezső utca 39.;1;0;0;+36(30)487-35-75;siklosi.kolumbusz@citromail.hu
+;Szekér Tomázia;Szekér;Tomázia;1954.04.19;;2316;Tököl;Jáki Nagy Márton  utca 19.;1;0;0;+36(20)134-54-96;szeker.tomazia@gmx.com
+;Szemán Marianna;Szemán;Marianna;1954.04.14;;2681;Galgagyörk;Aradi utca 2/a;1;0;0;+36(30)476-29-36;szeman.marianna@protonmail.com
+;Jávor Milka;Jávor;Milka;1954.03.20;;9200;Mosonmagyaróvár;Szent István utca 1043/1.;1;0;0;+36(30)434-34-94;javor.milka@aim.com
+;Huszti Tamila;Huszti;Tamila;1954.03.06;;3321;Egerbakta;Bánfalvi út 128;1;0;0;+36(70)497-33-57;huszti.tamila@aim.com
+;Kálmán Csoma;Kálmán;Csoma;1954.03.04;;1222;Budapest;Május 1. utca 46.;1;0;0;+36(70)445-96-48;kalman.csoma@icloud.com
+;Béres Tikva;Béres;Tikva;1954.01.26;;2721;Pilis;Sági út 24;1;0;0;+36(30)458-56-13;beres.tikva@gmail.com
+;Gönczöl Evina;Gönczöl;Evina;1954.01.25;;2800;Tatabánya;Jávorka Sándor utca 9/A;1;0;0;+36(70)234-61-40;gonczol.evina@citromail.hu
+;Pór Benedetta;Pór;Benedetta;1954.01.25;;2314;Halásztelek;Fő út 25.;1;0;0;+36(30)491-42-71;por.benedetta@gmail.com
+;Falusi Vitány;Falusi;Vitány;1953.12.21;;1188;Budapest;Forgács Simon út 42.;1;0;0;+36(20)699-18-57;falusi.vitany@gmail.com
+;Csanádi Kármen;Csanádi;Kármen;1953.12.17;;1154;Budapest;Futó utca 35-37;1;0;0;+36(30)542-15-28;csanadi.karmen@gmail.com
+;Nagypál Pázmán;Nagypál;Pázmán;1953.10.11;;5200;Törökszentmiklós;Petz Ferenc utca 26 4/42;1;0;0;+36(70)869-65-20;nagypal.pazman@gmail.com
+;Béres Levin;Béres;Levin;1953.09.15;;8660;Tab;Akác  utca 10;1;0;0;+36(70)327-16-34;beres.levin@outlook.com
+;Vágó Bene;Vágó;Bene;1953.09.10;;2642;Nógrád;Hétvezér utca 4/a;1;0;0;+36(70)223-46-52;vago.bene@freemail.hu
+;Aradi Krizantusz;Aradi;Krizantusz;1953.08.01;;2120;Dunakeszi;Duna-lejáró út 7 Kerékpár bolt ép.;1;0;0;+36(30)189-90-98;aradi.krizantusz@gmail.com
+;Pála Hilmár;Pála;Hilmár;1953.05.21;;7300;Komló;Acél utca 29 B ép.;1;0;0;+36(70)993-70-64;pala.hilmar@aol.com
+;Garai Hümér;Garai;Hümér;1953.02.01;;9200;Mosonmagyaróvár;Mohl Adolf utca utca 25;1;0;0;+36(20)342-63-65;garai.humer@gmail.com
+;Vásárhelyi Viktória;Vásárhelyi;Viktória;1953.01.15;;1048;Budapest;Egyetem tér Tér 1;1;0;0;+36(70)465-83-82;vasarhelyi.viktoria@outlook.com
+;Monos Vilma;Monos;Vilma;1952.12.19;;2600;Vác;Arad  utca 68;1;0;0;+36(20)693-66-98;monos.vilma@outlook.com
+;Bari Oros;Bari;Oros;1952.10.26;;4150;Püspökladány;Koptik Odó út 3;1;0;0;+36(30)459-95-67;bari.oros@gmail.com
+;Sárosi Márkus;Sárosi;Márkus;1952.05.06;;1115;Budapest;Béla utca 9;1;0;0;+36(20)457-27-95;sarosi.markus@outlook.com
+;Gonda Antoaneta;Gonda;Antoaneta;1952.02.16;;2000;Szentendre;Ménesi  utca 15.;1;0;0;+36(70)289-37-90;gonda.antoaneta@gmail.com
+;Gönczöl Bagamér;Gönczöl;Bagamér;1952.01.26;;2531;Tokod;Kossuth  Lajos út 120;1;0;0;+36(30)878-30-67;gonczol.bagamer@aol.com
+;Vígh Csatád;Vígh;Csatád;1952.01.08;;1171;Budapest;Kocsis Sándor utca 12;1;0;0;+36(70)124-12-33;vigh.csatad@icloud.com
+;Lőkös Mimóza;Lőkös;Mimóza;1951.09.23;;7452;Somogyaszaló;Barsi Ernő utca 6 A ép./2;1;0;0;+36(70)988-80-18;lokos.mimoza@gmx.com
+;Kocsi Zsanin;Kocsi;Zsanin;1951.08.24;;6413;Kunfehértó;sed utca 13;1;0;0;+36(30)252-72-59;kocsi.zsanin@gmail.com
+;Czeglédi Dió;Czeglédi;Dió;1951.08.15;;6050;Lajosmizse;Lenkey utca 3 fsz./1;1;0;0;+36(20)870-56-39;czegledi.dio@gmail.com
+;Dinnyés Szofianna;Dinnyés;Szofianna;1951.07.02;;5400;Mezőtúr;Fő  utca 56;1;0;0;+36(20)100-88-41;dinnyes.szofianna@gmail.com
+;Turcsán Őszike;Turcsán;Őszike;1951.06.28;;2134;Sződ;VIII. utca 7;1;0;0;+36(30)313-20-69;turcsan.oszike@protonmail.com
+;Kosik Edvin;Kosik;Edvin;1951.06.15;;3580;Tiszaújváros;Lázár Vilmos  utca 40;1;0;0;+36(20)421-27-21;kosik.edvin@outlook.com
+;Pápai Harri;Pápai;Harri;1951.04.05;;1192;Budapest;Palló  köz  8/Stilianos ;1;0;0;+36(30)612-91-18;papai.harri@gmx.us
+;Pálóczi Efrém;Pálóczi;Efrém;1951.02.21;;1211;Budapest;Berda József  utca 7;1;0;0;+36(70)972-68-63;paloczi.efrem@citromail.hu
+;Bicskei Szenta;Bicskei;Szenta;1951.01.04;;1163;Budapest;Bajza utca 20.;1;0;0;+36(20)487-55-67;bicskei.szenta@gmail.com
+;Kiszel Reményke;Kiszel;Reményke;1950.12.22;;1139;Budapest;Széchenyi utca 14/1.;1;0;0;+36(30)294-12-40;kiszel.remenyke@gmail.com
+;Krámer Nausziká;Krámer;Nausziká;1950.12.16;;3600;Ózd;Gyöngyosi út 5/1;1;0;0;+36(70)297-88-87;kramer.nauszika@outlook.com
+;Lőkös Ékes;Lőkös;Ékes;1950.10.21;;1108;Budapest;Csillag utca 24/1;1;0;0;+36(70)266-33-29;lokos.ekes@outlook.com
+;Hencz Joli;Hencz;Joli;1950.10.12;;8655;Som;Korányi Frigyes  út 1;1;0;0;+36(30)738-82-71;hencz.joli@gmail.com
+;Mihály Krisztin;Mihály;Krisztin;1950.08.12;;3000;Hatvan;Újélet utca 16;1;0;0;+36(20)831-89-72;mihaly.krisztin@protonmail.com
+;Frei Zsubor;Frei;Zsubor;1950.03.08;;1139;Budapest;Tölgyfa utca 3 3 lcs. 1/4;1;0;0;+36(70)489-29-95;frei.zsubor@citromail.hu
+;Harmat Odin;Harmat;Odin;1950.02.03;;8412;Veszprém;Szabolcs köz 3.;1;0;0;+36(20)495-23-96;harmat.odin@gmail.com
+;Dóra Zília;Dóra;Zília;1949.12.08;;9024;Győr;Trencsényi utca 59;1;0;0;+36(20)861-83-72;dora.zilia@protonmail.com
+;Bakai Nelzon;Bakai;Nelzon;1949.11.18;;6758;Röszke;Horváth-kert út 38;1;0;0;+36(30)212-53-28;bakai.nelzon@citromail.hu
+;Móré Elif;Móré;Elif;1949.10.27;;9730;Kőszeg;Mátyás király utca 37/A;1;0;0;+36(30)302-47-68;more.elif@citromail.hu
+;Gombkötő Alamea;Gombkötő;Alamea;1949.10.21;;4034;Debrecen;Ojtványos utca 10/A;1;0;0;+36(30)387-63-26;gombkoto.alamea@protonmail.com
+;Petrik Ránia;Petrik;Ránia;1949.10.10;;2676;Cserhátsurány;Csillag utca 12/Darnózseli;1;0;0;+36(20)229-23-27;petrik.rania@gmail.com
+;Birkás Emíra;Birkás;Emíra;1949.08.22;;6000;Kecskemét;Mátyás király ut 199 SPAR ép.;1;0;0;+36(30)523-50-33;birkas.emira@gmail.com
+;Laczó Era;Laczó;Era;1949.06.21;;1225;Budapest;Szondy út 16;1;0;0;+36(20)655-15-55;laczo.era@gmail.com
+;Bánszki Neszrin;Bánszki;Neszrin;1949.05.26;;6336;Szakmár;Bíró M. utca 6 fsz/1;1;0;0;+36(70)692-55-37;banszki.neszrin@outlook.com
+;Koroknai Blazsena;Koroknai;Blazsena;1949.04.06;;1022;Budapest;Szabadság telep 4;1;0;0;+36(70)647-84-70;koroknai.blazsena@gmail.com
+;Árgyelán Romi;Árgyelán;Romi;1949.02.09;;1215;Budapest;Lajos utca 74-76 5.;1;0;0;+36(30)147-39-38;argyelan.romi@gmail.com
+;Diószegi Bogárka;Diószegi;Bogárka;1949.01.25;;7621;Pécs;Vaskapu utca 10-14 C ép 2./209;1;0;0;+36(70)777-88-46;dioszegi.bogarka@protonmail.com
+;Bagdi Gyöngy;Bagdi;Gyöngy;1949.01.13;;1111;Budapest;Mária Terézia utca  27 3/18;1;0;0;+36(70)166-98-39;bagdi.gyongy@freemail.hu
+;Verebélyi Terka;Verebélyi;Terka;1948.11.15;;1133;Budapest;Nyíregyházi út 25;1;0;0;+36(30)135-57-42;verebelyi.terka@freemail.hu
+;Farkas Mirka;Farkas;Mirka;1948.10.14;;8000;Székesfehérvár;Győri kapu kapu 134. 1./2.;1;0;0;+36(20)275-74-70;farkas.mirka@freemail.hu
+;Kapitány Éder;Kapitány;Éder;1948.10.05;;5742;Elek;Béke ltp ltp. 2/b 2/6;1;0;0;+36(20)850-26-66;kapitany.eder@gmail.com
+;Kővágó Szecső;Kővágó;Szecső;1948.09.05;;2600;Vác;Aidinger J. utca 3 1/3;1;0;0;+36(20)867-33-20;kovago.szecso@freemail.hu
+;Pandur Dakó;Pandur;Dakó;1948.08.12;;8200;Veszprém;Köztársaság út 8;1;0;0;+36(70)607-80-34;pandur.dako@freemail.hu
+;Mile Engelhard;Mile;Engelhard;1948.08.05;;8706;Nikla;Leadó utca 75.;1;0;0;+36(30)215-15-86;mile.engelhard@gmail.com
+;Rózsavölgyi Lita;Rózsavölgyi;Lita;1948.05.18;;1134;Budapest;Mária út 31/A 2/17;1;0;0;+36(20)640-36-42;rozsavolgyi.lita@aol.com
+;Huszka Fóris;Huszka;Fóris;1948.05.02;;1037;Budapest;Hold utca 10;1;0;0;+36(70)844-34-51;huszka.foris@protonmail.com
+;Csóti Angéla;Csóti;Angéla;1948.03.10;;1087;Budapest;Nagy Surány utca 16;1;0;0;+36(30)780-95-62;csoti.angela@zoho.com
+;Csoma Ellák;Csoma;Ellák;1948.01.22;;2900;Komárom;Liget utca 104.;1;0;0;+36(20)233-35-15;csoma.ellak@outlook.com
+;Burai Briana;Burai;Briana;1948.01.03;;1188;Budapest;Török Istvan utca 34 4/5;1;0;0;+36(30)351-85-96;burai.briana@freemail.hu
+;Vári Hargita;Vári;Hargita;1947.11.21;;7215;Nak;Rákóczi Ferenc  Út  6;1;0;0;+36(20)357-17-96;vari.hargita@gmail.com
+;Cseh Mike;Cseh;Mike;1947.10.07;;1078;Budapest;Dorogi  út  324;1;0;0;+36(70)709-74-81;cseh.mike@gmx.us
+;Skultéti Odin;Skultéti;Odin;1947.09.03;;1142;Budapest;Kispiricsizma  dűlő 32;1;0;0;+36(70)486-70-24;skulteti.odin@icloud.com
+;Zilahi Szépa;Zilahi;Szépa;1947.08.26;;2440;Százhalombatta;Fő út 159;1;0;0;+36(30)322-32-79;zilahi.szepa@gmail.com
+;Dézsi Oktávián;Dézsi;Oktávián;1947.07.06;;7800;siklós;Háncs utca 10;1;0;0;+36(30)584-21-53;dezsi.oktavian@gmail.com
+;Kerényi Anika;Kerényi;Anika;1947.06.25;;6070;Izsák;Major  út 25;1;0;0;+36(30)580-90-44;kerenyi.anika@gmail.com
+;Kutasi Annika;Kutasi;Annika;1947.06.09;;6500;Baja;Görgey  utca 20;1;0;0;+36(20)895-65-51;kutasi.annika@gmail.com
+;Dóra Cinella;Dóra;Cinella;1947.03.24;;8516;Kemeneshőgyész;Bem József utca 42;1;0;0;+36(30)550-54-79;dora.cinella@icloud.com
+;Gombkötő Daren;Gombkötő;Daren;1947.02.20;;8556;Pápateszér;Nyár utca 25/a;1;0;0;+36(20)681-38-93;gombkoto.daren@outlook.com
+;Bakos Elígiusz;Bakos;Elígiusz;1947.02.17;;1039;Budapest;Lechner Odon utca 16;1;0;0;+36(30)934-86-90;bakos.eligiusz@citromail.hu
+;Suki Xénia;Suki;Xénia;1947.01.18;;8088;Tabajd;Füzes utca 84/A fszt/3;1;0;0;+36(20)871-37-98;suki.xenia@icloud.com
+;Erdélyi Filemon;Erdélyi;Filemon;1947.01.12;;1149;Budapest;Bem József utca  31;1;0;0;+36(20)246-48-97;erdelyi.filemon@gmail.com
+;Deák Hatidzse;Deák;Hatidzse;1947.01.09;;1171;Budapest;Kerekdomb utca 63;1;0;0;+36(20)619-18-73;deak.hatidzse@gmail.com
+;Bárdos Ardó;Bárdos;Ardó;1946.11.27;;8360;Keszthely;Mester utca 1 1/10 kcs:10;1;0;0;+36(20)533-61-15;bardos.ardo@protonmail.com
+;Hollósi Szohéila;Hollósi;Szohéila;1946.11.16;;2225;Üllő;Dobó István utca 72 3/12;1;0;0;+36(70)733-96-88;hollosi.szoheila@citromail.hu
+;Köteles Barbi;Köteles;Barbi;1946.10.09;;6913;Csanádpalota;Bem József  utca 11;1;0;0;+36(70)808-11-51;koteles.barbi@gmail.com
+;Lakos Lavínia;Lakos;Lavínia;1946.07.21;;4532;Nyírtura;Béke utca 65 4/1;1;0;0;+36(20)676-84-75;lakos.lavinia@outlook.com
+;Ladányi Ené;Ladányi;Ené;1946.06.14;;1047;Budapest;Pacsirta utca 18-20.;1;0;0;+36(70)731-65-29;ladanyi.ene@protonmail.com
+;Kőrösi Mehdia;Kőrösi;Mehdia;1946.06.07;;2131;Göd;Pozsonyi utca 19;1;0;0;+36(30)497-98-85;korosi.mehdia@outlook.com
+;Szatmári Boldizsár;Szatmári;Boldizsár;1946.05.27;;3294;Tarnaörs;Zúzmara utca 2;1;0;0;+36(20)576-88-70;szatmari.boldizsar@gmail.com
+;Schwarcz Leopoldina;Schwarcz;Leopoldina;1946.01.23;;3271;Visonta;Vadgesztenye utca 3;1;0;0;+36(20)643-35-45;schwarcz.leopoldina@freemail.hu
+;Bene Asztéria;Bene;Asztéria;1946.01.13;;9026;Győr;Wass Albert utca 2 2/14;1;0;0;+36(20)561-30-57;bene.aszteria@zoho.com
+;Bagi Árkos;Bagi;Árkos;1945.11.23;;2134;Sződ;Pannónia út 44 1/6;1;0;0;+36(30)308-34-56;bagi.arkos@gmail.com
+;Szita Gyöngyi;Szita;Gyöngyi;1945.10.23;;9151;Abda;Arany János utca 29 fsz./2;1;0;0;+36(20)902-10-57;szita.gyongyi@freemail.hu
+;Siklósi Kamilló;Siklósi;Kamilló;1945.08.16;;5055;Jászladány;Szakolca  utca 16;1;0;0;+36(30)844-33-74;siklosi.kamillo@gmail.com
+;Nagy Julilla;Nagy;Julilla;1945.08.04;;2211;Vasad;Posztó  utca  2;1;0;0;+36(20)147-53-42;nagy.julilla@gmail.com
+;Süli Konkordia;Süli;Konkordia;1945.07.21;;8093;Lovasberény;Hunyadi  utca 9 2/10;1;0;0;+36(30)564-58-89;suli.konkordia@protonmail.com
+;Sárosi Absolon;Sárosi;Absolon;1945.06.01;;5600;Békéscsaba;Rákóczi Ferenc  út 82;1;0;0;+36(20)958-69-22;sarosi.absolon@gmail.com
+;Sinka Liberátusz;Sinka;Liberátusz;1945.05.08;;1185;Budapest;Dembinszky utca 40;1;0;0;+36(30)610-98-24;sinka.liberatusz@outlook.com
+;Bella Bozsó;Bella;Bozsó;1945.05.01;;1118;Budapest;Mária utca 41;1;0;0;+36(70)865-41-75;bella.bozso@aol.com
+;Csapó Dilon;Csapó;Dilon;1945.04.25;;1149;Budapest;Bánhidai  Ltp 301 fsz./1;1;0;0;+36(20)838-55-56;csapo.dilon@outlook.com
+;Kaló Báruk;Kaló;Báruk;1945.03.25;;3070;Bátonyterenye;Nyírfa sor 1;1;0;0;+36(70)734-77-93;kalo.baruk@gmail.com
+;Tátrai Gotfrid;Tátrai;Gotfrid;1945.03.16;;2030;Érd;Fiumei  út 4 Tükörfóliá/s ajtó;1;0;0;+36(70)811-60-10;tatrai.gotfrid@gmail.com
+;Uhrin Salomé;Uhrin;Salomé;1945.03.07;;1192;Budapest;Dékáni Árpád utca 11;1;0;0;+36(30)563-18-52;uhrin.salome@gmail.com
+;Rozsnyai Paula;Rozsnyai;Paula;1945.02.14;;6800;Hódmezővásárhely;Tisza István utca 32 fszt/8;1;0;0;+36(30)824-90-59;rozsnyai.paula@freemail.hu
+;Kerekes Mimóza;Kerekes;Mimóza;1945.02.12;;9952;Gasztony;Terv  utca 70;1;0;0;+36(70)385-76-64;kerekes.mimoza@zoho.com
+;Ábrahám Damiána;Ábrahám;Damiána;1944.12.20;;1054;Budapest;Rákóczi Ferenc  út 36;1;0;0;+36(70)874-98-71;abraham.damiana@zoho.com
+;Bartos Orsi;Bartos;Orsi;1944.12.17;;7761;Lothárd;István király út 106;1;0;0;+36(70)500-33-28;bartos.orsi@freemail.hu
+;Gajdos Rozál;Gajdos;Rozál;1944.12.14;;9789;Sé;Pázsit utca 12.;1;0;0;+36(70)621-89-53;gajdos.rozal@protonmail.com
+;Kenyeres Oxána;Kenyeres;Oxána;1944.12.06;;9700;Szombathely;Dessewffy  utca 51/b;1;0;0;+36(20)578-22-71;kenyeres.oxana@gmx.us
+;Keresztesi Zsófianna;Keresztesi;Zsófianna;1944.12.04;;1203;Budapest;Szent László utca 27.;1;0;0;+36(70)111-57-80;keresztesi.zsofianna@gmail.com
+;Flóris Hejkó;Flóris;Hejkó;1944.11.23;;6080;Szabadszállás;Tisza  tisza 159;1;0;0;+36(30)583-41-45;floris.hejko@protonmail.com
+;Komlósi Uzon;Komlósi;Uzon;1944.11.15;;3531;Miskolc;Bocskai utca 12;1;0;0;+36(20)903-75-42;komlosi.uzon@outlook.com
+;Mózer Lóisz;Mózer;Lóisz;1944.11.11;;8060;Mór;Etele út 71 4/37;1;0;0;+36(70)406-50-47;mozer.loisz@protonmail.com
+;Csíkos Hortenzia;Csíkos;Hortenzia;1944.09.25;;8800;Nagykanizsa;Fóti út 9/A 1 ép.;1;0;0;+36(20)721-65-77;csikos.hortenzia@gmail.com
+;Csoma Monor;Csoma;Monor;1944.07.20;;1191;Budapest;Zsolcai kapu 8;1;0;0;+36(70)779-28-22;csoma.monor@protonmail.com
+;Szedlák Lenke;Szedlák;Lenke;1944.07.11;;8542;Vaszar;Etelka utca 2 4/13;1;0;0;+36(30)484-48-48;szedlak.lenke@outlook.com
+;Dobos Magorka;Dobos;Magorka;1944.06.04;;1202;Budapest;Járandó tanya 76/5;1;0;0;+36(30)188-86-36;dobos.magorka@yandex.com
+;Móricz Asur;Móricz;Asur;1944.04.26;;7960;Sellye;Rakosligeti  Hatarut 117535;1;0;0;+36(30)619-56-74;moricz.asur@gmail.com
+;Bauer Zulejka;Bauer;Zulejka;1944.03.28;;4562;Vaja;Alsomező utca 12;1;0;0;+36(70)589-41-30;bauer.zulejka@yahoo.com
+;Paksi Alfonza;Paksi;Alfonza;1944.03.03;;1108;Budapest;Nagy Imre krt. 22 1/3;1;0;0;+36(70)739-48-25;paksi.alfonza@gmail.com
+;Móricz Blondina;Móricz;Blondina;1944.01.27;;4026;Debrecen;Rosenberg utca 5 1/5;1;0;0;+36(70)496-30-63;moricz.blondina@gmail.com
+;Róth Minka;Róth;Minka;1943.12.25;;2030;Érd;Olasz  utca 25 6/18;1;0;0;+36(20)725-33-81;roth.minka@gmail.com
+;Danó Bellaróza;Danó;Bellaróza;1943.10.22;;8900;Zalaegerszeg;Börzsöny utca 2/c 1/5;1;0;0;+36(70)202-90-55;dano.bellaroza@gmail.com
+;Vaskó Asella;Vaskó;Asella;1943.09.26;;1239;Budapest;Széchenyi utca 27.;1;0;0;+36(30)137-22-71;vasko.asella@yandex.com
+;Téglás Irénke;Téglás;Irénke;1943.09.07;;3400;Mezőkövesd;Kölesdi  út 19;1;0;0;+36(20)915-83-42;teglas.irenke@gmail.com
+;Oroszi Marcián;Oroszi;Marcián;1943.08.27;;3053;Ecseg;Rákoczi Ferenc ut 69 3/2;1;0;0;+36(30)828-38-65;oroszi.marcian@aol.com
+;Bujáki Arona;Bujáki;Arona;1943.06.11;;6792;Zsombó;Mártirok  utca 89 10/1;1;0;0;+36(30)681-41-49;bujaki.arona@outlook.com
+;Németh Dagomér;Németh;Dagomér;1943.03.23;;9400;Sopron;Árpád  út 43;1;0;0;+36(70)465-70-67;nemeth.dagomer@outlook.com
+;Bata Violet;Bata;Violet;1943.03.16;;7632;Pécs;Juharfa  utca 19 8/23;1;0;0;+36(30)754-67-54;bata.violet@icloud.com
+;Rózsa Lavanda;Rózsa;Lavanda;1942.12.24;;6090;Kunszentmiklós;Cinege út 24.;1;0;0;+36(30)103-54-47;rozsa.lavanda@gmail.com
+;Göbölyös Deli;Göbölyös;Deli;1942.12.02;;2091;Etyek;Somogyi út 9 fszt/3;1;0;0;+36(30)945-93-75;gobolyos.deli@yandex.com
+;Cziráki Druzsiána;Cziráki;Druzsiána;1942.10.21;;1098;Budapest;Ábrányi  út 11;1;0;0;+36(20)854-17-20;cziraki.druzsiana@aim.com
+;Rozgonyi Szániva;Rozgonyi;Szániva;1942.09.11;;9700;Szombathely;Bányató utca 14. 2/11;1;0;0;+36(20)101-76-24;rozgonyi.szaniva@outlook.com
+;Bognár Liboriusz;Bognár;Liboriusz;1942.08.15;;8000;Székesfehérvár;Turi  utca 40;1;0;0;+36(30)315-88-77;bognar.liboriusz@outlook.com
+;Becker Melinda;Becker;Melinda;1942.06.25;;6453;Bácsbokod;Kossuth L utca 40;1;0;0;+36(70)863-31-79;becker.melinda@outlook.com
+;Kassai Vajda;Kassai;Vajda;1942.05.28;;9171;Győrújfalu;Kovácsdomb utca 16;1;0;0;+36(30)871-10-49;kassai.vajda@gmail.com
+;Földvári Zimány;Földvári;Zimány;1942.04.05;;2151;Fót;Kéki utca 88.;1;0;0;+36(20)115-65-68;foldvari.zimany@outlook.com
+;Danó Dávid;Danó;Dávid;1941.11.18;;9500;celldömölk;Falu Tamás utca 6 E ép. fsz./2a;1;0;0;+36(70)644-17-82;dano.david@gmail.com
+;Mihalik Román;Mihalik;Román;1941.09.22;;2711;Tápiószentmárton;Garay utca 103;1;0;0;+36(20)976-81-48;mihalik.roman@aim.com
+;Pálmai Csende;Pálmai;Csende;1941.08.08;;9443;Petőháza;Taksony utca 27/A Óvoda ép.;1;0;0;+36(30)285-82-54;palmai.csende@freemail.hu
+;Jáger Kármán;Jáger;Kármán;1941.07.19;;8200;Veszprém;N?pfürdő utca 15/d 1/5;1;0;0;+36(20)650-49-73;jager.karman@outlook.com
+;Kelemen Vénusz;Kelemen;Vénusz;1941.06.28;;1112;Budapest;Kosuth lajos utca 141;1;0;0;+36(20)662-97-15;kelemen.venusz@gmail.com
+;Korsós Ronetta;Korsós;Ronetta;1941.04.21;;2767;Tápiógyörgye;Hegyalja utca 23.;1;0;0;+36(70)293-73-77;korsos.ronetta@gmail.com
+;Magony Óceánia;Magony;Óceánia;1941.03.19;;8441;Márkó;Páskom utca 18;1;0;0;+36(70)787-91-60;magony.oceania@outlook.com
+;Vinkler Julinka;Vinkler;Julinka;1941.02.21;;9024;Győr;Ilektra utca 15;1;0;0;+36(20)718-80-97;vinkler.julinka@gmail.com
+;Kasza Latinka;Kasza;Latinka;1941.01.27;;2723;Nyáregyháza;Honvéd  út 15;1;0;0;+36(70)766-58-76;kasza.latinka@gmail.com
+;Becsei Orlandó;Becsei;Orlandó;1941.01.11;;2600;Vác;Baktay tér 2 Posta ép.;1;0;0;+36(70)354-66-17;becsei.orlando@outlook.com
+;Kristóf Szotirisz;Kristóf;Szotirisz;1940.11.25;;9147;Dör;Buda  utca 17;1;0;0;+36(70)688-81-65;kristof.szotirisz@gmail.com
+;Sánta Violenta;Sánta;Violenta;1940.10.27;;6635;Szegvár;Tanácsköztársaság  ?t  12;1;0;0;+36(70)833-95-57;santa.violenta@freemail.hu
+;Váradi Kusán;Váradi;Kusán;1940.09.23;;2132;Göd;Kőrősi Csoma Sándor utca 2/13/3.;1;0;0;+36(30)580-40-74;varadi.kusan@gmail.com
+;Dobó Bazil;Dobó;Bazil;1940.09.02;;4400;Nyíregyháza;Lechner Odon Fasor 8 5;1;0;0;+36(20)571-92-19;dobo.bazil@aol.com
+;Both Domokos;Both;Domokos;1940.08.10;;3459;Igrici;Caprera utca 14;1;0;0;+36(70)610-42-86;both.domokos@freemail.hu
+;Szekeres Szíra;Szekeres;Szíra;1940.06.20;;3651;Ózd;Árpád fejedelem utja 8;1;0;0;+36(20)322-21-66;szekeres.szira@gmail.com
+;Kormos Szépa;Kormos;Szépa;1940.06.11;;1047;Budapest;Patkoszeg  utca 4;1;0;0;+36(70)229-97-27;kormos.szepa@gmail.com
+;Sali Oldamur;Sali;Oldamur;1940.06.07;;4400;Nyíregyháza;Pillangó utca 18-20;1;0;0;+36(30)102-61-21;sali.oldamur@aol.com
+;Mucsi Benke;Mucsi;Benke;1940.05.10;;3000;Hatvan;Vasút utca 98/a (postán maradó);1;0;0;+36(20)569-97-38;mucsi.benke@protonmail.com
+;Danó Vasziliki;Danó;Vasziliki;1940.05.07;;8893;Bucsuta;Tisza utca 10 fszt./9;1;0;0;+36(70)793-76-77;dano.vasziliki@yahoo.com
+;Mihály Zuárd;Mihály;Zuárd;1940.04.06;;2375;Tatárszentgyörgy;Tövishát utca 25 1/3;1;0;0;+36(30)600-40-68;mihaly.zuard@gmx.com
+;Mihályi Andreina;Mihályi;Andreina;1940.03.11;;3700;Kazincbarcika;Hangulat utca 4 fszt/1;1;0;0;+36(70)335-48-20;mihalyi.andreina@gmail.com
+;Fogarasi Cseresznye;Fogarasi;Cseresznye;1940.02.01;;1126;Budapest;Vay Ádám  krt. 4-6. 2/215.;1;0;0;+36(70)188-40-62;fogarasi.cseresznye@freemail.hu
+;Mihalovics Nagyezsda;Mihalovics;Nagyezsda;1939.10.02;;8556;PÁPATESZÉR;Határ  út 20 fszt./4;1;0;0;+36(20)443-68-72;mihalovics.nagyezsda@freemail.hu
+;Görbe Brunhilda;Görbe;Brunhilda;1939.08.23;;1117;Budapest;Piac tér 10.;1;0;0;+36(20)928-67-56;gorbe.brunhilda@freemail.hu
+;Földi Martin;Földi;Martin;1939.07.11;;1211;Budapest;Bem  ut 23;1;0;0;+36(70)283-13-44;foldi.martin@gmail.com
+;Piller Rubinka;Piller;Rubinka;1939.07.05;;8946;Pusztaederics;Széchenyi tér 14-15;1;0;0;+36(30)233-76-30;piller.rubinka@gmx.us
+;Babai Kelemér;Babai;Kelemér;1939.06.13;;9545;Jánosháza;Ág utca 1;1;0;0;+36(70)778-41-25;babai.kelemer@protonmail.com
+;Zsákai Abelárd;Zsákai;Abelárd;1939.05.15;;7527;Rinyakovácsi;Szabadság utca 21 Duna House ép.;1;0;0;+36(30)873-30-23;zsakai.abelard@gmail.com
+;Labancz Bársonyka;Labancz;Bársonyka;1939.04.20;;9024;Győr;Bátky Zsigmond utca 9 3/7;1;0;0;+36(30)921-31-43;labancz.barsonyka@gmail.com
+;Balázs Zsáklin;Balázs;Zsáklin;1939.04.10;;5231;Fegyvernek;Testvérvárosok utca 4 5/1;1;0;0;+36(30)489-72-24;balazs.zsaklin@yandex.com
+;Holló Téna;Holló;Téna;1939.03.11;;2642;Nógrád;Felső cebe  tanya 58.;1;0;0;+36(30)923-16-15;hollo.tena@freemail.hu
+;Czifra Donát;Czifra;Donát;1939.02.26;;6725;Szeged;Nagyboldogasszony tér 3b;1;0;0;+36(70)814-96-68;czifra.donat@icloud.com
+;Végh Brigitta;Végh;Brigitta;1939.02.07;;1036;Budapest;Kossuth Lajos  utca 118.;1;0;0;+36(70)215-91-43;vegh.brigitta@outlook.com
+;Gombkötő Rut;Gombkötő;Rut;1938.12.16;;2364;Ócsa;Szent Vendel  út 33,;1;0;0;+36(70)867-84-22;gombkoto.rut@gmail.com
+;Bende Kolett;Bende;Kolett;1938.12.12;;6060;Tiszakécske;Damjanich   utca 5;1;0;0;+36(20)448-76-33;bende.kolett@outlook.com
+;Cseke Pantaleon;Cseke;Pantaleon;1938.11.26;;2144;Kerepes;Hegyalja utca 4/5;1;0;0;+36(30)240-97-76;cseke.pantaleon@outlook.com
+;Klein Gerle;Klein;Gerle;1938.10.22;;2347;Bugyi;Szentkorona  utca 132;1;0;0;+36(30)391-27-20;klein.gerle@gmail.com
+;Szikszai Oguz;Szikszai;Oguz;1938.10.14;;4263;Nyírmártonfalva;Aradi vértanúk  Tere 3/A fszt./2;1;0;0;+36(30)238-95-50;szikszai.oguz@outlook.com
+;Széles Mézi;Széles;Mézi;1938.10.09;;6421;Kisszállás;Gárdonyi Géza utca 31.;1;0;0;+36(70)812-96-69;szeles.mezi@outlook.com
+;Csillag Beatrisz;Csillag;Beatrisz;1938.08.05;;3385;Tiszanána;Szentpéteri kapu 77 3/4;1;0;0;+36(70)565-39-66;csillag.beatrisz@icloud.com
+;Mészáros Cézár;Mészáros;Cézár;1938.07.28;;4400;Nyíregyháza;Columbus  utca 42 fszt./2;1;0;0;+36(20)128-74-15;meszaros.cezar@gmail.com
+;Ferenczi Gópál;Ferenczi;Gópál;1938.07.19;;4564;Nyírmada;Dohany utca 20;1;0;0;+36(70)144-15-65;ferenczi.gopal@gmail.com
+;Pós Paulin;Pós;Paulin;1938.07.04;;2314;Halásztelek;Kernács telep 29;1;0;0;+36(20)227-57-84;pos.paulin@protonmail.com
+;Bak Klétus;Bak;Klétus;1938.05.18;;4300;Nyírbátor;Temető  utca 12;1;0;0;+36(70)275-10-22;bak.kletus@yandex.com
+;Bari Estilla;Bari;Estilla;1938.03.05;;8200;Veszprém;Csorvási út 27.;1;0;0;+36(30)811-33-88;bari.estilla@aol.com
+;Radó Lőrinc;Radó;Lőrinc;1937.05.15;;7472;Szentbalázs;Templomsor utca 3.;1;0;0;+36(70)256-52-53;rado.lorinc@gmail.com
+;Göbölyös Zelma;Göbölyös;Zelma;1937.04.17;;3104;Salgótarján;Mátyás király utca 151.;1;0;0;+36(30)505-58-72;gobolyos.zelma@gmail.com
+;Braun Szofiána;Braun;Szofiána;1937.04.01;;8083;Csákvár;Harangvirág  utca 12;1;0;0;+36(70)107-35-49;braun.szofiana@citromail.hu
+;Utasi Gemella;Utasi;Gemella;1937.01.05;;8500;Pápa;Liliom út 8;1;0;0;+36(20)761-62-58;utasi.gemella@gmail.com
+;Vékony Gerzson;Vékony;Gerzson;1936.11.23;;1011;Budapest;József Attila út 29 3/3;1;0;0;+36(70)566-55-73;vekony.gerzson@aol.com
+;Hunyadi Rodion;Hunyadi;Rodion;1936.11.18;;6033;Városföld;Árokszállási utca 20;1;0;0;+36(70)777-33-18;hunyadi.rodion@freemail.hu
+;Csatári Ivó;Csatári;Ivó;1936.10.08;;5931;Nagyszénás;Gyűrű  utca 14 6/18;1;0;0;+36(30)823-26-46;csatari.ivo@freemail.hu
+;Károly Anriett;Károly;Anriett;1936.10.04;;4400;Nyíregyháza;Óvirághegy út 17;1;0;0;+36(20)750-87-59;karoly.anriett@freemail.hu
+;Bárdi Hubertusz;Bárdi;Hubertusz;1936.09.27;;2144;Kerepes;Elek utca 80;1;0;0;+36(20)428-90-79;bardi.hubertusz@gmail.com
+;Erdődi Donátó;Erdődi;Donátó;1936.09.03;;8000;Székesfehérvár;Bocskai utca 6.;1;0;0;+36(70)785-29-12;erdodi.donato@gmail.com
+;Havasi Juliska;Havasi;Juliska;1936.01.26;;1022;Budapest;Ballószög  tanya 154;1;0;0;+36(20)228-24-56;havasi.juliska@gmail.com
+;Eke Krizosztom;Eke;Krizosztom;1935.12.24;;2360;Gyál;Móricz Zsigmond utca 3/2;1;0;0;+36(30)378-30-56;eke.krizosztom@protonmail.com
+;Bódis Kenese;Bódis;Kenese;1935.12.15;;4531;Nyírpazony;Fő utca 58/a;1;0;0;+36(20)981-15-13;bodis.kenese@gmail.com
+;Reményi Nurbanu;Reményi;Nurbanu;1935.12.10;;9700;Szombathely;Zöldfa utca 37;1;0;0;+36(70)215-86-14;remenyi.nurbanu@gmail.com
+;Guth Tíria;Guth;Tíria;1935.11.24;;8741;Zalaapáti;Sarló utca 14 (kcs Kuczi Viktor) 8/50;1;0;0;+36(20)896-46-59;guth.tiria@gmail.com
+;Békefi Annamíra;Békefi;Annamíra;1935.11.02;;6000;Kecskemét;Nyírfa út 38;1;0;0;+36(70)798-47-66;bekefi.annamira@aim.com
+;Sós Kovrat;Sós;Kovrat;1935.09.20;;3530;Miskolc;Nyárfa utca 56;1;0;0;+36(30)181-76-50;sos.kovrat@gmail.com
+;Mogyorósi Manna;Mogyorósi;Manna;1935.08.18;;3360;Heves;Ady Endre utca 37 e ép.;1;0;0;+36(70)910-87-96;mogyorosi.manna@gmail.com
+;Erdős Valter;Erdős;Valter;1935.06.16;;3521;Miskolc;Apci út 4;1;0;0;+36(20)774-17-50;erdos.valter@citromail.hu
+;Siska Adony;Siska;Adony;1935.05.24;;7041;Vajta;Halász József utca 32;1;0;0;+36(70)865-83-29;siska.adony@aim.com
+;Baka Oktár;Baka;Oktár;1935.05.13;;7431;Juta;Fő u. 4;1;0;0;+36(20)114-85-42;baka.oktar@zoho.com
+;Babai Bottyán;Babai;Bottyán;1935.02.19;;2475;Kápolnásnyék;Rétkerülő út 20. fsz.;1;0;0;+36(70)280-89-14;babai.bottyan@gmail.com
+;Pánczél Liboriusz;Pánczél;Liboriusz;1934.12.28;;7100;Szekszárd;Gesztenye  utca 1/a;1;0;0;+36(70)531-74-92;panczel.liboriusz@gmx.com
+;Finta Nyina;Finta;Nyina;1934.11.11;;9400;Sopron;Kútfő  utca 2/d;1;0;0;+36(30)660-72-37;finta.nyina@gmail.com
+;Ács Lira;Ács;Lira;1934.10.24;;1115;Budapest;Hunyadi Mátyás utca 21;1;0;0;+36(70)865-55-22;acs.lira@yandex.com
+;Talabér Gala;Talabér;Gala;1934.10.20;;8060;Mór;Petőfi utca 38;1;0;0;+36(20)881-92-89;talaber.gala@outlook.com
+;Gera Ramzi;Gera;Ramzi;1934.09.08;;6640;Csongrád;Rákóczi Ferenc  út  8;1;0;0;+36(20)759-64-65;gera.ramzi@citromail.hu
+;Krasznai Ilang;Krasznai;Ilang;1934.07.06;;8000;Székesfehérvár;Mátyás király utca 38/B;1;0;0;+36(70)655-32-77;krasznai.ilang@icloud.com
+;Gazdag Juliána;Gazdag;Juliána;1934.07.04;;9155;Lébény;Puskás  utca 5/3;1;0;0;+36(30)570-18-37;gazdag.juliana@aol.com
+;Hamza Atalanta;Hamza;Atalanta;1934.07.03;;2750;Nagykőrös;Mátyás király utca 19/A;1;0;0;+36(30)773-73-17;hamza.atalanta@gmail.com
+;Rézműves Mikáél;Rézműves;Mikáél;1934.04.03;;8300;Tapolca;Hétvezér utca 7-9/b 2/4;1;0;0;+36(30)421-29-67;rezmuves.mikael@gmail.com
+;Tajti Taisza;Tajti;Taisza;1934.03.01;;3524;Miskolc;II. KER (Kondorosi)  út  458;1;0;0;+36(20)886-36-28;tajti.taisza@gmail.com
+;Tőzsér Szeréna;Tőzsér;Szeréna;1934.01.23;;1221;Budapest;Újréti utca 17/A;1;0;0;+36(20)247-87-95;tozser.szerena@outlook.com
+;Salamon Szahel;Salamon;Szahel;1933.12.03;;3300;Eger;Juranics utca 39;1;0;0;+36(20)951-51-45;salamon.szahel@icloud.com
+;Nemes Salomé;Nemes;Salomé;1933.11.06;;3900;Szerencs;Galamb  út 19/A;1;0;0;+36(30)545-35-90;nemes.salome@gmail.com
+;Szíj Moira;Szíj;Moira;1933.09.25;;6100;Kiskunfélegyháza;Bán Aladár út 1;1;0;0;+36(70)642-11-81;szij.moira@gmx.us
+;Suhajda Egmont;Suhajda;Egmont;1933.09.02;;3162;Ságújfalu;Gölle utca 1 5/30;1;0;0;+36(70)648-14-85;suhajda.egmont@gmail.com
+;Bogár Orália;Bogár;Orália;1933.07.25;;7630;Pécs;Lévay József  utca 62 Penny;1;0;0;+36(30)500-33-82;bogar.oralia@citromail.hu
+;Csíkos Adelgund;Csíkos;Adelgund;1933.06.09;;7766;Pécsdevecser;Szigony utca 6 8/45;1;0;0;+36(30)148-64-61;csikos.adelgund@zoho.com
+;Füzesi Bogárka;Füzesi;Bogárka;1933.03.02;;1164;Budapest;Tarjáni út 46.;1;0;0;+36(70)182-97-79;fuzesi.bogarka@yahoo.com
+;Hermann Magdolna;Hermann;Magdolna;1933.01.10;;3360;Heves;Tolnai utca 2;1;0;0;+36(70)965-12-62;hermann.magdolna@gmail.com
+;Szép Néva;Szép;Néva;1932.10.19;;1035;Budapest;Hajnalka utca 13;1;0;0;+36(70)417-58-14;szep.neva@aim.com
+;Törő Panna;Törő;Panna;1932.10.16;;5130;Jászapáti;Ifjúság utca 25 4/2 kcs.:52;1;0;0;+36(30)322-35-64;toro.panna@outlook.com
+;Nyerges Arvéd;Nyerges;Arvéd;1932.09.14;;1091;Budapest;Budai Nagy Antal  utca 11 4/3;1;0;0;+36(30)301-64-69;nyerges.arved@gmail.com
+;Pocsai Amadea;Pocsai;Amadea;1932.07.22;;1215;Budapest;Koptik Odó ut 3;1;0;0;+36(30)529-69-18;pocsai.amadea@citromail.hu
+;Csonka Magdó;Csonka;Magdó;1932.06.09;;1048;Budapest;Barackos utca 35/C;1;0;0;+36(30)963-80-18;csonka.magdo@freemail.hu
+;Szőlősi Ida;Szőlősi;Ida;1932.04.28;;2045;Törökbálint;Külső Szilágyi út 6 5/14;1;0;0;+36(70)535-11-76;szolosi.ida@freemail.hu
+;Fazekas Eszmeralda;Fazekas;Eszmeralda;1932.04.25;;8417;Csetény;Puskás T. utca 1 1/5;1;0;0;+36(30)463-95-92;fazekas.eszmeralda@gmail.com
+;Ferencz Lívia;Ferencz;Lívia;1932.03.12;;8360;Keszthely;Somogyi utca 46;1;0;0;+36(70)990-58-47;ferencz.livia@gmx.com
+;Bozóki Melba;Bozóki;Melba;1931.11.16;;2173;Kartal;Csalogány utca 22-24;1;0;0;+36(70)317-21-21;bozoki.melba@aim.com
+;Soltész Maximusz;Soltész;Maximusz;1931.10.16;;2700;Cegléd;Széchenyi István sétány 4;1;0;0;+36(30)457-13-94;soltesz.maximusz@gmx.us
+;Pozsár Izabel;Pozsár;Izabel;1931.10.14;;5310;Kisújszállás;Fürdőház  utca 9;1;0;0;+36(20)824-25-50;pozsar.izabel@gmail.com
+;Piller Jutka;Piller;Jutka;1931.07.23;;1201;Budapest;Kossuth Lajos  utca 11.;1;0;0;+36(70)276-65-46;piller.jutka@freemail.hu
+;Puskás Zelmira;Puskás;Zelmira;1931.04.12;;8900;Zalaegerszeg;Prekop Ferenc utca 14;1;0;0;+36(20)305-19-38;puskas.zelmira@citromail.hu
+;Bezzeg Konor;Bezzeg;Konor;1931.04.07;;5400;Mezőtúr;Dobozi  utca 39;1;0;0;+36(20)628-22-55;bezzeg.konor@outlook.com
+;Pintér Árnika;Pintér;Árnika;1931.04.05;;7570;Barcs;Diófás utca 73;1;0;0;+36(30)257-62-86;pinter.arnika@gmail.com
+;Romhányi Ernesztin;Romhányi;Ernesztin;1931.03.24;;2942;Nagyigmánd;Fagyöngy utca 32 1/6;1;0;0;+36(30)676-74-70;romhanyi.ernesztin@freemail.hu
+;Suki Bogáta;Suki;Bogáta;1931.03.21;;1034;Budapest;Gyulafehérvári utca 16/1;1;0;0;+36(20)759-73-39;suki.bogata@icloud.com
+;Nyikos Ében;Nyikos;Ében;1931.02.22;;9200;Mosonmagyaróvár;Rávágy tér 16/a;1;0;0;+36(70)509-92-67;nyikos.eben@citromail.hu
+;Gyurkovics Kolja;Gyurkovics;Kolja;1931.02.08;;1026;Budapest;Fő út 289;1;0;0;+36(20)151-50-43;gyurkovics.kolja@gmail.com
+;Mihalovics Cinka;Mihalovics;Cinka;1931.01.17;;1047;Budapest;balsai utca 2;1;0;0;+36(30)901-80-67;mihalovics.cinka@gmail.com
+;Szoboszlai Jokébed;Szoboszlai;Jokébed;1931.01.14;;2840;Oroszlány;Látókép utca 20;1;0;0;+36(70)604-13-90;szoboszlai.jokebed@gmail.com
+;Kuti Fébé;Kuti;Fébé;1930.12.22;;3348;Szilvásvárad;Árpád Fejedelem útja 8;1;0;0;+36(20)752-43-54;kuti.febe@aim.com
+;Dóczi Tia;Dóczi;Tia;1930.11.09;;2120;Dunakeszi;Thirring Gusztáv  utca 16;1;0;0;+36(30)638-59-51;doczi.tia@gmx.us
+;Vékony Ilonka;Vékony;Ilonka;1930.11.09;;4242;Hajdúhadház;Klapka György  utca 24 6/2;1;0;0;+36(30)215-34-71;vekony.ilonka@gmail.com
+;Bazsó Taddeus;Bazsó;Taddeus;1930.10.09;;2144;Kerepes;Hétvezér utca 5/a;1;0;0;+36(70)630-22-60;bazso.taddeus@gmail.com
+;Czeglédi Sólyom;Czeglédi;Sólyom;1930.09.13;;1224;Budapest;Füzes utca 56;1;0;0;+36(30)637-67-10;czegledi.solyom@yandex.com
+;Dani Sarlott;Dani;Sarlott;1930.08.10;;8978;Belsősárd;Gogol utca 25 7/15;1;0;0;+36(30)792-34-42;dani.sarlott@gmail.com
+;Bakos Nasszer;Bakos;Nasszer;1930.08.07;;2100;Gödöllő;Szemere utca 4;1;0;0;+36(20)164-67-16;bakos.nasszer@citromail.hu
+;Aranyos Nedda;Aranyos;Nedda;1930.07.23;;2230;Gyömrő;Félegyházi út 36;1;0;0;+36(70)202-68-17;aranyos.nedda@yandex.com
+;Ráduly Annarita;Ráduly;Annarita;1930.05.28;;3421;Mezőnyárád;Porgányi  utca 35;1;0;0;+36(20)153-57-73;raduly.annarita@gmail.com
+;Csáki Larissza;Csáki;Larissza;1930.01.16;;2300;Ráckeve;Karczag László utca 7 1/8;1;0;0;+36(70)874-38-41;csaki.larissza@zoho.com
+;Hajnal Anabella;Hajnal;Anabella;1929.12.11;;2400;Dunaújváros;Bicskei  utca 1.;1;0;0;+36(70)200-20-80;hajnal.anabella@gmail.com
+;Patkó Eutímia;Patkó;Eutímia;1929.12.06;;2400;Dunaújváros;Ipar  utca 12;1;0;0;+36(70)446-87-43;patko.eutimia@citromail.hu
+;Putnoki Rona;Putnoki;Rona;1929.11.24;;9025;Győr;Selyem utca 1 4/82;1;0;0;+36(20)960-54-91;putnoki.rona@outlook.com
+;Szalai Fedor;Szalai;Fedor;1929.11.06;;2086;Tinnye;Attila utca 6;1;0;0;+36(70)865-18-45;szalai.fedor@outlook.com
+;Madarász Damarisz;Madarász;Damarisz;1929.10.05;;6000;Kecskemét;Reményi ede utca 3/Csengő:28;1;0;0;+36(30)383-83-78;madarasz.damarisz@citromail.hu
+;Kövér Adolf;Kövér;Adolf;1929.07.12;;3526;Miskolc;Béke  utca 20.;1;0;0;+36(70)612-29-24;kover.adolf@aol.com
+;Gelencsér Leon;Gelencsér;Leon;1929.06.27;;5309;Berekfürdő;Bláthy Ottó  utca 4 3/11;1;0;0;+36(30)589-94-11;gelencser.leon@gmx.us
+;Gyetvai Nóva;Gyetvai;Nóva;1929.05.05;;2310;Szigetszentmiklós;Tárna  út 4 1/32;1;0;0;+36(20)134-73-38;gyetvai.nova@freemail.hu
+;Sipos Dzsenisz;Sipos;Dzsenisz;1929.01.24;;2096;Üröm;Kossuth út  14;1;0;0;+36(20)619-97-88;sipos.dzsenisz@protonmail.com
+;Suhajda Csikó;Suhajda;Csikó;1928.12.28;;3531;Miskolc;Áfonyás utca 10 2/3;1;0;0;+36(30)747-88-39;suhajda.csiko@outlook.com
+;Dorogi Júliusz;Dorogi;Júliusz;1928.12.02;;1108;Budapest;Kőrösi Csoma Sándor utca 64.;1;0;0;+36(70)914-98-35;dorogi.juliusz@outlook.com
+;Bártfai Zaman;Bártfai;Zaman;1928.10.14;;3700;Kazincbarcika;Fő út 1;1;0;0;+36(70)229-27-57;bartfai.zaman@gmail.com
+;Kőszegi Jácinta;Kőszegi;Jácinta;1928.08.18;;2011;Budakalász;Szegfű utca 6/A;1;0;0;+36(30)260-94-62;koszegi.jacinta@gmail.com
+;Dóra Áldás;Dóra;Áldás;1928.07.23;;8060;Mór;Egry József utca 25;1;0;0;+36(20)298-24-57;dora.aldas@aol.com
+;Szűcs Lana;Szűcs;Lana;1928.05.07;;8456;Noszlop;Petz Ferenc utca 24 4/42;1;0;0;+36(30)952-84-35;szucs.lana@gmail.com
+;Kertai Rajmonda;Kertai;Rajmonda;1928.05.01;;7150;Bonyhád;Asbóth József utca 26;1;0;0;+36(70)605-70-70;kertai.rajmonda@citromail.hu
+;Tüske Szixtusz;Tüske;Szixtusz;1928.04.15;;3385;Tiszanána;Kertész  utca 20;1;0;0;+36(20)831-64-42;tuske.szixtusz@freemail.hu
+;Katona Bebóra;Katona;Bebóra;1928.02.13;;8142;Úrhida;Tűzliliom utca 31 fsz/4;1;0;0;+36(30)931-13-33;katona.bebora@gmx.com
+;Bacsó Csongor;Bacsó;Csongor;1928.02.07;;2051;Biatorbágy;Páskomdülő dűlő 5878;1;0;0;+36(70)519-83-11;bacso.csongor@gmail.com
+;Hermann Nilsz;Hermann;Nilsz;1928.01.17;;1139;Budapest;Baross  utca 39 7/29;1;0;0;+36(20)280-97-64;hermann.nilsz@gmail.com
+;Sümegi Elígiusz;Sümegi;Elígiusz;1928.01.07;;3759;Aggtelek;Dessewffy Arisztid utca 18. 3/2;1;0;0;+36(30)824-41-86;sumegi.eligiusz@citromail.hu
+;Jáger Sztella;Jáger;Sztella;1927.12.14;;2760;Nagykáta;Várdomb  utca  14;1;0;0;+36(70)683-90-90;jager.sztella@outlook.com
+;Ágoston Kósa;Ágoston;Kósa;1927.11.18;;5100;Jászberény;Virágos  utca 19.;1;0;0;+36(30)615-16-69;agoston.kosa@aol.com
+;Zakar Rikárdó;Zakar;Rikárdó;1927.07.01;;2336;Dunavarsány;Úrihegy tanya 103/3;1;0;0;+36(20)787-88-34;zakar.rikardo@freemail.hu
+;Koch Aira;Koch;Aira;1927.06.23;;3836;Baktakék;Attila utca 1;1;0;0;+36(30)944-26-40;koch.aira@yahoo.com
+;Bedő Oven;Bedő;Oven;1927.05.24;;8700;Marcali;Kálvin tér 10-12;1;0;0;+36(20)737-45-80;bedo.oven@gmail.com
+;Mácsai Armella;Mácsai;Armella;1927.05.17;;9088;Bakonypéterd;Hajós Alfréd utca 4 9/1;1;0;0;+36(20)461-44-79;macsai.armella@freemail.hu
+;Leskó Klió;Leskó;Klió;1927.02.27;;4200;Hajdúszoboszló;Döbrei János út 199;1;0;0;+36(70)485-43-89;lesko.klio@aol.com
+;Meggyesi Nasztázia;Meggyesi;Nasztázia;1927.01.12;;5530;Vésztő;Füges sor 6;1;0;0;+36(20)374-42-55;meggyesi.nasztazia@gmail.com
+;Várszegi Zenge;Várszegi;Zenge;1927.01.08;;6300;Kalocsa;Sarkadi Imre Utca 69.;1;0;0;+36(30)184-45-17;varszegi.zenge@outlook.com
+;Rózsahegyi Hina;Rózsahegyi;Hina;1927.01.02;;6500;Baja;Béla út 9;1;0;0;+36(20)448-38-77;rozsahegyi.hina@gmx.us
+;Vas Mia;Vas;Mia;1926.12.12;;3000;Hatvan;Fő  utca 59;1;0;0;+36(20)496-35-57;vas.mia@gmx.us
+;Barcza Hildelita;Barcza;Hildelita;1926.09.18;;1147;Budapest;Koren István köz 10;1;0;0;+36(70)910-79-56;barcza.hildelita@gmail.com
+;Lipcsei Hajnácska;Lipcsei;Hajnácska;1926.08.08;;1221;Budapest;Lujza utca 15 1/13;1;0;0;+36(70)390-82-77;lipcsei.hajnacska@aim.com
+;Hornyák Burak;Hornyák;Burak;1926.07.10;;1113;Budapest;Széchenyi István utca 11;1;0;0;+36(30)948-56-16;hornyak.burak@gmail.com
+;Szórádi Benediktusz;Szórádi;Benediktusz;1926.07.05;;3580;Tiszaújváros;Bajcsy-Zsilinszky telep 7;1;0;0;+36(70)866-89-50;szoradi.benediktusz@outlook.com
+;Balatoni Kozett;Balatoni;Kozett;1926.06.21;;6100;Kiskunfélegyháza;Késmárki utca 2 (postán maradó);1;0;0;+36(20)443-69-81;balatoni.kozett@gmail.com
+;Temesvári Ilma;Temesvári;Ilma;1926.05.03;;8161;Ősi;Újlak  utca 4 Fszt/1;1;0;0;+36(70)191-65-87;temesvari.ilma@gmail.com
+;Moldován Platina;Moldován;Platina;1926.03.08;;5900;Orosháza;Vasút utca 64;1;0;0;+36(20)311-20-86;moldovan.platina@zoho.com
+;Suha Lenita;Suha;Lenita;1926.01.10;;8146;Jenő;Tímár utca 7 1/1;1;0;0;+36(70)884-70-83;suha.lenita@outlook.com
+;Kállai Auguszt;Kállai;Auguszt;1925.12.05;;8330;Sümeg;Hunyadi János utca 71;1;0;0;+36(30)202-52-85;kallai.auguszt@outlook.com
+;Gyárfás Krizanta;Gyárfás;Krizanta;1925.11.23;;8000;Székesfehérvár;Törökbálinti  út 6 1/6;1;0;0;+36(30)450-16-73;gyarfas.krizanta@gmail.com
+;Györfi Psziché;Györfi;Psziché;1925.11.20;;1141;Budapest;Úrrét  tanya 320/B;1;0;0;+36(30)627-88-79;gyorfi.psziche@outlook.com
+;Gyulai Bonni;Gyulai;Bonni;1925.11.15;;2457;Adony;Sályi István utca 12 fsz./1;1;0;0;+36(70)728-87-79;gyulai.bonni@gmail.com
+;Zsigó Herold;Zsigó;Herold;1925.10.15;;2214;Pánd;Árpád fejedelem utca 7./A/2;1;0;0;+36(30)922-31-91;zsigo.herold@gmail.com
+;Rafael Ámos;Rafael;Ámos;1925.10.05;;4130;Derecske;Kiss János utca 12;1;0;0;+36(20)538-34-76;rafael.amos@gmail.com
+;Deme Talita;Deme;Talita;1925.08.23;;1184;Budapest;Kossuth Ferenc utca 38 3/7;1;0;0;+36(20)171-96-93;deme.talita@citromail.hu
+;Márki Zafira;Márki;Zafira;1925.05.20;;2330;Dunaharaszti;Fő út .;1;0;0;+36(70)455-47-23;marki.zafira@zoho.com
+;Lugosi Melinda;Lugosi;Melinda;1925.05.12;;2800;Tatabánya;István utca 37;1;0;0;+36(20)336-67-34;lugosi.melinda@protonmail.com
+;Zámbó Toma;Zámbó;Toma;1925.03.16;;2400;Dunaújváros;Fő  utca 54;1;0;0;+36(20)768-34-97;zambo.toma@protonmail.com
+;Koller Róza;Koller;Róza;1925.03.11;;2225;Üllő;Móra Ferenc utca 19.;1;0;0;+36(70)594-18-51;koller.roza@gmail.com
+;Várhegyi Delila;Várhegyi;Delila;1925.02.01;;8900;Zalaegerszeg;Pázsit utca 16;1;0;0;+36(20)347-83-73;varhegyi.delila@citromail.hu
+;Géczi Norbert;Géczi;Norbert;1925.01.21;;2220;Vecsés;Bajcsy-Zsilinszky utca 16 2/7;1;0;0;+36(20)572-97-53;geczi.norbert@citromail.hu
+;Huszti Szofinett;Huszti;Szofinett;1924.12.09;;5536;Körösújfalu;Erdő  utca 17;1;0;0;+36(20)863-17-78;huszti.szofinett@outlook.com
+;Bánkuti Iglice;Bánkuti;Iglice;1924.12.08;;5553;Kondoros;Szent László király utca 4;1;0;0;+36(70)380-47-12;bankuti.iglice@gmail.com
+;Makula Tibor;Makula;Tibor;1924.11.27;;1144;Budapest;Móra Ferenc utca 1.;1;0;0;+36(30)231-40-73;makula.tibor@zoho.com
+;Makai Balassa;Makai;Balassa;1924.10.03;;3934;Tolcsva;Székely  sor  21/A 6./627;1;0;0;+36(70)339-82-77;makai.balassa@gmail.com
+;Marosi Betti;Marosi;Betti;1924.08.21;;3556;Kisgyőr;Kápolna  út 38;1;0;0;+36(30)503-37-78;marosi.betti@freemail.hu
+;Gáti Zsüliett;Gáti;Zsüliett;1924.07.09;;2800;Tatabánya;Egyetértés utca 6;1;0;0;+36(70)314-46-76;gati.zsuliett@gmail.com
+;Szakács Ozsvát;Szakács;Ozsvát;1924.06.22;;1221;Budapest;Kisvasút  út 4;1;0;0;+36(20)252-34-26;szakacs.ozsvat@protonmail.com
+;Rostás Amál;Rostás;Amál;1924.04.25;;4494;Kékcse;Hajnal utca 8 fsz./2;1;0;0;+36(30)406-23-30;rostas.amal@zoho.com
+;Böszörményi Ambos;Böszörményi;Ambos;1924.01.27;;5900;Orosháza;Dankó Pista utca 17. 10/4;1;0;0;+36(70)142-87-61;boszormenyi.ambos@gmail.com
+;Ónodi Malina;Ónodi;Malina;1923.09.26;;5920;Csorvás;Ballószög tanya 162/b;1;0;0;+36(70)984-84-48;onodi.malina@gmail.com
+;Gyulai Kéra;Gyulai;Kéra;1923.08.10;;6600;Szentes;Vajaskúti dűlő 40.;1;0;0;+36(70)312-30-10;gyulai.kera@gmail.com
+;Pála Asztor;Pála;Asztor;1923.07.10;;8946;Tófej;Zalán  utca 30;1;0;0;+36(70)692-46-34;pala.asztor@gmail.com
+;Erdősi Ametiszt;Erdősi;Ametiszt;1923.07.02;;2030;Érd;Csend utca 1;1;0;0;+36(30)306-61-17;erdosi.ametiszt@gmail.com
+;Bezzeg Ilus;Bezzeg;Ilus;1923.04.14;;4700;Mátészalka;Erkel Ferenc utca 2/A 1/2;1;0;0;+36(30)986-69-56;bezzeg.ilus@gmail.com
+;Fridrich Kamil;Fridrich;Kamil;1923.01.04;;1082;Budapest;Lant utca 8.;1;0;0;+36(30)354-82-57;fridrich.kamil@aim.com
+;Péli Zsorzsett;Péli;Zsorzsett;1922.11.28;;1149;Budapest;Kende Kanuth utca 68;1;0;0;+36(70)669-66-17;peli.zsorzsett@aol.com
+;Erdei Juszuf;Erdei;Juszuf;1922.11.12;;2310;Szigetszentmiklós;Falujárók útja 5/4 1/8;1;0;0;+36(30)712-25-30;erdei.juszuf@gmail.com
+;Mikó Adrienna;Mikó;Adrienna;1922.09.17;;3529;Miskolc;Szamos utca 98;1;0;0;+36(30)880-46-64;miko.adrienna@freemail.hu
+;Széles Mauríció;Széles;Mauríció;1922.07.17;;2074;Perbál;Jókai ter 3 2/7;1;0;0;+36(70)406-73-47;szeles.mauricio@gmail.com
+;Turcsányi Ajnó;Turcsányi;Ajnó;1922.07.16;;2336;Dunavarsány;Koch Aladár utca  15 lcs.;1;0;0;+36(20)677-70-67;turcsanyi.ajno@outlook.com
+;Bana Balambér;Bana;Balambér;1922.06.15;;3700;Kazincbarcika;Andrássy út 186.;1;0;0;+36(20)653-42-51;bana.balamber@gmail.com
+;Almási Apol;Almási;Apol;1922.06.07;;5137;Jászkisér;Berzsenyi Dániel utca 8;1;0;0;+36(30)231-88-51;almasi.apol@gmail.com
+;Józsa Erzsébet;Józsa;Erzsébet;1922.02.07;;1096;Budapest;Mérföldkő  utca 1.;1;0;0;+36(70)843-13-89;jozsa.erzsebet@gmail.com
+;Bagoly Cecilián;Bagoly;Cecilián;1922.02.03;;2400;Dunaújváros;Alső erdősor utca 20. 3/4.;1;0;0;+36(20)943-37-10;bagoly.cecilian@gmail.com
+;Mihalovics Brett;Mihalovics;Brett;1922.01.14;;1119;Budapest;Dózsa  major 19/8;1;0;0;+36(70)728-76-40;mihalovics.brett@freemail.hu
+;Ladányi Böngér;Ladányi;Böngér;1922.01.12;;1214;Budapest;Bicskei  utca 17;1;0;0;+36(30)517-50-89;ladanyi.bonger@gmail.com
+;Szúnyog Larcia;Szúnyog;Larcia;1921.12.08;;4002;Debrecen;Kossuth utca 61-63 2/17;1;0;0;+36(30)719-71-92;szunyog.larcia@gmx.us
+;Ludányi Róza;Ludányi;Róza;1921.11.01;;4090;Polgár;Kassai utca 41 fsz./1.;1;0;0;+36(30)135-46-24;ludanyi.roza@protonmail.com
+;Kecskés Tomázia;Kecskés;Tomázia;1921.07.21;;2234;Maglód;Pozsonyi utca 4/A 4/19;1;0;0;+36(70)435-75-58;kecskes.tomazia@gmail.com
+;Barsi Linett;Barsi;Linett;1921.05.02;;8900;Zalaegerszeg;Bíró Lajos  utca 14;1;0;0;+36(30)618-46-25;barsi.linett@freemail.hu
+;Filó Balár;Filó;Balár;1921.04.25;;1152;Budapest;Nemesbükk utca 20.;1;0;0;+36(20)269-36-74;filo.balar@freemail.hu
+;Román Ugocsa;Román;Ugocsa;1921.04.23;;2400;Dunaújváros;Mártírok utca 30;1;0;0;+36(30)384-36-80;roman.ugocsa@gmail.com
+;Juhos Erátó;Juhos;Erátó;1921.01.25;;4031;Debrecen;Sió utca 20.dec;1;0;0;+36(30)156-70-25;juhos.erato@gmail.com
+;Bicskei Szibell;Bicskei;Szibell;1921.01.22;;4700;Mátészalka;Himző utca 5 8/47;1;0;0;+36(30)585-53-85;bicskei.szibell@gmail.com
+;Turai Polixénia;Turai;Polixénia;1921.01.10;;5600;Békéscsaba;Széchényi István utca 11;1;0;0;+36(70)250-38-59;turai.polixenia@gmail.com
+;Váczi Jákim;Váczi;Jákim;1921.01.08;;7400;Kaposvár;Kolozsvári utca 11;1;0;0;+36(20)354-20-83;vaczi.jakim@icloud.com
+;Bódis Sárlott;Bódis;Sárlott;1920.12.24;;2233;Ecser;Rétköz utca 12. 5/18.;1;0;0;+36(30)442-87-91;bodis.sarlott@yahoo.com
+;Szőlősi Isméria;Szőlősi;Isméria;1920.12.17;;2370;Dabas;Feher hegy  utca 90/a;1;0;0;+36(30)871-98-89;szolosi.ismeria@gmail.com
+;Pálfi Fadett;Pálfi;Fadett;1920.12.06;;3884;Boldogkőújfalu;Ságvári  utca 12;1;0;0;+36(20)369-91-97;palfi.fadett@gmx.us
+;Váradi Jelina;Váradi;Jelina;1920.10.02;;5700;Gyula;Barátság út 21 fszt./3;1;0;0;+36(30)555-47-48;varadi.jelina@gmail.com
+;Bodai Peggi;Bodai;Peggi;1920.08.19;;1039;Budapest;Vajda utca 24 A ép. 4/11;1;0;0;+36(70)463-95-36;bodai.peggi@gmail.com
+;Mile Dalia;Mile;Dalia;1920.08.10;;4600;Kisvárda;Nagy  utca.  80;1;0;0;+36(20)194-62-93;mile.dalia@aol.com
+;Juhos Margarét;Juhos;Margarét;1920.07.02;;6724;Szeged;Péterhegyi köz 21;1;0;0;+36(30)685-51-26;juhos.margaret@protonmail.com
+;Kanyó Oldamur;Kanyó;Oldamur;1920.06.06;;2040;Budaörs;Attila utca 5;1;0;0;+36(20)398-74-64;kanyo.oldamur@freemail.hu
+;Gecse Bettina;Gecse;Bettina;1920.05.20;;5350;Tiszafüred;Leiningen Károly utca 3;1;0;0;+36(30)157-67-69;gecse.bettina@gmail.com
+;Angyal Tormás;Angyal;Tormás;1920.04.28;;6726;Szeged;Bocskay utca 1.;1;0;0;+36(20)357-86-69;angyal.tormas@gmail.com
+;Polgár Oszkár;Polgár;Oszkár;1920.03.12;;1115;Budapest;Nomád utca 19;1;0;0;+36(30)950-20-65;polgar.oszkar@gmail.com
+;Incze Tadeusz;Incze;Tadeusz;1920.02.17;;8000;Székesfehérvár;Bem József utca 40;1;0;0;+36(20)473-80-96;incze.tadeusz@yahoo.com
+;Rátkai Adriánó;Rátkai;Adriánó;1920.01.21;;1191;Budapest;Széchenyi utca 25.;1;0;0;+36(70)112-44-41;ratkai.adriano@freemail.hu
+;Peugeot Fábián;Peugeot;Fábián;2000.01.01;;1113;Budapest;Jászóvár utca 1.;0;1;0;+36(1)361-4415;ertekesites@peugeotfabian.hu
+;Opel Dabas;Opel;Dabas;2000.01.01;;2370;Dabas;Vásártér utca 1.;0;1;0;+36(70)450-0606;ertekesites@opeldabas.hu
+;Honda Szallerbeck;Honda;Szallerbeck;2000.01.01;;1185;Budapest;Üllői út 812.;0;1;0;+36(1)291-5555;info@honda-szallerbeck.hu
+;Pappas Auto;Pappas;Auto;2000.01.01;;1117;Budapest;Hunyadi János út 6.;0;1;0;+36(1)463-7400;info@pappas.hu
+;Suzuki Géro;Suzuki;Géro;2000.01.01;;1173;Budapest;Pesti út 213.;0;1;0;+36(1)257-4021;info@suzukigero.hu
+;Toyota Hering;Toyota;Hering;2000.01.01;;5100;Jászberény;Nagykátai út 19.;0;1;0;+36(57)415-038;toyota@toyotahering.hu
+;Európa Sofőr;Európa;Sofőr;2000.01.01;;1117;Budapest;Nádorliget utca 8/B fsz.2;0;0;1;+36(1)786-0117;info@sofor.eu

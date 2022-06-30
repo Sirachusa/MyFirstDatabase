@@ -1,0 +1,7 @@
+﻿PaymentMethodID;PaymentMethodName;PaymentMethodEng
+;Csoportos beszedés;Group Collect
+;Átutalás;Transfer
+;Bankkártyás fizetés;CreditCard
+;8 napos átutalás;8-days transfer
+;30 napos átutalás;30-days transfer
+;Készpénz;Cash

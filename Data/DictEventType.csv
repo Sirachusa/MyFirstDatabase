@@ -1,0 +1,6 @@
+﻿EventTypeID;DeliveryTypeName;DeliveryTypeNameEng;EventTypeCode
+;Rendelhető;Can Be Ordered;R
+;Beszerzés alatt;Under Procurement;B
+;Készleten;In Stock;K
+;Folyamatban;In Progress;F
+;Megérkezett;Arrived;M

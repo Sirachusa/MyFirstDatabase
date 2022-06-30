@@ -1,0 +1,37 @@
+﻿ServPointID;ServPointName;ServPointPostalCode;ServPointCity;ServPointAddress;ServPointPhone;ServTypeID;OpenTime;CloseTime
+;Wallis Motor Duna;1097;Budapest;Könyves Kálmán körút 5.;+36(20)333-63-03;1;8;17
+;Wallis Motor Duna;1097;Budapest;Könyves Kálmán körút 5.;+36(20)333-63-03;2;8;17
+;Wallis Motor Duna;1097;Budapest;Könyves Kálmán körút 5.;+36(20)333-63-03;3;8;17
+;Wallis Motor Duna;1097;Budapest;Könyves Kálmán körút 5.;+36(20)333-63-03;4;8;17
+;Wallis Motor Pest;1143;Budapest;Hungária körút 95.;+36(20)333-43-03;5;8;17
+;Wallis Motor Pest;1143;Budapest;Hungária körút 95.;+36(20)333-43-03;6;8;17
+;Dacia Shiller;1142;Budapest;Tengerszem utca 59/a;+36(20)858-04-90;1;8;16
+;Dacia Shiller;1142;Budapest;Tengerszem utca 59/a;+36(20)858-04-90;2;8;16
+;Dacia Shiller;1142;Budapest;Tengerszem utca 59/a;+36(20)858-04-90;3;8;16
+;Dacia Kelenföld;1115;Budapest;Kelenföldi út 1-13;+36(1)246-3900;4;8;16
+;Dacia Kelenföld;1115;Budapest;Kelenföldi út 1-13;+36(1)246-3900;5;8;16
+;Dacia Shiller;1142;Budapest;Tengerszem utca 59/a;+36(20)858-04-90;6;8;16
+;Ford Solymár;1152;Budapest;Városkapu utca 11;+36(1)265-5155;1;7;17
+;Ford Solymár;1152;Budapest;Városkapu utca 11;+36(1)265-5155;2;7;17
+;Ford Solymár;1152;Budapest;Városkapu utca 11;+36(1)265-5155;3;7;17
+;Ford Solymár;1152;Budapest;Városkapu utca 11;+36(1)265-5155;4;7;17
+;Ford Solymár;1152;Budapest;Városkapu utca 11;+36(1)265-5155;5;7;17
+;Ford Solymár;1152;Budapest;Városkapu utca 11;+36(1)265-5155;6;7;17
+;Carimpex Autószervíz;1106;Budapest;Maglódi út 6;+36(30)451-61-70;1;6;14
+;Carimpex Autószervíz;1106;Budapest;Maglódi út 6;+36(30)451-61-70;2;6;14
+;Carimpex Autószervíz;1106;Budapest;Maglódi út 6;+36(30)451-61-70;3;6;14
+;Carimpex Autószervíz;1106;Budapest;Maglódi út 6;+36(30)451-61-70;4;6;14
+;Carimpex Autószervíz;1106;Budapest;Maglódi út 6;+36(30)451-61-70;5;6;14
+;Carimpex Autószervíz;1106;Budapest;Maglódi út 6;+36(30)451-61-70;6;6;14
+;Véműhely Márkafüggetlen Autószervíz;1149;Budapest;Egressy út 25.;+36(20)418-30-06;1;7;18
+;Véműhely Márkafüggetlen Autószervíz;1149;Budapest;Egressy út 25.;+36(20)418-30-06;2;7;18
+;Véműhely Márkafüggetlen Autószervíz;1149;Budapest;Egressy út 25.;+36(20)418-30-06;3;7;18
+;Véműhely Márkafüggetlen Autószervíz;1149;Budapest;Egressy út 25.;+36(20)418-30-06;4;7;18
+;Véműhely Márkafüggetlen Autószervíz;1149;Budapest;Egressy út 25.;+36(20)418-30-06;5;7;18
+;Véműhely Márkafüggetlen Autószervíz;1149;Budapest;Egressy út 25.;+36(20)418-30-06;6;7;18
+;Autohock Service Kft.;1022;Budapest;Fillér utca 77;+36(1)326-68-47;1;7;14
+;Autohock Service Kft.;1022;Budapest;Fillér utca 77;+36(1)326-68-47;2;7;14
+;Autohock Service Kft.;1022;Budapest;Fillér utca 77;+36(1)326-68-47;3;7;14
+;Autohock Service Kft.;1022;Budapest;Fillér utca 77;+36(1)326-68-47;4;7;14
+;Autohock Service Kft.;1022;Budapest;Fillér utca 77;+36(1)326-68-47;5;7;14
+;Autohock Service Kft.;1022;Budapest;Fillér utca 77;+36(1)326-68-47;6;7;14

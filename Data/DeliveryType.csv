@@ -1,0 +1,6 @@
+﻿DeliveryTypeID;DeliveryName;DeliveryNameEng;DeliveryCode;Price
+;Telephelyes átvétel;On Site;TA;0
+;Háztól-házig;House to House;HH;40000
+;Sofőrszolgálat;Chauffeur Service;SS;30000
+;Címre;To Address;CS;20000
+;Trailer;Trailer;TR;80000

@@ -1,0 +1,7 @@
+﻿ServTypeID;ServTypeName;ServTypeNameEng;ServRate
+;Kötelező szerviz;Mandatory Service;2
+;Gumiabroncs csere / Szezonális;Seasonal Tyre Change;2
+;Gumiabroncs csere / Defekt;Tyre change (defect);1
+;Klíma feltöltés;Air Conditioning charge;1
+;Karosszéria;Body;
+;Elektronika;Electronics;

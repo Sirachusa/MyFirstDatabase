@@ -1,0 +1,10 @@
+﻿ContractTypeID;ContractTypeName;ContractTypeNameEng;Months;Multiplier
+;Tartós bérlet (5év);Leasing - 5 years;60;0.8
+;Tartós bérlet (3év);Leasing - 3 years;36;0.9
+;Rövidtávú bérlet (12 hónap);Flexible Leasing - 12 months;12;1.2
+;Rövidtávú bérlet (6 hónap);Flexible Leasing - 6 months;6;1.5
+;Operatív lízing (1 év);Operative leasing - 1 year;12;1.1
+;Operatív lízing (2 év);Operative leasing - 2 years;24;0.95
+;Nyílt végű szerződés (újító);Open-ended contract (newable);24;1.0
+;Zárt végű szerződés (5 év);Close-ended contract - 5 years;60;0.8
+;Zárt végű szerződés (3 év);Close-ended contract - 3 years;36;0.9
